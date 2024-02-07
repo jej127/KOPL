@@ -8,9 +8,9 @@ You first need to obtain SISG(jm) background word embeddings which you can get [
 The next step is to construct the IPA sequence for each word in the vocabulary of SISG(jm).
 Run the following codes to do this.
 ```
-# Arrange words in a text file.
+# Arrange words in a text file
 python extract_vocab.py
 
-# Construct IPA sequences.
+# Construct IPA sequences
 python ./ipa_convert/create_ipa.py
 ```
