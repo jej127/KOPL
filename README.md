@@ -6,6 +6,7 @@ You first need to download SISG(jm) background word embeddings which you can get
 
 ## Prepare IPA data
 The next step is to construct the IPA sequence for each word in the vocabulary of SISG(jm).
+
 Run the following codes to do this.
 ```
 # Arrange words in a text file
