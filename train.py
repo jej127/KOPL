@@ -9,7 +9,7 @@ from loss import registry as loss_f
 from loader import registry as loader
 from model import registry as Producer
 from evaluate import overall
-from utils import add_tokens_, load_ipa_
+from utils import add_tokens, load_ipa
 import random
 import numpy as np
 from time import time
@@ -27,7 +27,7 @@ parser.add_argument('-encoder_layer', help='the number of layer of the encoder',
 parser.add_argument('-encoder_layer_ipa', help='the number of layer of the encoder', type=int, default=2)
 parser.add_argument('-merge', help='merge pam and attention layer', type=bool, default=True)
 parser.add_argument('-att_head_num', help='the number of attentional head for the pam encoder', type=int, default=2)
-parser.add_argument('-loader_type', help='simple, aug, hard', type=str, default='aug_ipa')
+parser.add_argument('-loader_type', help='simple, aug', type=str, default='aug_ipa')
 parser.add_argument('-loss_type', help='mse, ntx, align_uniform', type=str, default='ntx')
 parser.add_argument('-input_type', help='mixed, char, sub, jamo', type=str, default='mixed')
 parser.add_argument("-use_ipa", help="Whether to use IPA", action='store_true')
@@ -40,8 +40,6 @@ parser.add_argument('-hidden_dim', help='the dimension of hidden layer', type=in
 parser.add_argument('-vocab_path', help='the vocabulary used for training and inference', type=str, default='./data/bert_vocab.txt')
 parser.add_argument('-ipa_path', help='the ipa used for training and inference', type=str, default='./words/ipas.txt')
 parser.add_argument('-output_path', help='the path to save models', type=str, default='./output')
-parser.add_argument('-hard_neg_numbers', help='the number of hard negatives in each mini-batch', type=int, default=3)
-parser.add_argument('-hard_neg_path', help='the file path of hard negative samples ', type=str, default='data/hard_neg_samples.txt')
 parser.add_argument('-vocab_size', help='the size of the vocabulart', type=int, default=0)
 parser.add_argument("-seed", help="Seed for randomized elements in the training", type=int, default=None)
 parser.add_argument("-probs", help='probability of sampling', type=float, default=[0.16,0.16,0.16,0.16,0.36], nargs='+')
@@ -73,10 +71,10 @@ def main():
 
     TOKENIZER = AutoTokenizer.from_pretrained("klue/bert-base")
     if args.use_ipa:
-        word_to_ipa, ipa_set = load_ipa_(args.ipa_path)
+        word_to_ipa, ipa_set = load_ipa(args.ipa_path)
     else:
         word_to_ipa, ipa_set = None, []
-    TOKENIZER = add_tokens_(TOKENIZER)
+    TOKENIZER = add_tokens(TOKENIZER)
 
     vocab_size = len(TOKENIZER)
     args.vocab_size = vocab_size
@@ -118,17 +116,11 @@ def main():
             if mask_ipa is not None: 
                 aug_repre_ids_ipa = aug_repre_ids_ipa.cuda()
                 mask_ipa = mask_ipa.cuda()
-            aug_embeddings, embeddings = model(aug_repre_ids, mask, aug_repre_ids_ipa, mask_ipa)
+            aug_embeddings, _ = model(aug_repre_ids, mask, aug_repre_ids_ipa, mask_ipa)
 
             # calculate loss
-            if args.use_ipa:
-                loss = criterion(oririn_repre, aug_embeddings) #+ args.alpha*(criterion(oririn_repre, embeddings[0]) + criterion(oririn_repre, embeddings[1]))
-            else:
-                loss = criterion(oririn_repre, aug_embeddings)
+            loss = criterion(oririn_repre, aug_embeddings)
 
-            # print('-'*10)
-            # print(oririn_repre.size())
-            # print(aug_embeddings.size())
             # backward
             loss.backward()
             optimizer.step()
@@ -141,22 +133,11 @@ def main():
         print('elapsed time = %.1f second' % (time()-s_time))
 
         if (e) % 1 == 0 and e >= (args.min_epoch_to_save-1):
-            #model_path = './output/k_love/model_{a}.pt'.format(a=e+1)
             if args.use_ipa: 
                 model_path = os.path.join(args.output_path, 'model_{a}_{b}_{c}.pt'.format(a=e+1,b=args.seed,c=args.lamda))
             else:
                 model_path = os.path.join(args.output_path, 'model_{a}_{b}.pt'.format(a=e+1,b=args.seed))
             torch.save(model.state_dict(), model_path)
-            # if args.use_ipa:
-            #     current_lamda = args.lamda
-            #     args.lamda=1.0
-            #     print('   ------------------- Phoneme')
-            #     overall(args, model_path=model_path, tokenizer=TOKENIZER)
-            #     args.lamda=0.0
-            #     print('   ------------------- Surface')
-            #     overall(args, model_path=model_path, tokenizer=TOKENIZER)
-            #     args.lamda=current_lamda
-            #     print('   ------------------- Mixup')
             scores_list = overall(args, model_path=model_path, tokenizer=TOKENIZER)
 
             output_all_eval_file = os.path.join(args.output_path, "eval_all_results.txt")

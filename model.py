@@ -75,11 +75,6 @@ class RNN2(nn.Module):
             self.embedding_ipa = nn.Embedding(args.ipa_vocab_size, self.emb_dim, padding_idx=0)
             self.embedding_ipa.weight.requires_grad = True
 
-            # self.rnn_ipa = nn.LSTM(input_size=self.dim, hidden_size=int(self.hidden_dim // 2), batch_first=True, 
-            #                        num_layers=self.encoder_layer_ipa, bidirectional=True)
-            # self.linear1_ipa = nn.Linear(self.hidden_dim, self.hidden_dim)
-            # self.linear2_ipa = nn.Linear(self.hidden_dim, self.emb_dim)
-
             self.position = PositionalEncoding(self.emb_dim)
             self.encoders_ipa = nn.ModuleList([SAM(args) for _ in range(self.encoder_layer_ipa)])
             self.sublayers_ipa = nn.ModuleList([SublayerConnection(args.drop_rate, self.emb_dim) for _ in range(self.encoder_layer_ipa)])
@@ -113,31 +108,6 @@ class RNN2(nn.Module):
         output = self.linear2(output)
 
         if (self.ipa) and (mask_ipa is not None):
-            # x_embed_ipa = self.embedding_ipa(x_ipa)
-            # shape_ipa = x_embed_ipa.size()
-
-            # mask_ipa = mask_ipa.squeeze().cpu().detach().numpy()
-            # mask_ipa = [np.sum(e != 0) for e in mask_ipa]
-
-            # # rnn pack
-            # packed_ipa = pack_padded_sequence(x_embed_ipa, mask_ipa, batch_first=True, enforce_sorted=False)
-            # encoder_outputs_packed_ipa, _ = self.rnn_ipa(packed_ipa)
-            # rnn_output_ipa, _ = pad_packed_sequence(encoder_outputs_packed_ipa, batch_first=True)
-
-            # output_ipa = list()
-            # for index in range(len(mask_ipa)):
-            #     temp_ipa = rnn_output_ipa[index, mask_ipa[index]-1, :]
-            #     output_ipa.append(temp_ipa)
-            # output_ipa = torch.reshape(torch.cat(output_ipa, dim=0), (shape_ipa[0], self.hidden_dim))
-
-            # output_ipa = self.dropout(output_ipa)
-            # output_ipa = self.linear1_ipa(output_ipa)
-            # output_ipa = self.activiation(output_ipa)
-            # output_ipa = self.dropout(output_ipa)
-            # output_ipa = self.linear2_ipa(output_ipa)
-
-            # final_output = (1.0-self.lamda)*output + self.lamda*output_ipa
-
             x_ipa = self.embedding_ipa(x_ipa) + self.position(x_ipa)
             for encoder, sublayer in zip(self.encoders_ipa, self.sublayers_ipa):
                 x_ipa = sublayer(x_ipa, lambda z: encoder(z, mask_ipa))
@@ -411,82 +381,6 @@ class SelfAttention2(nn.Module):
             # final_emb (batch_size, dim)
             return final_emb, (emb, ipa_emb)
         return x.masked_fill_(~mask, -float('inf')).max(dim=1)[0], None
-
-
-@register('self_attention_3')
-class SelfAttention3(nn.Module):
-    def __init__(self, args):
-        super().__init__()
-        self.dim = args.emb_dim
-        self.encoder_layer = args.encoder_layer
-        self.position = PositionalEncoding(self.dim)
-        self.embedding = nn.Embedding(args.vocab_size, self.dim, padding_idx=0)
-        self.embedding.weight.requires_grad = True
-        self.encoders = nn.ModuleList([SAM(args) for _ in range(self.encoder_layer)])
-        self.sublayers = nn.ModuleList([SublayerConnection(args.drop_rate, self.dim) for _ in range(self.encoder_layer)])
-        self.ipa = (args.input_type == 'ipa')
-        if self.ipa:
-            self.embedding_ipa = nn.Embedding(args.ipa_vocab_size, self.dim, padding_idx=0)
-            self.embedding_ipa.weight.requires_grad = True
-            self.encoders_ipa = nn.ModuleList([SAM(args) for _ in range(self.encoder_layer)])
-            self.sublayers_ipa = nn.ModuleList([SublayerConnection(args.drop_rate, self.dim) for _ in range(self.encoder_layer)])
-            self.mlp = MLPMOE()
-
-    def forward(self, step, x, mask, x_ipa=None, mask_ipa=None):
-        x = self.embedding(x) + self.position(x)
-        for encoder, sublayer in zip(self.encoders, self.sublayers):
-            x = sublayer(x, lambda z: encoder(z, mask))
-
-        if (self.ipa) and (mask_ipa is not None):   
-            x_ipa = self.embedding_ipa(x_ipa) + self.position(x_ipa)
-            for encoder, sublayer in zip(self.encoders_ipa, self.sublayers_ipa):
-                x_ipa = sublayer(x_ipa, lambda z: encoder(z, mask_ipa))
-
-            emb = x.masked_fill_(~mask, -float('inf')).max(dim=1)[0]
-            ipa_emb = x_ipa.masked_fill_(~mask_ipa, -float('inf')).max(dim=1)[0]
-            if step >= 3000:
-                weight = self.mlp(emb.clone().detach(), ipa_emb.clone().detach()).exp().unsqueeze(-1)
-            else:
-                weight = 0.5 * torch.ones(emb.size(0),2).unsqueeze(-1).to(emb.device)
-            emb_fin = torch.sum(weight * torch.stack((emb,ipa_emb), dim=1), dim=1)
-            return emb_fin, weight[:,0,0].mean()
-        return x.masked_fill_(~mask, -float('inf')).max(dim=1)[0], torch.tensor(1.0)
-
-
-@register('self_attention_4')
-class SelfAttention4(nn.Module):
-    def __init__(self, args):
-        super().__init__()
-        self.dim = args.emb_dim
-        self.encoder_layer = args.encoder_layer
-        self.lamda = args.lamda
-        self.position = PositionalEncoding(self.dim)
-        self.embedding = nn.Embedding(args.vocab_size, self.dim, padding_idx=0)
-        self.embedding.weight.requires_grad = True
-        self.encoders = nn.ModuleList([SAM(args) for _ in range(self.encoder_layer)])
-        self.sublayers = nn.ModuleList([SublayerConnection(args.drop_rate, self.dim) for _ in range(self.encoder_layer)])
-        self.ipa = (args.input_type == 'ipa')
-        if self.ipa:
-            self.embedding_ipa = nn.Embedding(args.ipa_vocab_size, self.dim, padding_idx=0)
-            self.embedding_ipa.weight.requires_grad = True
-            self.encoders_ipa = nn.ModuleList([SAM(args) for _ in range(self.encoder_layer)])
-            self.sublayers_ipa = nn.ModuleList([SublayerConnection(args.drop_rate, self.dim) for _ in range(self.encoder_layer)])
-
-    def forward(self, x, mask, x_ipa=None, mask_ipa=None):
-        x = self.embedding(x) + self.position(x)
-        for encoder, sublayer in zip(self.encoders, self.sublayers):
-            x = sublayer(x, lambda z: encoder(z, mask))
-
-        if (self.ipa) and (mask_ipa is not None):   
-            x_ipa = self.embedding_ipa(x_ipa) + self.position(x_ipa)
-            for encoder, sublayer in zip(self.encoders_ipa, self.sublayers_ipa):
-                x_ipa = sublayer(x_ipa, lambda z: encoder(z, mask_ipa))
-
-            emb = x.masked_fill_(~mask, -float('inf')).max(dim=1)[0]
-            ipa_emb = x_ipa.masked_fill_(~mask_ipa, -float('inf')).max(dim=1)[0]
-            final_emb = (1.0-self.lamda)*emb + self.lamda*ipa_emb
-            return final_emb, emb, ipa_emb
-        return x.masked_fill_(~mask, -float('inf')).max(dim=1)[0]
 
 def split_last(x, shape):
     "split the last dimension to given shape"

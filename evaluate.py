@@ -4,14 +4,14 @@ from scipy import stats
 import math
 from model import registry as Producer
 from torch.utils.data import DataLoader
-from utils import load_predict_dataset, TextData, collate_fn_predict_, add_tokens_, load_ipa_
+from utils import load_predict_dataset, TextData, collate_fn_predict_, add_tokens, load_ipa
 from transformers import AutoTokenizer
 
 
 def produce(args, model_path, tokenizer, batch_size=32, vocab_path='data/word_sim/evaluate_words.txt', ipa_path="data/word_sim_kor/evaluate_ipas.txt"):
     dataset = load_predict_dataset(path=vocab_path)
     if args.use_ipa:
-        word_to_ipa, _ = load_ipa_(ipa_path)
+        word_to_ipa, _ = load_ipa(ipa_path)
     else:
         word_to_ipa = None
     dataset = TextData(dataset)
@@ -101,15 +101,15 @@ def overall(args, model_path, tokenizer):
 
 if __name__ == '__main__':
     import os
-    from train_v4 import args
+    from train import args
     os.environ["CUDA_VISIBLE_DEVICES"] = "0"
     TOKENIZER = AutoTokenizer.from_pretrained("klue/bert-base")
     #args.input_type = 'mixed'
     if args.use_ipa:
-        word_to_ipa, ipa_set = load_ipa_(args.ipa_path)
+        word_to_ipa, ipa_set = load_ipa(args.ipa_path)
     else:
         word_to_ipa, ipa_set = None, []
-    TOKENIZER = add_tokens_(TOKENIZER)
+    TOKENIZER = add_tokens(TOKENIZER)
     vocab_size = len(TOKENIZER)
 
     args.vocab_size = vocab_size

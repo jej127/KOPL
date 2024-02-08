@@ -39,8 +39,7 @@ def load_dataset(path, DIM=300, lower=True):
 if __name__ == '__main__':
     data_path = '/mnt/oov/fasttext_jm.vec'
     dim=300
-    lowercase=False
-    dataset, emb = load_dataset(path=data_path, DIM=dim, lower=lowercase)
+    dataset, emb = load_dataset(path=data_path, DIM=dim)
     origin_words, origin_repre = dataset['origin_word'], dataset['origin_repre']
     print(origin_words[:10])
 

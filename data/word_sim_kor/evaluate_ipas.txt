@@ -1,0 +1,2361 @@
+1	못하셨다	motʰɑsjʌtt*ɑ	m o tʰ ɑ s jʌ t t* ɑ
+2	수리비를	sulibilɯl	s u l i b i l ɯ l
+3	물리가	mulliɡɑ	m u l l i ɡ ɑ
+4	팝송을	pʰɑps*oŋɯl	pʰ ɑ p s* o ŋ ɯ l
+5	키보드를	kʰibodɯlɯl	kʰ i b o d ɯ l ɯ l
+6	박쥐	pɑktɕ*wi	p ɑ k tɕ* wi
+7	왕으로	waŋɯlo	wa ŋ ɯ l o
+8	어린이를	ʌlinilɯl	ʌ l i n i l ɯ l
+9	평가는	pʰjʌŋɡɑnɯn	pʰ jʌ ŋ ɡ ɑ n ɯ n
+10	수도승	sudosɯŋ	s u d o s ɯ ŋ
+11	행정고시와	hɛŋdʑʌŋɡosiwa	h ɛ ŋ dʑ ʌ ŋ ɡ o s i wa
+12	아저씨	ɑdʑʌs*i	ɑ dʑ ʌ s* i
+13	우유가	ujuɡɑ	u ju ɡ ɑ
+14	미국산	miɡuks*ɑn	m i ɡ u k s* ɑ n
+15	지렛대가	tɕilɛtt*ɛɡɑ	tɕ i l ɛ t t* ɛ ɡ ɑ
+16	정오는	tɕʌŋonɯn	tɕ ʌ ŋ o n ɯ n
+17	사람	sɑlɑm	s ɑ l ɑ m
+18	책을	tɕʰɛɡɯl	tɕʰ ɛ ɡ ɯ l
+19	하드웨어를	hɑdɯwɛʌlɯl	h ɑ d ɯ wɛ ʌ l ɯ l
+20	전원이	tɕʌnwʌni	tɕ ʌ n wʌ n i
+21	그린벨트로	kɯlinbɛltʰɯlo	k ɯ l i n b ɛ l tʰ ɯ l o
+22	설계도	sʌlɡjɛdo	s ʌ l ɡ jɛ d o
+23	엄마를	ʌmmɑlɯl	ʌ m m ɑ l ɯ l
+24	오소리	osoli	o s o l i
+25	도쿠가와	tokʰuɡɑwa	t o kʰ u ɡ ɑ wa
+26	크림	kʰɯlim	kʰ ɯ l i m
+27	팝콘과	pʰɑpkʰonɡwa	pʰ ɑ p kʰ o n ɡ wa
+28	새으로	sɛɯlo	s ɛ ɯ l o
+29	컴퓨터는	kʰʌmpʰjutʰʌnɯn	kʰ ʌ m pʰ ju tʰ ʌ n ɯ n
+30	엄마는	ʌmmɑnɯn	ʌ m m ɑ n ɯ n
+31	올레길으로	ollɛɡilɯlo	o l l ɛ ɡ i l ɯ l o
+32	보석이	posʌɡi	p o s ʌ ɡ i
+33	재규어와	tɕɛɡjuʌwa	tɕ ɛ ɡ ju ʌ wa
+34	사랑	sɑlɑŋ	s ɑ l ɑ ŋ
+35	렌트카를	lɛntʰɯkʰɑlɯl	l ɛ n tʰ ɯ kʰ ɑ l ɯ l
+36	주셨다	tɕusjʌtt*ɑ	tɕ u s jʌ t t* ɑ
+37	연속극은	jʌnsokk*ɯɡɯn	jʌ n s o k k* ɯ ɡ ɯ n
+38	이름은	ilɯmɯn	i l ɯ m ɯ n
+39	아버지	ɑbʌdʑi	ɑ b ʌ dʑ i
+40	미국산은	miɡuks*ɑnɯn	m i ɡ u k s* ɑ n ɯ n
+41	형제	hjʌŋdʑɛ	h jʌ ŋ dʑ ɛ
+42	양성자로	jaŋsʌŋdʑɑlo	ja ŋ s ʌ ŋ dʑ ɑ l o
+43	타고르	tʰɑɡolɯ	tʰ ɑ ɡ o l ɯ
+44	화학과	hwahɑkk*wa	h wa h ɑ k k* wa
+45	시작하셨다	sidʑɑkʰɑsjʌtt*ɑ	s i dʑ ɑ kʰ ɑ s jʌ t t* ɑ
+46	베를린	pɛlɯllin	p ɛ l ɯ l l i n
+47	망아지	mɑŋɑdʑi	m ɑ ŋ ɑ dʑ i
+48	대전	tɛdʑʌn	t ɛ dʑ ʌ n
+49	박진영	pɑktɕ*injʌŋ	p ɑ k tɕ* i n jʌ ŋ
+50	하노이	hɑnoi	h ɑ n o i
+51	인천	intɕʰʌn	i n tɕʰ ʌ n
+52	물리와	mulliwa	m u l l i wa
+53	비평가	pipʰjʌŋɡɑ	p i pʰ jʌ ŋ ɡ ɑ
+54	대통령	tɛtʰoŋnjʌŋ	t ɛ tʰ o ŋ n jʌ ŋ
+55	뜯음	t*ɯdɯm	t* ɯ d ɯ m
+56	간호사가	kɑnhosɑɡɑ	k ɑ n h o s ɑ ɡ ɑ
+57	렌트카가	lɛntʰɯkʰɑɡɑ	l ɛ n tʰ ɯ kʰ ɑ ɡ ɑ
+58	홈런포가	homnʌnpʰoɡɑ	h o m n ʌ n pʰ o ɡ ɑ
+59	강의	kɑŋɰi	k ɑ ŋ ɰi
+60	중환자실은	tɕuŋhwandʑɑsilɯn	tɕ u ŋ h wa n dʑ ɑ s i l ɯ n
+61	할배	hɑlbɛ	h ɑ l b ɛ
+62	사파이어	sɑpʰɑiʌ	s ɑ pʰ ɑ i ʌ
+63	팝송과	pʰɑps*oŋɡwa	pʰ ɑ p s* o ŋ ɡ wa
+64	시장은	sidʑɑŋɯn	s i dʑ ɑ ŋ ɯ n
+65	인도네시아	indonɛsiɑ	i n d o n ɛ s i ɑ
+66	올레길을	ollɛɡilɯl	o l l ɛ ɡ i l ɯ l
+67	구세주를	kusɛdʑulɯl	k u s ɛ dʑ u l ɯ l
+68	찾았다	tɕʰɑdʑɑtt*ɑ	tɕʰ ɑ dʑ ɑ t t* ɑ
+69	테니스가	tʰɛnisɯɡɑ	tʰ ɛ n i s ɯ ɡ ɑ
+70	친일파로	tɕʰinilpʰɑlo	tɕʰ i n i l pʰ ɑ l o
+71	쓰는	s*ɯnɯn	s* ɯ n ɯ n
+72	나물으로	nɑmulɯlo	n ɑ m u l ɯ l o
+73	거래됐다	kʌlɛdwɛtt*ɑ	k ʌ l ɛ d wɛ t t* ɑ
+74	신탁은	sintʰɑɡɯn	s i n tʰ ɑ ɡ ɯ n
+75	라디오가	lɑdioɡɑ	l ɑ d i o ɡ ɑ
+76	마법사를	mɑbʌps*ɑlɯl	m ɑ b ʌ p s* ɑ l ɯ l
+77	테러로	tʰɛlʌlo	tʰ ɛ l ʌ l o
+78	이스라엘으로	isɯlɑɛlɯlo	i s ɯ l ɑ ɛ l ɯ l o
+79	가위가	kɑwiɡɑ	k ɑ wi ɡ ɑ
+80	개	kɛ	k ɛ
+81	자갈치	tɕɑɡɑltɕʰi	tɕ ɑ ɡ ɑ l tɕʰ i
+82	스타가	sɯtʰɑɡɑ	s ɯ tʰ ɑ ɡ ɑ
+83	지렛대	tɕilɛtt*ɛ	tɕ i l ɛ t t* ɛ
+84	티머니와	tʰimʌniwa	tʰ i m ʌ n i wa
+85	지도	tɕido	tɕ i d o
+86	이스라엘과	isɯlɑɛlɡwa	i s ɯ l ɑ ɛ l ɡ wa
+87	봤죠	pwattɕ*jo	p wa t tɕ* jo
+88	마라도나가	mɑlɑdonɑɡɑ	m ɑ l ɑ d o n ɑ ɡ ɑ
+89	아줌마	ɑdʑummɑ	ɑ dʑ u m m ɑ
+90	정신병원으로	tɕʌŋsinbjʌŋwʌnɯlo	tɕ ʌ ŋ s i n b jʌ ŋ wʌ n ɯ l o
+91	동서양이	toŋsʌjaŋi	t o ŋ s ʌ ja ŋ i
+92	소피아	sopʰiɑ	s o pʰ i ɑ
+93	국무총리를	kuŋmutɕʰoŋnilɯl	k u ŋ m u tɕʰ o ŋ n i l ɯ l
+94	양성자가	jaŋsʌŋdʑɑɡɑ	ja ŋ s ʌ ŋ dʑ ɑ ɡ ɑ
+95	베이징	pɛidʑiŋ	p ɛ i dʑ i ŋ
+96	존재를	tɕondʑɛlɯl	tɕ o n dʑ ɛ l ɯ l
+97	뇌경색	nwɛɡjʌŋsɛk	n wɛ ɡ jʌ ŋ s ɛ k
+98	은행을	ɯnhɛŋɯl	ɯ n h ɛ ŋ ɯ l
+99	평가	pʰjʌŋɡɑ	pʰ jʌ ŋ ɡ ɑ
+100	보석과	posʌkk*wa	p o s ʌ k k* wa
+101	선생으로	sʌnsɛŋɯlo	s ʌ n s ɛ ŋ ɯ l o
+102	남자	nɑmdʑɑ	n ɑ m dʑ ɑ
+103	스페인어	sɯpʰɛinʌ	s ɯ pʰ ɛ i n ʌ
+104	달렸다	tɑlljʌtt*ɑ	t ɑ l l jʌ t t* ɑ
+105	계부	kjɛbu	k jɛ b u
+106	돌아오셨다	tolɑosjʌtt*ɑ	t o l ɑ o s jʌ t t* ɑ
+107	이복형	ibokʰjʌŋ	i b o kʰ jʌ ŋ
+108	겨울철을	kjʌultɕʰʌlɯl	k jʌ u l tɕʰ ʌ l ɯ l
+109	조모	tɕomo	tɕ o m o
+110	부쿠레슈티	pukʰulɛsjutʰi	p u kʰ u l ɛ s ju tʰ i
+111	영국령과	jʌŋɡuŋnjʌŋɡwa	jʌ ŋ ɡ u ŋ n jʌ ŋ ɡ wa
+112	오소리와	osoliwa	o s o l i wa
+113	바르샤바	pɑlɯsjabɑ	p ɑ l ɯ s ja b ɑ
+114	뉴발란스를	njubɑllɑnsɯlɯl	n ju b ɑ l l ɑ n s ɯ l ɯ l
+115	비평가는	pipʰjʌŋɡɑnɯn	p i pʰ jʌ ŋ ɡ ɑ n ɯ n
+116	숙녀	suŋnjʌ	s u ŋ n jʌ
+117	의사가	ɰisɑɡɑ	ɰi s ɑ ɡ ɑ
+118	공부하다	koŋbuhɑdɑ	k o ŋ b u h ɑ d ɑ
+119	조부	tɕobu	tɕ o b u
+120	어머니	ʌmʌni	ʌ m ʌ n i
+121	교수와	kjosuwa	k jo s u wa
+122	찾아줬다	tɕʰɑdʑɑdʑwʌtt*ɑ	tɕʰ ɑ dʑ ɑ dʑ wʌ t t* ɑ
+123	광주	kwaŋdʑu	k wa ŋ dʑ u
+124	재규어로	tɕɛɡjuʌlo	tɕ ɛ ɡ ju ʌ l o
+125	중앙선	tɕuŋɑŋsʌn	tɕ u ŋ ɑ ŋ s ʌ n
+126	가축	kɑtɕʰuk	k ɑ tɕʰ u k
+127	강의는	kɑŋɰinɯn	k ɑ ŋ ɰi n ɯ n
+128	카페인은	kʰɑpʰɛinɯn	kʰ ɑ pʰ ɛ i n ɯ n
+129	향했습니다	hjaŋhɛts*ɯmnidɑ	h ja ŋ h ɛ t s* ɯ m n i d ɑ
+130	타고	tʰɑɡo	tʰ ɑ ɡ o
+131	링컨	liŋkʰʌn	l i ŋ kʰ ʌ n
+132	마법사는	mɑbʌps*ɑnɯn	m ɑ b ʌ p s* ɑ n ɯ n
+133	이탈리아어	itʰɑlliɑʌ	i tʰ ɑ l l i ɑ ʌ
+134	도서관이	tosʌɡwani	t o s ʌ ɡ wa n i
+135	음식	ɯmsik	ɯ m s i k
+136	올림픽이	ollimpʰiɡi	o l l i m pʰ i ɡ i
+137	연속극이	jʌnsokk*ɯɡi	jʌ n s o k k* ɯ ɡ i
+138	떡이	t*ʌɡi	t* ʌ ɡ i
+139	잤다	tɕɑtt*ɑ	tɕ ɑ t t* ɑ
+140	변호사는	pjʌnhosɑnɯn	p jʌ n h o s ɑ n ɯ n
+141	흘렸다	hɯlljʌtt*ɑ	h ɯ l l jʌ t t* ɑ
+142	초고리	tɕʰoɡoli	tɕʰ o ɡ o l i
+143	김해	kimhɛ	k i m h ɛ
+144	도입으로	toibɯlo	t o i b ɯ l o
+145	들어갔다	tɯlʌɡɑtt*ɑ	t ɯ l ʌ ɡ ɑ t t* ɑ
+146	리히텐슈타인	lihitʰɛnsjutʰɑin	l i h i tʰ ɛ n s ju tʰ ɑ i n
+147	관광지는	kwanɡwaŋdʑinɯn	k wa n ɡ wa ŋ dʑ i n ɯ n
+148	쓰였다	s*ɯjʌtt*ɑ	s* ɯ jʌ t t* ɑ
+149	뽑았습니다	p*obɑts*ɯmnidɑ	p* o b ɑ t s* ɯ m n i d ɑ
+150	중환자실	tɕuŋhwandʑɑsil	tɕ u ŋ h wa n dʑ ɑ s i l
+151	운동량이	undoŋnjaŋi	u n d o ŋ n ja ŋ i
+152	팝콘은	pʰɑpkʰonɯn	pʰ ɑ p kʰ o n ɯ n
+153	할머니	hɑlmʌni	h ɑ l m ʌ n i
+154	팝송	pʰɑps*oŋ	pʰ ɑ p s* o ŋ
+155	뜯다	t*ɯtt*ɑ	t* ɯ t t* ɑ
+156	배트맨이	pɛtʰɯmɛni	p ɛ tʰ ɯ m ɛ n i
+157	대만	tɛmɑn	t ɛ m ɑ n
+158	남동생	nɑmdoŋsɛŋ	n ɑ m d o ŋ s ɛ ŋ
+159	새하얀	sɛhɑjan	s ɛ h ɑ ja n
+160	타다	tʰɑdɑ	tʰ ɑ d ɑ
+161	국악과로	kuɡɑkk*walo	k u ɡ ɑ k k* wa l o
+162	찾아주셨다	tɕʰɑdʑɑdʑusjʌtt*ɑ	tɕʰ ɑ dʑ ɑ dʑ u s jʌ t t* ɑ
+163	이스라엘은	isɯlɑɛlɯn	i s ɯ l ɑ ɛ l ɯ n
+164	국악과와	kuɡɑkk*wawa	k u ɡ ɑ k k* wa wa
+165	있었다	is*ʌtt*ɑ	i s* ʌ t t* ɑ
+166	뉴발란스	njubɑllɑnsɯ	n ju b ɑ l l ɑ n s ɯ
+167	미디어가	midiʌɡɑ	m i d i ʌ ɡ ɑ
+168	하셨다	hɑsjʌtt*ɑ	h ɑ s jʌ t t* ɑ
+169	스크린샷과	sɯkʰɯlinsjatk*wa	s ɯ kʰ ɯ l i n s ja t k* wa
+170	돌아가셨다	tolɑɡɑsjʌtt*ɑ	t o l ɑ ɡ ɑ s jʌ t t* ɑ
+171	단축키	tɑntɕʰukkʰi	t ɑ n tɕʰ u k kʰ i
+172	미디어	midiʌ	m i d i ʌ
+173	이자	idʑɑ	i dʑ ɑ
+174	대추나무와	tɛtɕʰunɑmuwa	t ɛ tɕʰ u n ɑ m u wa
+175	원석	wʌnsʌk	wʌ n s ʌ k
+176	티머니가	tʰimʌniɡɑ	tʰ i m ʌ n i ɡ ɑ
+177	라부아지에	lɑbuɑdʑiɛ	l ɑ b u ɑ dʑ i ɛ
+178	국악과는	kuɡɑkk*wanɯn	k u ɡ ɑ k k* wa n ɯ n
+179	수용소와	sujoŋsowa	s u jo ŋ s o wa
+180	엄마	ʌmmɑ	ʌ m m ɑ
+181	벵골어	pɛŋɡolʌ	p ɛ ŋ ɡ o l ʌ
+182	신탁을	sintʰɑɡɯl	s i n tʰ ɑ ɡ ɯ l
+183	했습니다	hɛts*ɯmnidɑ	h ɛ t s* ɯ m n i d ɑ
+184	중앙선은	tɕuŋɑŋsʌnɯn	tɕ u ŋ ɑ ŋ s ʌ n ɯ n
+185	지렛대와	tɕilɛtt*ɛwa	tɕ i l ɛ t t* ɛ wa
+186	겨울철은	kjʌultɕʰʌlɯn	k jʌ u l tɕʰ ʌ l ɯ n
+187	배웠다	pɛwʌtt*ɑ	p ɛ wʌ t t* ɑ
+188	여행	jʌhɛŋ	jʌ h ɛ ŋ
+189	수록곡이	sulokk*oɡi	s u l o k k* o ɡ i
+190	모였다	mojʌtt*ɑ	m o jʌ t t* ɑ
+191	난방은	nɑnbɑŋɯn	n ɑ n b ɑ ŋ ɯ n
+192	인정하지만	indʑʌŋhɑdʑimɑn	i n dʑ ʌ ŋ h ɑ dʑ i m ɑ n
+193	우산과	usɑnɡwa	u s ɑ n ɡ wa
+194	동서양	toŋsʌjaŋ	t o ŋ s ʌ ja ŋ
+195	랜드마크가	lɛndɯmɑkʰɯɡɑ	l ɛ n d ɯ m ɑ kʰ ɯ ɡ ɑ
+196	모의고사와	moɰiɡosɑwa	m o ɰi ɡ o s ɑ wa
+197	보드카를	podɯkʰɑlɯl	p o d ɯ kʰ ɑ l ɯ l
+198	숲이	supʰi	s u pʰ i
+199	평화와	pʰjʌŋhwawa	pʰ jʌ ŋ h wa wa
+200	파리	pʰɑli	pʰ ɑ l i
+201	러시아어	lʌsiɑʌ	l ʌ s i ɑ ʌ
+202	설계도가	sʌlɡjɛdoɡɑ	s ʌ l ɡ jɛ d o ɡ ɑ
+203	물개	mulɡɛ	m u l ɡ ɛ
+204	그림이	kɯlimi	k ɯ l i m i
+205	소통과	sotʰoŋɡwa	s o tʰ o ŋ ɡ wa
+206	행정고시는	hɛŋdʑʌŋɡosinɯn	h ɛ ŋ dʑ ʌ ŋ ɡ o s i n ɯ n
+207	브뤼셀	pɯlwisɛl	p ɯ l wi s ɛ l
+208	전야제와	tɕʌnjadʑɛwa	tɕ ʌ n ja dʑ ɛ wa
+209	마이클잭슨은	mɑikʰɯldʑɛks*ɯnɯn	m ɑ i kʰ ɯ l dʑ ɛ k s* ɯ n ɯ n
+210	포도	pʰodo	pʰ o d o
+211	테러를	tʰɛlʌlɯl	tʰ ɛ l ʌ l ɯ l
+212	탐	tʰɑm	tʰ ɑ m
+213	아일랜드	ɑillɛndɯ	ɑ i l l ɛ n d ɯ
+214	서울대는	sʌuldɛnɯn	s ʌ u l d ɛ n ɯ n
+215	호랑이로	holɑŋilo	h o l ɑ ŋ i l o
+216	꼬꼬댁	k*ok*odɛk	k* o k* o d ɛ k
+217	엄마로	ʌmmɑlo	ʌ m m ɑ l o
+218	입으로	ibɯlo	i b ɯ l o
+219	법을	pʌbɯl	p ʌ b ɯ l
+220	놓으면서	nohɯmjʌnsʌ	n o h ɯ m jʌ n s ʌ
+221	아리스토텔레스	ɑlisɯtʰotʰɛllɛsɯ	ɑ l i s ɯ tʰ o tʰ ɛ l l ɛ s ɯ
+222	국무총리로	kuŋmutɕʰoŋnilo	k u ŋ m u tɕʰ o ŋ n i l o
+223	고양이로	kojaŋilo	k o ja ŋ i l o
+224	스타를	sɯtʰɑlɯl	s ɯ tʰ ɑ l ɯ l
+225	빵	p*ɑŋ	p* ɑ ŋ
+226	인문학	inmunhɑk	i n m u n h ɑ k
+227	테이블	tʰɛibɯl	tʰ ɛ i b ɯ l
+228	올챙이	oltɕʰɛŋi	o l tɕʰ ɛ ŋ i
+229	하늘	hɑnɯl	h ɑ n ɯ l
+230	영화는	jʌŋhwanɯn	jʌ ŋ h wa n ɯ n
+231	연꽃과	jʌnk*otk*wa	jʌ n k* o t k* wa
+232	물리를	mullilɯl	m u l l i l ɯ l
+233	시행이	sihɛŋi	s i h ɛ ŋ i
+234	가축으로	kɑtɕʰuɡɯlo	k ɑ tɕʰ u ɡ ɯ l o
+235	폴란드	pʰollɑndɯ	pʰ o l l ɑ n d ɯ
+236	테이블이	tʰɛibɯli	tʰ ɛ i b ɯ l i
+237	지도와	tɕidowa	tɕ i d o wa
+238	오이는	oinɯn	o i n ɯ n
+239	뻐꾸기	p*ʌk*uɡi	p* ʌ k* u ɡ i
+240	신경과가	sinɡjʌŋɡwaɡɑ	s i n ɡ jʌ ŋ ɡ wa ɡ ɑ
+241	마법사가	mɑbʌps*ɑɡɑ	m ɑ b ʌ p s* ɑ ɡ ɑ
+242	수탉과	sutʰɑkk*wa	s u tʰ ɑ k k* wa
+243	올림픽	ollimpʰik	o l l i m pʰ i k
+244	소형차는	sohjʌŋtɕʰɑnɯn	s o h jʌ ŋ tɕʰ ɑ n ɯ n
+245	폐암은	pʰjɛɑmɯn	pʰ jɛ ɑ m ɯ n
+246	커피	kʰʌpʰi	kʰ ʌ pʰ i
+247	호주	hodʑu	h o dʑ u
+248	대기업	tɛɡiʌp	t ɛ ɡ i ʌ p
+249	풀치	pʰultɕʰi	pʰ u l tɕʰ i
+250	차녀	tɕʰɑnjʌ	tɕʰ ɑ n jʌ
+251	디스크	tisɯkʰɯ	t i s ɯ kʰ ɯ
+252	충청도	tɕʰuŋtɕʰʌŋdo	tɕʰ u ŋ tɕʰ ʌ ŋ d o
+253	올림픽과	ollimpʰikk*wa	o l l i m pʰ i k k* wa
+254	수달	sudɑl	s u d ɑ l
+255	전화와	tɕʌnhwawa	tɕ ʌ n h wa wa
+256	올레길은	ollɛɡilɯn	o l l ɛ ɡ i l ɯ n
+257	유통망과	jutʰoŋmɑŋɡwa	ju tʰ o ŋ m ɑ ŋ ɡ wa
+258	물으셨습니다	mulɯsjʌts*ɯmnidɑ	m u l ɯ s jʌ t s* ɯ m n i d ɑ
+259	말레이어	mɑllɛiʌ	m ɑ l l ɛ i ʌ
+260	그린벨트	kɯlinbɛltʰɯ	k ɯ l i n b ɛ l tʰ ɯ
+261	관리법	kwallibʌp	k wa l l i b ʌ p
+262	꿩	k*wʌŋ	k* wʌ ŋ
+263	노루	nolu	n o l u
+264	오타와	otʰɑwa	o tʰ ɑ wa
+265	소통을	sotʰoŋɯl	s o tʰ o ŋ ɯ l
+266	사면서	sɑmjʌnsʌ	s ɑ m jʌ n s ʌ
+267	팝콘이	pʰɑpkʰoni	pʰ ɑ p kʰ o n i
+268	수리비와	sulibiwa	s u l i b i wa
+269	은행과	ɯnhɛŋɡwa	ɯ n h ɛ ŋ ɡ wa
+270	벽시계가	pjʌks*iɡjɛɡɑ	p jʌ k s* i ɡ jɛ ɡ ɑ
+271	거절했다	kʌdʑʌlhɛtt*ɑ	k ʌ dʑ ʌ l h ɛ t t* ɑ
+272	가르치셨다	kɑlɯtɕʰisjʌtt*ɑ	k ɑ l ɯ tɕʰ i s jʌ t t* ɑ
+273	가고	kɑɡo	k ɑ ɡ o
+274	영화가	jʌŋhwaɡɑ	jʌ ŋ h wa ɡ ɑ
+275	대한민국	tɛhɑnminɡuk	t ɛ h ɑ n m i n ɡ u k
+276	찍습니다	tɕ*iks*ɯmnidɑ	tɕ* i k s* ɯ m n i d ɑ
+277	왕과	waŋɡwa	wa ŋ ɡ wa
+278	숙모	suŋmo	s u ŋ m o
+279	조명이	tɕomjʌŋi	tɕ o m jʌ ŋ i
+280	흡수됐다	hɯps*udwɛtt*ɑ	h ɯ p s* u d wɛ t t* ɑ
+281	존재와	tɕondʑɛwa	tɕ o n dʑ ɛ wa
+282	움직이는	umdʑiɡinɯn	u m dʑ i ɡ i n ɯ n
+283	수탉으로	sutʰɑlɡɯlo	s u tʰ ɑ l ɡ ɯ l o
+284	간호사로	kɑnhosɑlo	k ɑ n h o s ɑ l o
+285	신랑	sillɑŋ	s i l l ɑ ŋ
+286	이름으로	ilɯmɯlo	i l ɯ m ɯ l o
+287	테러는	tʰɛlʌnɯn	tʰ ɛ l ʌ n ɯ n
+288	개굴	kɛɡul	k ɛ ɡ u l
+289	묻었다	mudʌtt*ɑ	m u d ʌ t t* ɑ
+290	재규어가	tɕɛɡjuʌɡɑ	tɕ ɛ ɡ ju ʌ ɡ ɑ
+291	간디	kɑndi	k ɑ n d i
+292	쌍용차는	s*ɑŋjoŋtɕʰɑnɯn	s* ɑ ŋ jo ŋ tɕʰ ɑ n ɯ n
+293	원석으로	wʌnsʌɡɯlo	wʌ n s ʌ ɡ ɯ l o
+294	중국	tɕuŋɡuk	tɕ u ŋ ɡ u k
+295	명성황후	mjʌŋsʌŋhwaŋhu	m jʌ ŋ s ʌ ŋ h wa ŋ h u
+296	보냈습니다	ponɛts*ɯmnidɑ	p o n ɛ t s* ɯ m n i d ɑ
+297	배트맨과	pɛtʰɯmɛnɡwa	p ɛ tʰ ɯ m ɛ n ɡ wa
+298	거절당했다	kʌdʑʌldɑŋhɛtt*ɑ	k ʌ dʑ ʌ l d ɑ ŋ h ɛ t t* ɑ
+299	소형차와	sohjʌŋtɕʰɑwa	s o h jʌ ŋ tɕʰ ɑ wa
+300	잡다	tɕɑpt*ɑ	tɕ ɑ p t* ɑ
+301	텔레비전	tʰɛllɛbidʑʌn	tʰ ɛ l l ɛ b i dʑ ʌ n
+302	차남	tɕʰɑnɑm	tɕʰ ɑ n ɑ m
+303	타면서	tʰɑmjʌnsʌ	tʰ ɑ m jʌ n s ʌ
+304	대상은	tɛsɑŋɯn	t ɛ s ɑ ŋ ɯ n
+305	테이블과	tʰɛibɯlɡwa	tʰ ɛ i b ɯ l ɡ wa
+306	렌트카는	lɛntʰɯkʰɑnɯn	l ɛ n tʰ ɯ kʰ ɑ n ɯ n
+307	호랑이는	holɑŋinɯn	h o l ɑ ŋ i n ɯ n
+308	여정을	jʌdʑʌŋɯl	jʌ dʑ ʌ ŋ ɯ l
+309	베이루트	pɛilutʰɯ	p ɛ i l u tʰ ɯ
+310	베오그라드	pɛoɡɯlɑdɯ	p ɛ o ɡ ɯ l ɑ d ɯ
+311	누른	nulɯn	n u l ɯ n
+312	미디어를	midiʌlɯl	m i d i ʌ l ɯ l
+313	전야제가	tɕʌnjadʑɛɡɑ	tɕ ʌ n ja dʑ ɛ ɡ ɑ
+314	여정이	jʌdʑʌŋi	jʌ dʑ ʌ ŋ i
+315	통신망을	tʰoŋsinmɑŋɯl	tʰ o ŋ s i n m ɑ ŋ ɯ l
+316	헝가리	hʌŋɡɑli	h ʌ ŋ ɡ ɑ l i
+317	테러와	tʰɛlʌwa	tʰ ɛ l ʌ wa
+318	담으면서	tɑmɯmjʌnsʌ	t ɑ m ɯ m jʌ n s ʌ
+319	장남	tɕɑŋnɑm	tɕ ɑ ŋ n ɑ m
+320	징기스칸	tɕiŋɡisɯkʰɑn	tɕ i ŋ ɡ i s ɯ kʰ ɑ n
+321	시퍼런	sipʰʌlʌn	s i pʰ ʌ l ʌ n
+322	음식은	ɯmsiɡɯn	ɯ m s i ɡ ɯ n
+323	모기	moɡi	m o ɡ i
+324	수도승을	sudosɯŋɯl	s u d o s ɯ ŋ ɯ l
+325	제트스키와	tɕɛtʰɯsɯkʰiwa	tɕ ɛ tʰ ɯ s ɯ kʰ i wa
+326	스트라우스	sɯtʰɯlɑusɯ	s ɯ tʰ ɯ l ɑ u s ɯ
+327	인정하는	indʑʌŋhɑnɯn	i n dʑ ʌ ŋ h ɑ n ɯ n
+328	잉어	iŋʌ	i ŋ ʌ
+329	에티오피아	ɛtʰiopʰiɑ	ɛ tʰ i o pʰ i ɑ
+330	형수	hjʌŋsu	h jʌ ŋ s u
+331	배트맨은	pɛtʰɯmɛnɯn	p ɛ tʰ ɯ m ɛ n ɯ n
+332	신경과	sinɡjʌŋɡwa	s i n ɡ jʌ ŋ ɡ wa
+333	설계도와	sʌlɡjɛdowa	s ʌ l ɡ jɛ d o wa
+334	축구	tɕʰukk*u	tɕʰ u k k* u
+335	앉아	ɑndʑɑ	ɑ n dʑ ɑ
+336	책과	tɕʰɛkk*wa	tɕʰ ɛ k k* wa
+337	어린이	ʌlini	ʌ l i n i
+338	양성자를	jaŋsʌŋdʑɑlɯl	ja ŋ s ʌ ŋ dʑ ɑ l ɯ l
+339	돈을	tonɯl	t o n ɯ l
+340	겨울철	kjʌultɕʰʌl	k jʌ u l tɕʰ ʌ l
+341	증조할아버지	tɕɯŋdʑohɑlɑbʌdʑi	tɕ ɯ ŋ dʑ o h ɑ l ɑ b ʌ dʑ i
+342	인도	indo	i n d o
+343	가면서	kɑmjʌnsʌ	k ɑ m jʌ n s ʌ
+344	알코올으로	ɑlkʰoolɯlo	ɑ l kʰ o o l ɯ l o
+345	마이클잭슨을	mɑikʰɯldʑɛks*ɯnɯl	m ɑ i kʰ ɯ l dʑ ɛ k s* ɯ n ɯ l
+346	난방을	nɑnbɑŋɯl	n ɑ n b ɑ ŋ ɯ l
+347	오이와	oiwa	o i wa
+348	신탁	sintʰɑk	s i n tʰ ɑ k
+349	관광지를	kwanɡwaŋdʑilɯl	k wa n ɡ wa ŋ dʑ i l ɯ l
+350	약을	jaɡɯl	ja ɡ ɯ l
+351	평가로	pʰjʌŋɡɑlo	pʰ jʌ ŋ ɡ ɑ l o
+352	미디어는	midiʌnɯn	m i d i ʌ n ɯ n
+353	놓지만	notɕʰimɑn	n o tɕʰ i m ɑ n
+354	웃었다	usʌtt*ɑ	u s ʌ t t* ɑ
+355	신경과와	sinɡjʌŋɡwawa	s i n ɡ jʌ ŋ ɡ wa wa
+356	디스크로	tisɯkʰɯlo	t i s ɯ kʰ ɯ l o
+357	미국	miɡuk	m i ɡ u k
+358	밀가루와	milɡɑluwa	m i l ɡ ɑ l u wa
+359	도입과	toipk*wa	t o i p k* wa
+360	석탄	sʌktʰɑn	s ʌ k tʰ ɑ n
+361	의사로	ɰisɑlo	ɰi s ɑ l o
+362	구구	kuɡu	k u ɡ u
+363	부대찌개는	pudɛtɕ*iɡɛnɯn	p u d ɛ tɕ* i ɡ ɛ n ɯ n
+364	킬로미터	kʰillomitʰʌ	kʰ i l l o m i tʰ ʌ
+365	독일어	toɡilʌ	t o ɡ i l ʌ
+366	입을	ibɯl	i b ɯ l
+367	유니코드로	junikʰodɯlo	ju n i kʰ o d ɯ l o
+368	사랑받았다	sɑlɑŋbɑdɑtt*ɑ	s ɑ l ɑ ŋ b ɑ d ɑ t t* ɑ
+369	스크린샷이	sɯkʰɯlinsjasi	s ɯ kʰ ɯ l i n s ja s i
+370	우유로	ujulo	u ju l o
+371	파스칼	pʰɑsɯkʰɑl	pʰ ɑ s ɯ kʰ ɑ l
+372	국민대는	kuŋmindɛnɯn	k u ŋ m i n d ɛ n ɯ n
+373	오면서	omjʌnsʌ	o m jʌ n s ʌ
+374	떡	t*ʌk	t* ʌ k
+375	하드웨어와	hɑdɯwɛʌwa	h ɑ d ɯ wɛ ʌ wa
+376	알코올이	ɑlkʰooli	ɑ l kʰ o o l i
+377	시커먼	sikʰʌmʌn	s i kʰ ʌ m ʌ n
+378	동굴	toŋɡul	t o ŋ ɡ u l
+379	달걀이	tɑlɡjali	t ɑ l ɡ ja l i
+380	군인을	kuninɯl	k u n i n ɯ l
+381	영수증은	jʌŋsudʑɯŋɯn	jʌ ŋ s u dʑ ɯ ŋ ɯ n
+382	안데르센	ɑndɛlɯsɛn	ɑ n d ɛ l ɯ s ɛ n
+383	학으로	hɑɡɯlo	h ɑ ɡ ɯ l o
+384	까만	k*ɑmɑn	k* ɑ m ɑ n
+385	키즈까페로	kʰidʑɯk*ɑpʰɛlo	kʰ i dʑ ɯ k* ɑ pʰ ɛ l o
+386	전화로	tɕʌnhwalo	tɕ ʌ n h wa l o
+387	라켓이	lɑkʰɛsi	l ɑ kʰ ɛ s i
+388	대상과	tɛsɑŋɡwa	t ɛ s ɑ ŋ ɡ wa
+389	떡으로	t*ʌɡɯlo	t* ʌ ɡ ɯ l o
+390	혈액형이	hjʌlɛkʰjʌŋi	h jʌ l ɛ kʰ jʌ ŋ i
+391	개미	kɛmi	k ɛ m i
+392	형부	hjʌŋbu	h jʌ ŋ b u
+393	죽어요	tɕuɡʌjo	tɕ u ɡ ʌ jo
+394	예루살렘과	jɛlusɑllɛmɡwa	jɛ l u s ɑ l l ɛ m ɡ wa
+395	신사	sinsɑ	s i n s ɑ
+396	낙타	nɑktʰɑ	n ɑ k tʰ ɑ
+397	지도를	tɕidolɯl	tɕ i d o l ɯ l
+398	달걀을	tɑlɡjalɯl	t ɑ l ɡ ja l ɯ l
+399	대기업이	tɛɡiʌbi	t ɛ ɡ i ʌ b i
+400	쓰면서	s*ɯmjʌnsʌ	s* ɯ m jʌ n s ʌ
+401	라디오를	lɑdiolɯl	l ɑ d i o l ɯ l
+402	참새	tɕʰɑmsɛ	tɕʰ ɑ m s ɛ
+403	조기	tɕoɡi	tɕ o ɡ i
+404	웃으셨다	usɯsjʌtt*ɑ	u s ɯ s jʌ t t* ɑ
+405	지도로	tɕidolo	tɕ i d o l o
+406	제부	tɕɛbu	tɕ ɛ b u
+407	가발은	kɑbɑlɯn	k ɑ b ɑ l ɯ n
+408	영화를	jʌŋhwalɯl	jʌ ŋ h wa l ɯ l
+409	모의고사를	moɰiɡosɑlɯl	m o ɰi ɡ o s ɑ l ɯ l
+410	좋아했다	tɕohɑhɛtt*ɑ	tɕ o h ɑ h ɛ t t* ɑ
+411	평화를	pʰjʌŋhwalɯl	pʰ jʌ ŋ h wa l ɯ l
+412	요르단	jolɯdɑn	jo l ɯ d ɑ n
+413	삼촌	sɑmtɕʰon	s ɑ m tɕʰ o n
+414	연속극을	jʌnsokk*ɯɡɯl	jʌ n s o k k* ɯ ɡ ɯ l
+415	축구와	tɕʰukk*uwa	tɕʰ u k k* u wa
+416	여행으로	jʌhɛŋɯlo	jʌ h ɛ ŋ ɯ l o
+417	랜드마크	lɛndɯmɑkʰɯ	l ɛ n d ɯ m ɑ kʰ ɯ
+418	도서관	tosʌɡwan	t o s ʌ ɡ wa n
+419	말하지만	mɑlhɑdʑimɑn	m ɑ l h ɑ dʑ i m ɑ n
+420	파키스탄	pʰɑkʰisɯtʰɑn	pʰ ɑ kʰ i s ɯ tʰ ɑ n
+421	달았다	tɑlɑtt*ɑ	t ɑ l ɑ t t* ɑ
+422	왕이	waŋi	wa ŋ i
+423	사랑은	sɑlɑŋɯn	s ɑ l ɑ ŋ ɯ n
+424	여아	jʌɑ	jʌ ɑ
+425	떡과	t*ʌkk*wa	t* ʌ k k* wa
+426	학생은	hɑks*ɛŋɯn	h ɑ k s* ɛ ŋ ɯ n
+427	결승점이	kjʌlsɯŋdʑʌmi	k jʌ l s ɯ ŋ dʑ ʌ m i
+428	아이비리그가	ɑibiliɡɯɡɑ	ɑ i b i l i ɡ ɯ ɡ ɑ
+429	씀	s*ɯm	s* ɯ m
+430	폐암이	pʰjɛɑmi	pʰ jɛ ɑ m i
+431	이모부	imobu	i m o b u
+432	커피와	kʰʌpʰiwa	kʰ ʌ pʰ i wa
+433	뇌경색으로	nwɛɡjʌŋsɛɡɯlo	n wɛ ɡ jʌ ŋ s ɛ ɡ ɯ l o
+434	좋아하셨다	tɕohɑhɑsjʌtt*ɑ	tɕ o h ɑ h ɑ s jʌ t t* ɑ
+435	외삼촌	wɛsɑmtɕʰon	wɛ s ɑ m tɕʰ o n
+436	간자미	kɑndʑɑmi	k ɑ n dʑ ɑ m i
+437	꽝다리	k*waŋdɑli	k* wa ŋ d ɑ l i
+438	소녀	sonjʌ	s o n jʌ
+439	사랑이	sɑlɑŋi	s ɑ l ɑ ŋ i
+440	행정고시가	hɛŋdʑʌŋɡosiɡɑ	h ɛ ŋ dʑ ʌ ŋ ɡ o s i ɡ ɑ
+441	스크린샷을	sɯkʰɯlinsjasɯl	s ɯ kʰ ɯ l i n s ja s ɯ l
+442	비평가와	pipʰjʌŋɡɑwa	p i pʰ jʌ ŋ ɡ ɑ wa
+443	갈치	kɑltɕʰi	k ɑ l tɕʰ i
+444	강변	kɑŋbjʌn	k ɑ ŋ b jʌ n
+445	형	hjʌŋ	h jʌ ŋ
+446	영화와	jʌŋhwawa	jʌ ŋ h wa wa
+447	전야제는	tɕʌnjadʑɛnɯn	tɕ ʌ n ja dʑ ɛ n ɯ n
+448	보라	polɑ	p o l ɑ
+449	벨기에	pɛlɡiɛ	p ɛ l ɡ i ɛ
+450	말하다	mɑlhɑdɑ	m ɑ l h ɑ d ɑ
+451	인문학이	inmunhɑɡi	i n m u n h ɑ ɡ i
+452	강의로	kɑŋɰilo	k ɑ ŋ ɰi l o
+453	공부했다	koŋbuhɛtt*ɑ	k o ŋ b u h ɛ t t* ɑ
+454	가위를	kɑwilɯl	k ɑ wi l ɯ l
+455	셰익스피어	sjɛiks*ɯpʰiʌ	s jɛ i k s* ɯ pʰ i ʌ
+456	해안과	hɛɑnɡwa	h ɛ ɑ n ɡ wa
+457	칸트	kʰɑntʰɯ	kʰ ɑ n tʰ ɯ
+458	친일파가	tɕʰinilpʰɑɡɑ	tɕʰ i n i l pʰ ɑ ɡ ɑ
+459	이탈리아	itʰɑlliɑ	i tʰ ɑ l l i ɑ
+460	출시됐다	tɕʰulsidwɛtt*ɑ	tɕʰ u l s i d wɛ t t* ɑ
+461	곰	kom	k o m
+462	소년을	sonjʌnɯl	s o n jʌ n ɯ l
+463	새은	sɛɯn	s ɛ ɯ n
+464	남용으로	nɑmjoŋɯlo	n ɑ m jo ŋ ɯ l o
+465	미남	minɑm	m i n ɑ m
+466	장녀	tɕɑŋnjʌ	tɕ ɑ ŋ n jʌ
+467	서울대와	sʌuldɛwa	s ʌ u l d ɛ wa
+468	말	mɑl	m ɑ l
+469	라디오로	lɑdiolo	l ɑ d i o l o
+470	리스본	lisɯbon	l i s ɯ b o n
+471	개최했다	kɛtɕʰwɛhɛtt*ɑ	k ɛ tɕʰ wɛ h ɛ t t* ɑ
+472	사주셨다	sɑdʑusjʌtt*ɑ	s ɑ dʑ u s jʌ t t* ɑ
+473	명성황후는	mjʌŋsʌŋhwaŋhunɯn	m jʌ ŋ s ʌ ŋ h wa ŋ h u n ɯ n
+474	수록곡으로	sulokk*oɡɯlo	s u l o k k* o ɡ ɯ l o
+475	전원으로	tɕʌnwʌnɯlo	tɕ ʌ n wʌ n ɯ l o
+476	시조	sidʑo	s i dʑ o
+477	뜯고	t*ɯtk*o	t* ɯ t k* o
+478	이끌고	ik*ɯlɡo	i k* ɯ l ɡ o
+479	교수를	kjosulɯl	k jo s u l ɯ l
+480	운동량	undoŋnjaŋ	u n d o ŋ n ja ŋ
+481	수리비	sulibi	s u l i b i
+482	마셨다	mɑsjʌtt*ɑ	m ɑ s jʌ t t* ɑ
+483	키즈까페	kʰidʑɯk*ɑpʰɛ	kʰ i dʑ ɯ k* ɑ pʰ ɛ
+484	대상	tɛsɑŋ	t ɛ s ɑ ŋ
+485	주식회사가	tɕusikʰwɛsɑɡɑ	tɕ u s i kʰ wɛ s ɑ ɡ ɑ
+486	수탉은	sutʰɑlɡɯn	s u tʰ ɑ l ɡ ɯ n
+487	약이	jaɡi	ja ɡ i
+488	몽골	moŋɡol	m o ŋ ɡ o l
+489	입	ip	i p
+490	떡은	t*ʌɡɯn	t* ʌ ɡ ɯ n
+491	새과	sɛɡwa	s ɛ ɡ wa
+492	현금으로	hjʌnɡɯmɯlo	h jʌ n ɡ ɯ m ɯ l o
+493	나물을	nɑmulɯl	n ɑ m u l ɯ l
+494	거래	kʌlɛ	k ʌ l ɛ
+495	볼리비아	pollibiɑ	p o l l i b i ɑ
+496	영국령으로	jʌŋɡuŋnjʌŋɯlo	jʌ ŋ ɡ u ŋ n jʌ ŋ ɯ l o
+497	이슬라마바드	isɯllɑmɑbɑdɯ	i s ɯ l l ɑ m ɑ b ɑ d ɯ
+498	떡을	t*ʌɡɯl	t* ʌ ɡ ɯ l
+499	공자	koŋdʑɑ	k o ŋ dʑ ɑ
+500	터키	tʰʌkʰi	tʰ ʌ kʰ i
+501	영화관과	jʌŋhwaɡwanɡwa	jʌ ŋ h wa ɡ wa n ɡ wa
+502	남극	nɑmɡɯk	n ɑ m ɡ ɯ k
+503	키보드와	kʰibodɯwa	kʰ i b o d ɯ wa
+504	증조부	tɕɯŋdʑobu	tɕ ɯ ŋ dʑ o b u
+505	종이가	tɕoŋiɡɑ	tɕ o ŋ i ɡ ɑ
+506	난방과	nɑnbɑŋɡwa	n ɑ n b ɑ ŋ ɡ wa
+507	유클리드	jukʰɯllidɯ	ju kʰ ɯ l l i d ɯ
+508	되다	twɛdɑ	t wɛ d ɑ
+509	상도로	sɑŋdolo	s ɑ ŋ d o l o
+510	캐나다	kʰɛnɑdɑ	kʰ ɛ n ɑ d ɑ
+511	바베이도스	pɑbɛidosɯ	p ɑ b ɛ i d o s ɯ
+512	바다	pɑdɑ	p ɑ d ɑ
+513	바나나	pɑnɑnɑ	p ɑ n ɑ n ɑ
+514	방콕	pɑŋkʰok	p ɑ ŋ kʰ o k
+515	국악과	kuɡɑkk*wa	k u ɡ ɑ k k* wa
+516	필리핀	pʰillipʰin	pʰ i l l i pʰ i n
+517	여정과	jʌdʑʌŋɡwa	jʌ dʑ ʌ ŋ ɡ wa
+518	밝혀졌다	pɑlkʰjʌdʑjʌtt*ɑ	p ɑ l kʰ jʌ dʑ jʌ t t* ɑ
+519	국무총리는	kuŋmutɕʰoŋninɯn	k u ŋ m u tɕʰ o ŋ n i n ɯ n
+520	정오로	tɕʌŋolo	tɕ ʌ ŋ o l o
+521	남용	nɑmjoŋ	n ɑ m jo ŋ
+522	가격	kɑɡjʌk	k ɑ ɡ jʌ k
+523	버터와	pʌtʰʌwa	p ʌ tʰ ʌ wa
+524	여왕을	jʌwaŋɯl	jʌ wa ŋ ɯ l
+525	더블린	tʌbɯllin	t ʌ b ɯ l l i n
+526	연속극으로	jʌnsokk*ɯɡɯlo	jʌ n s o k k* ɯ ɡ ɯ l o
+527	재규어	tɕɛɡjuʌ	tɕ ɛ ɡ ju ʌ
+528	부대찌개	pudɛtɕ*iɡɛ	p u d ɛ tɕ* i ɡ ɛ
+529	여성	jʌsʌŋ	jʌ s ʌ ŋ
+530	그림은	kɯlimɯn	k ɯ l i m ɯ n
+531	경상남도	kjʌŋsɑŋnɑmdo	k jʌ ŋ s ɑ ŋ n ɑ m d o
+532	홈런포를	homnʌnpʰolɯl	h o m n ʌ n pʰ o l ɯ l
+533	겨울철과	kjʌultɕʰʌlɡwa	k jʌ u l tɕʰ ʌ l ɡ wa
+534	제주	tɕɛdʑu	tɕ ɛ dʑ u
+535	단축키와	tɑntɕʰukkʰiwa	t ɑ n tɕʰ u k kʰ i wa
+536	노벨상과	nobɛlsɑŋɡwa	n o b ɛ l s ɑ ŋ ɡ wa
+537	싸웠다	s*ɑwʌtt*ɑ	s* ɑ wʌ t t* ɑ
+538	고흐	kohɯ	k o h ɯ
+539	그어졌다	kɯʌdʑjʌtt*ɑ	k ɯ ʌ dʑ jʌ t t* ɑ
+540	의정부로	ɰidʑʌŋbulo	ɰi dʑ ʌ ŋ b u l o
+541	남학생	nɑmhɑks*ɛŋ	n ɑ m h ɑ k s* ɛ ŋ
+542	군인은	kuninɯn	k u n i n ɯ n
+543	판매됐다	pʰɑnmɛdwɛtt*ɑ	pʰ ɑ n m ɛ d wɛ t t* ɑ
+544	숲으로	supʰɯlo	s u pʰ ɯ l o
+545	이사회와	isɑhwɛwa	i s ɑ h wɛ wa
+546	수원	suwʌn	s u wʌ n
+547	이스라엘이	isɯlɑɛli	i s ɯ l ɑ ɛ l i
+548	동서양은	toŋsʌjaŋɯn	t o ŋ s ʌ ja ŋ ɯ n
+549	암소	ɑmso	ɑ m s o
+550	시조로	sidʑolo	s i dʑ o l o
+551	양상추와	jaŋsɑŋtɕʰuwa	ja ŋ s ɑ ŋ tɕʰ u wa
+552	왕을	waŋɯl	wa ŋ ɯ l
+553	교수로	kjosulo	k jo s u l o
+554	베토벤	pɛtʰobɛn	p ɛ tʰ o b ɛ n
+555	관리법은	kwallibʌbɯn	k wa l l i b ʌ b ɯ n
+556	킬로미터가	kʰillomitʰʌɡɑ	kʰ i l l o m i tʰ ʌ ɡ ɑ
+557	원석은	wʌnsʌɡɯn	wʌ n s ʌ ɡ ɯ n
+558	찾다	tɕʰɑtt*ɑ	tɕʰ ɑ t t* ɑ
+559	남편	nɑmpʰjʌn	n ɑ m pʰ jʌ n
+560	의정부가	ɰidʑʌŋbuɡɑ	ɰi dʑ ʌ ŋ b u ɡ ɑ
+561	유니코드	junikʰodɯ	ju n i kʰ o d ɯ
+562	이불과	ibulɡwa	i b u l ɡ wa
+563	카이로	kʰɑilo	kʰ ɑ i l o
+564	중구	tɕuŋɡu	tɕ u ŋ ɡ u
+565	수록곡을	sulokk*oɡɯl	s u l o k k* o ɡ ɯ l
+566	폐암으로	pʰjɛɑmɯlo	pʰ jɛ ɑ m ɯ l o
+567	구세주로	kusɛdʑulo	k u s ɛ dʑ u l o
+568	한국말이	hɑnɡuŋmɑli	h ɑ n ɡ u ŋ m ɑ l i
+569	알코올은	ɑlkʰoolɯn	ɑ l kʰ o o l ɯ n
+570	비행기로	pihɛŋɡilo	p i h ɛ ŋ ɡ i l o
+571	신부	sinbu	s i n b u
+572	빵이	p*ɑŋi	p* ɑ ŋ i
+573	서울대	sʌuldɛ	s ʌ u l d ɛ
+574	뇌경색이	nwɛɡjʌŋsɛɡi	n wɛ ɡ jʌ ŋ s ɛ ɡ i
+575	제트스키로	tɕɛtʰɯsɯkʰilo	tɕ ɛ tʰ ɯ s ɯ kʰ i l o
+576	평가받았다	pʰjʌŋɡɑbɑdɑtt*ɑ	pʰ jʌ ŋ ɡ ɑ b ɑ d ɑ t t* ɑ
+577	여왕으로	jʌwaŋɯlo	jʌ wa ŋ ɯ l o
+578	케플러	kʰɛpʰɯllʌ	kʰ ɛ pʰ ɯ l l ʌ
+579	뇌경색과	nwɛɡjʌŋsɛkk*wa	n wɛ ɡ jʌ ŋ s ɛ k k* wa
+580	연꽃은	jʌnk*otɕʰɯn	jʌ n k* o tɕʰ ɯ n
+581	스타는	sɯtʰɑnɯn	s ɯ tʰ ɑ n ɯ n
+582	무기	muɡi	m u ɡ i
+583	팝콘	pʰɑpkʰon	pʰ ɑ p kʰ o n
+584	피타고라스	pʰitʰɑɡolɑsɯ	pʰ i tʰ ɑ ɡ o l ɑ s ɯ
+585	이사회는	isɑhwɛnɯn	i s ɑ h wɛ n ɯ n
+586	전화가	tɕʌnhwaɡɑ	tɕ ʌ n h wa ɡ ɑ
+587	변호사와	pjʌnhosɑwa	p jʌ n h o s ɑ wa
+588	행정고시로	hɛŋdʑʌŋɡosilo	h ɛ ŋ dʑ ʌ ŋ ɡ o s i l o
+589	학과	hɑkk*wa	h ɑ k k* wa
+590	대기업으로	tɛɡiʌbɯlo	t ɛ ɡ i ʌ b ɯ l o
+591	주식회사와	tɕusikʰwɛsɑwa	tɕ u s i kʰ wɛ s ɑ wa
+592	불그스름한	pulɡɯsɯlɯmhɑn	p u l ɡ ɯ s ɯ l ɯ m h ɑ n
+593	장모	tɕɑŋmo	tɕ ɑ ŋ m o
+594	적성이	tɕʌks*ʌŋi	tɕ ʌ k s* ʌ ŋ i
+595	우주로	udʑulo	u dʑ u l o
+596	키즈까페를	kʰidʑɯk*ɑpʰɛlɯl	kʰ i dʑ ɯ k* ɑ pʰ ɛ l ɯ l
+597	보드카와	podɯkʰɑwa	p o d ɯ kʰ ɑ wa
+598	썼다	s*ʌtt*ɑ	s* ʌ t t* ɑ
+599	벽시계	pjʌks*iɡjɛ	p jʌ k s* i ɡ jɛ
+600	네덜란드어	nɛdʌllɑndɯʌ	n ɛ d ʌ l l ɑ n d ɯ ʌ
+601	알코올을	ɑlkʰoolɯl	ɑ l kʰ o o l ɯ l
+602	사랑하고	sɑlɑŋhɑɡo	s ɑ l ɑ ŋ h ɑ ɡ o
+603	의사와	ɰisɑwa	ɰi s ɑ wa
+604	이사회가	isɑhwɛɡɑ	i s ɑ h wɛ ɡ ɑ
+605	인문학은	inmunhɑɡɯn	i n m u n h ɑ ɡ ɯ n
+606	행정고시를	hɛŋdʑʌŋɡosilɯl	h ɛ ŋ dʑ ʌ ŋ ɡ o s i l ɯ l
+607	굼벵이	kumbɛŋi	k u m b ɛ ŋ i
+608	다카	tɑkʰɑ	t ɑ kʰ ɑ
+609	푸르스름한	pʰulɯsɯlɯmhɑn	pʰ u l ɯ s ɯ l ɯ m h ɑ n
+610	런던	lʌndʌn	l ʌ n d ʌ n
+611	티머니로	tʰimʌnilo	tʰ i m ʌ n i l o
+612	마법사로	mɑbʌps*ɑlo	m ɑ b ʌ p s* ɑ l o
+613	모아졌다	moɑdʑjʌtt*ɑ	m o ɑ dʑ jʌ t t* ɑ
+614	바하마	pɑhɑmɑ	p ɑ h ɑ m ɑ
+615	수도승이	sudosɯŋi	s u d o s ɯ ŋ i
+616	소통은	sotʰoŋɯn	s o tʰ o ŋ ɯ n
+617	사랑하지만	sɑlɑŋhɑdʑimɑn	s ɑ l ɑ ŋ h ɑ dʑ i m ɑ n
+618	어린이로	ʌlinilo	ʌ l i n i l o
+619	혈액형을	hjʌlɛkʰjʌŋɯl	h jʌ l ɛ kʰ jʌ ŋ ɯ l
+620	국무총리	kuŋmutɕʰoŋni	k u ŋ m u tɕʰ o ŋ n i
+621	버마어	pʌmɑʌ	p ʌ m ɑ ʌ
+622	시행으로	sihɛŋɯlo	s i h ɛ ŋ ɯ l o
+623	팬클럽은	pʰɛnkʰɯllʌbɯn	pʰ ɛ n kʰ ɯ l l ʌ b ɯ n
+624	쓰고	s*ɯɡo	s* ɯ ɡ o
+625	뜯지만	t*ɯttɕ*imɑn	t* ɯ t tɕ* i m ɑ n
+626	아이비리그를	ɑibiliɡɯlɯl	ɑ i b i l i ɡ ɯ l ɯ l
+627	변호사를	pjʌnhosɑlɯl	p jʌ n h o s ɑ l ɯ l
+628	상도를	sɑŋdolɯl	s ɑ ŋ d o l ɯ l
+629	새아빠	sɛɑp*ɑ	s ɛ ɑ p* ɑ
+630	닭	tɑk	t ɑ k
+631	까마귀는	k*ɑmɑɡwinɯn	k* ɑ m ɑ ɡ wi n ɯ n
+632	평가가	pʰjʌŋɡɑɡɑ	pʰ jʌ ŋ ɡ ɑ ɡ ɑ
+633	명성황후를	mjʌŋsʌŋhwaŋhulɯl	m jʌ ŋ s ʌ ŋ h wa ŋ h u l ɯ l
+634	정신병원과	tɕʌŋsinbjʌŋwʌnɡwa	tɕ ʌ ŋ s i n b jʌ ŋ wʌ n ɡ wa
+635	유통망으로	jutʰoŋmɑŋɯlo	ju tʰ o ŋ m ɑ ŋ ɯ l o
+636	테니스는	tʰɛnisɯnɯn	tʰ ɛ n i s ɯ n ɯ n
+637	조명	tɕomjʌŋ	tɕ o m jʌ ŋ
+638	농구가	noŋɡuɡɑ	n o ŋ ɡ u ɡ ɑ
+639	친일파와	tɕʰinilpʰɑwa	tɕʰ i n i l pʰ ɑ wa
+640	아기를	ɑɡilɯl	ɑ ɡ i l ɯ l
+641	여행과	jʌhɛŋɡwa	jʌ h ɛ ŋ ɡ wa
+642	마술사	mɑsulsɑ	m ɑ s u l s ɑ
+643	팝송은	pʰɑps*oŋɯn	pʰ ɑ p s* o ŋ ɯ n
+644	죽다	tɕukt*ɑ	tɕ u k t* ɑ
+645	디스크가	tisɯkʰɯɡɑ	t i s ɯ kʰ ɯ ɡ ɑ
+646	돈으로	tonɯlo	t o n ɯ l o
+647	오븐을	obɯnɯl	o b ɯ n ɯ l
+648	새이	sɛi	s ɛ i
+649	소년은	sonjʌnɯn	s o n jʌ n ɯ n
+650	향합니다	hjaŋhɑmnidɑ	h ja ŋ h ɑ m n i d ɑ
+651	구세주와	kusɛdʑuwa	k u s ɛ dʑ u wa
+652	자그레브	tɕɑɡɯlɛbɯ	tɕ ɑ ɡ ɯ l ɛ b ɯ
+653	킬로미터를	kʰillomitʰʌlɯl	kʰ i l l o m i tʰ ʌ l ɯ l
+654	물리	mulli	m u l l i
+655	대상으로	tɛsɑŋɯlo	t ɛ s ɑ ŋ ɯ l o
+656	주식회사	tɕusikʰwɛsɑ	tɕ u s i kʰ wɛ s ɑ
+657	아빠	ɑp*ɑ	ɑ p* ɑ
+658	여왕과	jʌwaŋɡwa	jʌ wa ŋ ɡ wa
+659	떠나셨다	t*ʌnɑsjʌtt*ɑ	t* ʌ n ɑ s jʌ t t* ɑ
+660	이름을	ilɯmɯl	i l ɯ m ɯ l
+661	가발으로	kɑbɑlɯlo	k ɑ b ɑ l ɯ l o
+662	소년이	sonjʌni	s o n jʌ n i
+663	수탉을	sutʰɑlɡɯl	s u tʰ ɑ l ɡ ɯ l
+664	잡지만	tɕɑptɕ*imɑn	tɕ ɑ p tɕ* i m ɑ n
+665	오렌지	olɛndʑi	o l ɛ n dʑ i
+666	배우셨다	pɛusjʌtt*ɑ	p ɛ u s jʌ t t* ɑ
+667	오지만	odʑimɑn	o dʑ i m ɑ n
+668	감자는	kɑmdʑɑnɯn	k ɑ m dʑ ɑ n ɯ n
+669	음료를	ɯmnjolɯl	ɯ m n jo l ɯ l
+670	떠났다	t*ʌnɑtt*ɑ	t* ʌ n ɑ t t* ɑ
+671	아들	ɑdɯl	ɑ d ɯ l
+672	장미와	tɕɑŋmiwa	tɕ ɑ ŋ m i wa
+673	스위스	sɯwisɯ	s ɯ wi s ɯ
+674	시장과	sidʑɑŋɡwa	s i dʑ ɑ ŋ ɡ wa
+675	강원도	kɑŋwʌndo	k ɑ ŋ wʌ n d o
+676	고도리	kodoli	k o d o l i
+677	법은	pʌbɯn	p ʌ b ɯ n
+678	모의고사	moɰiɡosɑ	m o ɰi ɡ o s ɑ
+679	크메르어	kʰɯmɛlɯʌ	kʰ ɯ m ɛ l ɯ ʌ
+680	가축을	kɑtɕʰuɡɯl	k ɑ tɕʰ u ɡ ɯ l
+681	개최됐다	kɛtɕʰwɛdwɛtt*ɑ	k ɛ tɕʰ wɛ d wɛ t t* ɑ
+682	과일으로	kwailɯlo	k wa i l ɯ l o
+683	윤동주	jundoŋdʑu	ju n d o ŋ dʑ u
+684	판매했다	pʰɑnmɛhɛtt*ɑ	pʰ ɑ n m ɛ h ɛ t t* ɑ
+685	담겼다	tɑmɡjʌtt*ɑ	t ɑ m ɡ jʌ t t* ɑ
+686	오븐	obɯn	o b ɯ n
+687	겨울철으로	kjʌultɕʰʌlɯlo	k jʌ u l tɕʰ ʌ l ɯ l o
+688	쌍용차로	s*ɑŋjoŋtɕʰɑlo	s* ɑ ŋ jo ŋ tɕʰ ɑ l o
+689	오는	onɯn	o n ɯ n
+690	없었다	ʌps*ʌtt*ɑ	ʌ p s* ʌ t t* ɑ
+691	라이프니츠	lɑipʰɯnitɕʰɯ	l ɑ i pʰ ɯ n i tɕʰ ɯ
+692	항산화제	hɑŋsɑnhwadʑɛ	h ɑ ŋ s ɑ n h wa dʑ ɛ
+693	세웠다	sɛwʌtt*ɑ	s ɛ wʌ t t* ɑ
+694	커피는	kʰʌpʰinɯn	kʰ ʌ pʰ i n ɯ n
+695	한국말은	hɑnɡuŋmɑlɯn	h ɑ n ɡ u ŋ m ɑ l ɯ n
+696	마라도나로	mɑlɑdonɑlo	m ɑ l ɑ d o n ɑ l o
+697	수탉이	sutʰɑlɡi	s u tʰ ɑ l ɡ i
+698	벌	pʌl	p ʌ l
+699	인문학과	inmunhɑkk*wa	i n m u n h ɑ k k* wa
+700	우유	uju	u ju
+701	왕자	waŋdʑɑ	wa ŋ dʑ ɑ
+702	가격으로	kɑɡjʌɡɯlo	k ɑ ɡ jʌ ɡ ɯ l o
+703	고양이가	kojaŋiɡɑ	k o ja ŋ i ɡ ɑ
+704	삶은	sɑlmɯn	s ɑ l m ɯ n
+705	사는	sɑnɯn	s ɑ n ɯ n
+706	홈런포	homnʌnpʰo	h o m n ʌ n pʰ o
+707	새	sɛ	s ɛ
+708	물리로	mullilo	m u l l i l o
+709	그림으로	kɯlimɯlo	k ɯ l i m ɯ l o
+710	감	kɑm	k ɑ m
+711	평화가	pʰjʌŋhwaɡɑ	pʰ jʌ ŋ h wa ɡ ɑ
+712	테니스와	tʰɛnisɯwa	tʰ ɛ n i s ɯ wa
+713	나폴레옹	nɑpʰollɛoŋ	n ɑ pʰ o l l ɛ o ŋ
+714	인문학을	inmunhɑɡɯl	i n m u n h ɑ ɡ ɯ l
+715	남구	nɑmɡu	n ɑ m ɡ u
+716	보석	posʌk	p o s ʌ k
+717	허여스름한	hʌjʌsɯlɯmhɑn	h ʌ jʌ s ɯ l ɯ m h ɑ n
+718	원주	wʌndʑu	wʌ n dʑ u
+719	쌍용차	s*ɑŋjoŋtɕʰɑ	s* ɑ ŋ jo ŋ tɕʰ ɑ
+720	스페인	sɯpʰɛin	s ɯ pʰ ɛ i n
+721	디스크를	tisɯkʰɯlɯl	t i s ɯ kʰ ɯ l ɯ l
+722	능소니	nɯŋsoni	n ɯ ŋ s o n i
+723	평가를	pʰjʌŋɡɑlɯl	pʰ jʌ ŋ ɡ ɑ l ɯ l
+724	카페인으로	kʰɑpʰɛinɯlo	kʰ ɑ pʰ ɛ i n ɯ l o
+725	말함	mɑlhɑm	m ɑ l h ɑ m
+726	말하는	mɑlhɑnɯn	m ɑ l h ɑ n ɯ n
+727	입과	ipk*wa	i p k* wa
+728	배트맨	pɛtʰɯmɛn	p ɛ tʰ ɯ m ɛ n
+729	수소	suso	s u s o
+730	소년으로	sonjʌnɯlo	s o n jʌ n ɯ l o
+731	여행이	jʌhɛŋi	jʌ h ɛ ŋ i
+732	대기업과	tɛɡiʌpk*wa	t ɛ ɡ i ʌ p k* wa
+733	철학자	tɕʰʌlhɑktɕ*ɑ	tɕʰ ʌ l h ɑ k tɕ* ɑ
+734	동서양으로	toŋsʌjaŋɯlo	t o ŋ s ʌ ja ŋ ɯ l o
+735	주황	tɕuhwaŋ	tɕ u h wa ŋ
+736	가다	kɑdɑ	k ɑ d ɑ
+737	학	hɑk	h ɑ k
+738	조명을	tɕomjʌŋɯl	tɕ o m jʌ ŋ ɯ l
+739	현금이	hjʌnɡɯmi	h jʌ n ɡ ɯ m i
+740	사과	sɑɡwa	s ɑ ɡ wa
+741	입은	ibɯn	i b ɯ n
+742	칠레	tɕʰillɛ	tɕʰ i l l ɛ
+743	가위	kɑwi	k ɑ wi
+744	사다	sɑdɑ	s ɑ d ɑ
+745	플레이오프는	pʰɯllɛiopʰɯnɯn	pʰ ɯ l l ɛ i o pʰ ɯ n ɯ n
+746	고양이를	kojaŋilɯl	k o ja ŋ i l ɯ l
+747	뉴발란스가	njubɑllɑnsɯɡɑ	n ju b ɑ l l ɑ n s ɯ ɡ ɑ
+748	팝콘을	pʰɑpkʰonɯl	pʰ ɑ p kʰ o n ɯ l
+749	강의를	kɑŋɰilɯl	k ɑ ŋ ɰi l ɯ l
+750	도입은	toibɯn	t o i b ɯ n
+751	의사는	ɰisɑnɯn	ɰi s ɑ n ɯ n
+752	영화관을	jʌŋhwaɡwanɯl	jʌ ŋ h wa ɡ wa n ɯ l
+753	항산화제로	hɑŋsɑnhwadʑɛlo	h ɑ ŋ s ɑ n h wa dʑ ɛ l o
+754	주식이	tɕusiɡi	tɕ u s i ɡ i
+755	화학으로	hwahɑɡɯlo	h wa h ɑ ɡ ɯ l o
+756	키즈까페와	kʰidʑɯk*ɑpʰɛwa	kʰ i dʑ ɯ k* ɑ pʰ ɛ wa
+757	기차와	kitɕʰɑwa	k i tɕʰ ɑ wa
+758	마법사	mɑbʌps*ɑ	m ɑ b ʌ p s* ɑ
+759	마술사는	mɑsulsɑnɯn	m ɑ s u l s ɑ n ɯ n
+760	버려요	pʌljʌjo	p ʌ l jʌ jo
+761	인정하다	indʑʌŋhɑdɑ	i n dʑ ʌ ŋ h ɑ d ɑ
+762	플레이오프가	pʰɯllɛiopʰɯɡɑ	pʰ ɯ l l ɛ i o pʰ ɯ ɡ ɑ
+763	놓고	nokʰo	n o kʰ o
+764	부다페스트	pudɑpʰɛsɯtʰɯ	p u d ɑ pʰ ɛ s ɯ tʰ ɯ
+765	물리는	mullinɯn	m u l l i n ɯ n
+766	뉴타운과	njutʰɑunɡwa	n ju tʰ ɑ u n ɡ wa
+767	맹자	mɛŋdʑɑ	m ɛ ŋ dʑ ɑ
+768	이불으로	ibulɯlo	i b u l ɯ l o
+769	탁자와	tʰɑktɕ*ɑwa	tʰ ɑ k tɕ* ɑ wa
+770	학을	hɑɡɯl	h ɑ ɡ ɯ l
+771	프랑스	pʰɯlɑŋsɯ	pʰ ɯ l ɑ ŋ s ɯ
+772	잠자리	tɕɑmdʑɑli	tɕ ɑ m dʑ ɑ l i
+773	존재가	tɕondʑɛɡɑ	tɕ o n dʑ ɛ ɡ ɑ
+774	삶으로	sɑlmɯlo	s ɑ l m ɯ l o
+775	영화	jʌŋhwa	jʌ ŋ h wa
+776	진은	tɕinɯn	tɕ i n ɯ n
+777	부대찌개로	pudɛtɕ*iɡɛlo	p u d ɛ tɕ* i ɡ ɛ l o
+778	대기업은	tɛɡiʌbɯn	t ɛ ɡ i ʌ b ɯ n
+779	수리비로	sulibilo	s u l i b i l o
+780	평화는	pʰjʌŋhwanɯn	pʰ jʌ ŋ h wa n ɯ n
+781	지렛대로	tɕilɛtt*ɛlo	tɕ i l ɛ t t* ɛ l o
+782	인터넷으로	intʰʌnɛsɯlo	i n tʰ ʌ n ɛ s ɯ l o
+783	삼	sɑm	s ɑ m
+784	팔렸다	pʰɑlljʌtt*ɑ	pʰ ɑ l l jʌ t t* ɑ
+785	종이	tɕoŋi	tɕ o ŋ i
+786	새엄마	sɛʌmmɑ	s ɛ ʌ m m ɑ
+787	중환자실이	tɕuŋhwandʑɑsili	tɕ u ŋ h wa n dʑ ɑ s i l i
+788	수용소를	sujoŋsolɯl	s u jo ŋ s o l ɯ l
+789	사랑함	sɑlɑŋhɑm	s ɑ l ɑ ŋ h ɑ m
+790	교수	kjosu	k jo s u
+791	인터넷이	intʰʌnɛsi	i n tʰ ʌ n ɛ s i
+792	밀가루가	milɡɑluɡɑ	m i l ɡ ɑ l u ɡ ɑ
+793	돈은	tonɯn	t o n ɯ n
+794	케냐	kʰɛnja	kʰ ɛ n ja
+795	피카소	pʰikʰɑso	pʰ i kʰ ɑ s o
+796	해안으로	hɛɑnɯlo	h ɛ ɑ n ɯ l o
+797	남용은	nɑmjoŋɯn	n ɑ m jo ŋ ɯ n
+798	작곡가	tɕɑkk*okk*ɑ	tɕ ɑ k k* o k k* ɑ
+799	과일이	kwaili	k wa i l i
+800	음식을	ɯmsiɡɯl	ɯ m s i ɡ ɯ l
+801	없으셨다	ʌps*ɯsjʌtt*ɑ	ʌ p s* ɯ s jʌ t t* ɑ
+802	컴퓨터를	kʰʌmpʰjutʰʌlɯl	kʰ ʌ m pʰ ju tʰ ʌ l ɯ l
+803	오소리는	osolinɯn	o s o l i n ɯ n
+804	혈액형	hjʌlɛkʰjʌŋ	h jʌ l ɛ kʰ jʌ ŋ
+805	되었다	twɛʌtt*ɑ	t wɛ ʌ t t* ɑ
+806	자매	tɕɑmɛ	tɕ ɑ m ɛ
+807	사랑했다	sɑlɑŋhɛtt*ɑ	s ɑ l ɑ ŋ h ɛ t t* ɑ
+808	시집	sidʑip	s i dʑ i p
+809	고모	komo	k o m o
+810	도쿄	tokʰjo	t o kʰ jo
+811	플레이오프	pʰɯllɛiopʰɯ	pʰ ɯ l l ɛ i o pʰ ɯ
+812	보였다	pojʌtt*ɑ	p o jʌ t t* ɑ
+813	쥐	tɕwi	tɕ wi
+814	그	kɯ	k ɯ
+815	장가	tɕɑŋɡɑ	tɕ ɑ ŋ ɡ ɑ
+816	외숙모	wɛsuŋmo	wɛ s u ŋ m o
+817	자갈치를	tɕɑɡɑltɕʰilɯl	tɕ ɑ ɡ ɑ l tɕʰ i l ɯ l
+818	국민대	kuŋmindɛ	k u ŋ m i n d ɛ
+819	놓음	nohɯm	n o h ɯ m
+820	베트남	pɛtʰɯnɑm	p ɛ tʰ ɯ n ɑ m
+821	새빨간	sɛp*ɑlɡɑn	s ɛ p* ɑ l ɡ ɑ n
+822	사지만	sɑdʑimɑn	s ɑ dʑ i m ɑ n
+823	사줬다	sɑdʑwʌtt*ɑ	s ɑ dʑ wʌ t t* ɑ
+824	구합니다	kuhɑmnidɑ	k u h ɑ m n i d ɑ
+825	아이비리그와	ɑibiliɡɯwa	ɑ i b i l i ɡ ɯ wa
+826	파란	pʰɑlɑn	pʰ ɑ l ɑ n
+827	중환자실과	tɕuŋhwandʑɑsilɡwa	tɕ u ŋ h wa n dʑ ɑ s i l ɡ wa
+828	여동생	jʌdoŋsɛŋ	jʌ d o ŋ s ɛ ŋ
+829	이름	ilɯm	i l ɯ m
+830	통신망이	tʰoŋsinmɑŋi	tʰ o ŋ s i n m ɑ ŋ i
+831	서구	sʌɡu	s ʌ ɡ u
+832	팬클럽과	pʰɛnkʰɯllʌpk*wa	pʰ ɛ n kʰ ɯ l l ʌ p k* wa
+833	결승점으로	kjʌlsɯŋdʑʌmɯlo	k jʌ l s ɯ ŋ dʑ ʌ m ɯ l o
+834	라디오	lɑdio	l ɑ d i o
+835	누르스름한	nulɯsɯlɯmhɑn	n u l ɯ s ɯ l ɯ m h ɑ n
+836	숲은	supʰɯn	s u pʰ ɯ n
+837	팬클럽으로	pʰɛnkʰɯllʌbɯlo	pʰ ɛ n kʰ ɯ l l ʌ b ɯ l o
+838	결승점은	kjʌlsɯŋdʑʌmɯn	k jʌ l s ɯ ŋ dʑ ʌ m ɯ n
+839	보드카	podɯkʰɑ	p o d ɯ kʰ ɑ
+840	홈런포로	homnʌnpʰolo	h o m n ʌ n pʰ o l o
+841	마라도나를	mɑlɑdonɑlɯl	m ɑ l ɑ d o n ɑ l ɯ l
+842	신경과는	sinɡjʌŋɡwanɯn	s i n ɡ jʌ ŋ ɡ wa n ɯ n
+843	관리법을	kwallibʌbɯl	k wa l l i b ʌ b ɯ l
+844	들어왔다	tɯlʌwatt*ɑ	t ɯ l ʌ wa t t* ɑ
+845	체코어	tɕʰɛkʰoʌ	tɕʰ ɛ kʰ o ʌ
+846	텔레비전과	tʰɛllɛbidʑʌnɡwa	tʰ ɛ l l ɛ b i dʑ ʌ n ɡ wa
+847	남용이	nɑmjoŋi	n ɑ m jo ŋ i
+848	명성황후와	mjʌŋsʌŋhwaŋhuwa	m jʌ ŋ s ʌ ŋ h wa ŋ h u wa
+849	변호사로	pjʌnhosɑlo	p jʌ n h o s ɑ l o
+850	노르웨이	nolɯwɛi	n o l ɯ wɛ i
+851	영화관으로	jʌŋhwaɡwanɯlo	jʌ ŋ h wa ɡ wa n ɯ l o
+852	못했다	motʰɛtt*ɑ	m o tʰ ɛ t t* ɑ
+853	왕	waŋ	wa ŋ
+854	어흥	ʌhɯŋ	ʌ h ɯ ŋ
+855	자동차는	tɕɑdoŋtɕʰɑnɯn	tɕ ɑ d o ŋ tɕʰ ɑ n ɯ n
+856	마이클잭슨이	mɑikʰɯldʑɛks*ɯni	m ɑ i kʰ ɯ l dʑ ɛ k s* ɯ n i
+857	전원을	tɕʌnwʌnɯl	tɕ ʌ n wʌ n ɯ l
+858	프랑스어	pʰɯlɑŋsɯʌ	pʰ ɯ l ɑ ŋ s ɯ ʌ
+859	텔레비전이	tʰɛllɛbidʑʌni	tʰ ɛ l l ɛ b i dʑ ʌ n i
+860	주식회사를	tɕusikʰwɛsɑlɯl	tɕ u s i kʰ wɛ s ɑ l ɯ l
+861	자갈치로	tɕɑɡɑltɕʰilo	tɕ ɑ ɡ ɑ l tɕʰ i l o
+862	장사니	tɕɑŋsɑni	tɕ ɑ ŋ s ɑ n i
+863	뉴발란스는	njubɑllɑnsɯnɯn	n ju b ɑ l l ɑ n s ɯ n ɯ n
+864	송아지	soŋɑdʑi	s o ŋ ɑ dʑ i
+865	돈	ton	t o n
+866	고양이와	kojaŋiwa	k o ja ŋ i wa
+867	음료	ɯmnjo	ɯ m n jo
+868	레닌	lɛnin	l ɛ n i n
+869	먹는	mʌŋnɯn	m ʌ ŋ n ɯ n
+870	뉴타운은	njutʰɑunɯn	n ju tʰ ɑ u n ɯ n
+871	감자로	kɑmdʑɑlo	k ɑ m dʑ ɑ l o
+872	시조와	sidʑowa	s i dʑ o wa
+873	가축과	kɑtɕʰukk*wa	k ɑ tɕʰ u k k* wa
+874	여직원	jʌdʑiɡwʌn	jʌ dʑ i ɡ wʌ n
+875	오븐이	obɯni	o b ɯ n i
+876	브라질	pɯlɑdʑil	p ɯ l ɑ dʑ i l
+877	고양이	kojaŋi	k o ja ŋ i
+878	버터	pʌtʰʌ	p ʌ tʰ ʌ
+879	하고	hɑɡo	h ɑ ɡ o
+880	쿠바	kʰubɑ	kʰ u b ɑ
+881	숲	sup	s u p
+882	들어오셨다	tɯlʌosjʌtt*ɑ	t ɯ l ʌ o s jʌ t t* ɑ
+883	운동량으로	undoŋnjaŋɯlo	u n d o ŋ n ja ŋ ɯ l o
+884	자갈치는	tɕɑɡɑltɕʰinɯn	tɕ ɑ ɡ ɑ l tɕʰ i n ɯ n
+885	명태	mjʌŋtʰɛ	m jʌ ŋ tʰ ɛ
+886	여권으로	jʌɡwʌnɯlo	jʌ ɡ wʌ n ɯ l o
+887	팝송으로	pʰɑps*oŋɯlo	pʰ ɑ p s* o ŋ ɯ l o
+888	피었습니다	pʰiʌts*ɯmnidɑ	pʰ i ʌ t s* ɯ m n i d ɑ
+889	플레이오프와	pʰɯllɛiopʰɯwa	pʰ ɯ l l ɛ i o pʰ ɯ wa
+890	뇌경색은	nwɛɡjʌŋsɛɡɯn	n wɛ ɡ jʌ ŋ s ɛ ɡ ɯ n
+891	경기도	kjʌŋɡido	k jʌ ŋ ɡ i d o
+892	까마귀가	k*ɑmɑɡwiɡɑ	k* ɑ m ɑ ɡ wi ɡ ɑ
+893	부대찌개가	pudɛtɕ*iɡɛɡɑ	p u d ɛ tɕ* i ɡ ɛ ɡ ɑ
+894	강	kɑŋ	k ɑ ŋ
+895	박진영을	pɑktɕ*injʌŋɯl	p ɑ k tɕ* i n jʌ ŋ ɯ l
+896	주무셨다	tɕumusjʌtt*ɑ	tɕ u m u s jʌ t t* ɑ
+897	이불이	ibuli	i b u l i
+898	국민대로	kuŋmindɛlo	k u ŋ m i n d ɛ l o
+899	자갈치가	tɕɑɡɑltɕʰiɡɑ	tɕ ɑ ɡ ɑ l tɕʰ i ɡ ɑ
+900	짹짹	tɕ*ɛktɕ*ɛk	tɕ* ɛ k tɕ* ɛ k
+901	관리법과	kwallibʌpk*wa	k wa l l i b ʌ p k* wa
+902	학생을	hɑks*ɛŋɯl	h ɑ k s* ɛ ŋ ɯ l
+903	랜드마크는	lɛndɯmɑkʰɯnɯn	l ɛ n d ɯ m ɑ kʰ ɯ n ɯ n
+904	적성	tɕʌks*ʌŋ	tɕ ʌ k s* ʌ ŋ
+905	버터로	pʌtʰʌlo	p ʌ tʰ ʌ l o
+906	나갔다	nɑɡɑtt*ɑ	n ɑ ɡ ɑ t t* ɑ
+907	하셨습니다	hɑsjʌts*ɯmnidɑ	h ɑ s jʌ t s* ɯ m n i d ɑ
+908	계모	kjɛmo	k jɛ m o
+909	예루살렘은	jɛlusɑllɛmɯn	jɛ l u s ɑ l l ɛ m ɯ n
+910	이집트	idʑiptʰɯ	i dʑ i p tʰ ɯ
+911	미녀	minjʌ	m i n jʌ
+912	인정하면서	indʑʌŋhɑmjʌnsʌ	i n dʑ ʌ ŋ h ɑ m jʌ n s ʌ
+913	해안은	hɛɑnɯn	h ɛ ɑ n ɯ n
+914	도서관과	tosʌɡwanɡwa	t o s ʌ ɡ wa n ɡ wa
+915	시조를	sidʑolɯl	s i dʑ o l ɯ l
+916	클레오파트라	kʰɯllɛopʰɑtʰɯlɑ	kʰ ɯ l l ɛ o pʰ ɑ tʰ ɯ l ɑ
+917	여행은	jʌhɛŋɯn	jʌ h ɛ ŋ ɯ n
+918	암탉	ɑmtʰɑk	ɑ m tʰ ɑ k
+919	유니코드가	junikʰodɯɡɑ	ju n i kʰ o d ɯ ɡ ɑ
+920	관광지로	kwanɡwaŋdʑilo	k wa n ɡ wa ŋ dʑ i l o
+921	설계도로	sʌlɡjɛdolo	s ʌ l ɡ jɛ d o l o
+922	장미로	tɕɑŋmilo	tɕ ɑ ŋ m i l o
+923	박진영이	pɑktɕ*injʌŋi	p ɑ k tɕ* i n jʌ ŋ i
+924	찍었습니다	tɕ*iɡʌts*ɯmnidɑ	tɕ* i ɡ ʌ t s* ɯ m n i d ɑ
+925	호랑이를	holɑŋilɯl	h o l ɑ ŋ i l ɯ l
+926	양상추는	jaŋsɑŋtɕʰunɯn	ja ŋ s ɑ ŋ tɕʰ u n ɯ n
+927	우주가	udʑuɡɑ	u dʑ u ɡ ɑ
+928	국무총리와	kuŋmutɕʰoŋniwa	k u ŋ m u tɕʰ o ŋ n i wa
+929	먹음	mʌɡɯm	m ʌ ɡ ɯ m
+930	모았다	moɑtt*ɑ	m o ɑ t t* ɑ
+931	은행으로	ɯnhɛŋɯlo	ɯ n h ɛ ŋ ɯ l o
+932	한국	hɑnɡuk	h ɑ n ɡ u k
+933	체포당했다	tɕʰɛpʰodɑŋhɛtt*ɑ	tɕʰ ɛ pʰ o d ɑ ŋ h ɛ t t* ɑ
+934	키보드는	kʰibodɯnɯn	kʰ i b o d ɯ n ɯ n
+935	컴퓨터와	kʰʌmpʰjutʰʌwa	kʰ ʌ m pʰ ju tʰ ʌ wa
+936	농구는	noŋɡunɯn	n o ŋ ɡ u n ɯ n
+937	군인과	kuninɡwa	k u n i n ɡ wa
+938	도서관으로	tosʌɡwanɯlo	t o s ʌ ɡ wa n ɯ l o
+939	달리다	tɑllidɑ	t ɑ l l i d ɑ
+940	전화는	tɕʌnhwanɯn	tɕ ʌ n h wa n ɯ n
+941	카페인이	kʰɑpʰɛini	kʰ ɑ pʰ ɛ i n i
+942	수용소가	sujoŋsoɡɑ	s u jo ŋ s o ɡ ɑ
+943	탁자를	tʰɑktɕ*ɑlɯl	tʰ ɑ k tɕ* ɑ l ɯ l
+944	도입을	toibɯl	t o i b ɯ l
+945	우셨다	usjʌtt*ɑ	u s jʌ t t* ɑ
+946	서울대가	sʌuldɛɡɑ	s ʌ u l d ɛ ɡ ɑ
+947	나이로비	nɑilobi	n ɑ i l o b i
+948	시뻘건	sip*ʌlɡʌn	s i p* ʌ l ɡ ʌ n
+949	종이는	tɕoŋinɯn	tɕ o ŋ i n ɯ n
+950	라켓과	lɑkʰɛtk*wa	l ɑ kʰ ɛ t k* wa
+951	숲과	supk*wa	s u p k* wa
+952	담는	tɑmnɯn	t ɑ m n ɯ n
+953	오이가	oiɡɑ	o i ɡ ɑ
+954	군인	kunin	k u n i n
+955	서귀포	sʌɡwipʰo	s ʌ ɡ wi pʰ o
+956	주셨어요	tɕusjʌs*ʌjo	tɕ u s jʌ s* ʌ jo
+957	벽시계와	pjʌks*iɡjɛwa	p jʌ k s* i ɡ jɛ wa
+958	관리법으로	kwallibʌbɯlo	k wa l l i b ʌ b ɯ l o
+959	쌌다	s*ɑtt*ɑ	s* ɑ t t* ɑ
+960	선생을	sʌnsɛŋɯl	s ʌ n s ɛ ŋ ɯ l
+961	오스트리아	osɯtʰɯliɑ	o s ɯ tʰ ɯ l i ɑ
+962	음료와	ɯmnjowa	ɯ m n jo wa
+963	무기로	muɡilo	m u ɡ i l o
+964	형제와	hjʌŋdʑɛwa	h jʌ ŋ dʑ ɛ wa
+965	전야제를	tɕʌnjadʑɛlɯl	tɕ ʌ n ja dʑ ɛ l ɯ l
+966	까마귀로	k*ɑmɑɡwilo	k* ɑ m ɑ ɡ wi l o
+967	국악과가	kuɡɑkk*waɡɑ	k u ɡ ɑ k k* wa ɡ ɑ
+968	열었다	jʌlʌtt*ɑ	jʌ l ʌ t t* ɑ
+969	도왔다	towatt*ɑ	t o wa t t* ɑ
+970	극장판과	kɯktɕ*ɑŋpʰɑnɡwa	k ɯ k tɕ* ɑ ŋ pʰ ɑ n ɡ wa
+971	약은	jaɡɯn	ja ɡ ɯ n
+972	이자가	idʑɑɡɑ	i dʑ ɑ ɡ ɑ
+973	로마	lomɑ	l o m ɑ
+974	너구리	nʌɡuli	n ʌ ɡ u l i
+975	수용소는	sujoŋsonɯn	s u jo ŋ s o n ɯ n
+976	커피를	kʰʌpʰilɯl	kʰ ʌ pʰ i l ɯ l
+977	가격을	kɑɡjʌɡɯl	k ɑ ɡ jʌ ɡ ɯ l
+978	노벨	nobɛl	n o b ɛ l
+979	쌍용차와	s*ɑŋjoŋtɕʰɑwa	s* ɑ ŋ jo ŋ tɕʰ ɑ wa
+980	대추나무로	tɛtɕʰunɑmulo	t ɛ tɕʰ u n ɑ m u l o
+981	통신망으로	tʰoŋsinmɑŋɯlo	tʰ o ŋ s i n m ɑ ŋ ɯ l o
+982	유통망은	jutʰoŋmɑŋɯn	ju tʰ o ŋ m ɑ ŋ ɯ n
+983	올레길과	ollɛɡilɡwa	o l l ɛ ɡ i l ɡ wa
+984	이스라엘	isɯlɑɛl	i s ɯ l ɑ ɛ l
+985	라켓으로	lɑkʰɛsɯlo	l ɑ kʰ ɛ s ɯ l o
+986	삐약	p*ijak	p* i ja k
+987	세워졌다	sɛwʌdʑjʌtt*ɑ	s ɛ wʌ dʑ jʌ t t* ɑ
+988	자동차로	tɕɑdoŋtɕʰɑlo	tɕ ɑ d o ŋ tɕʰ ɑ l o
+989	레논	lɛnon	l ɛ n o n
+990	열렸다	jʌlljʌtt*ɑ	jʌ l l jʌ t t* ɑ
+991	작가	tɕɑkk*ɑ	tɕ ɑ k k* ɑ
+992	영수증으로	jʌŋsudʑɯŋɯlo	jʌ ŋ s u dʑ ɯ ŋ ɯ l o
+993	강변은	kɑŋbjʌnɯn	k ɑ ŋ b jʌ n ɯ n
+994	비행기는	pihɛŋɡinɯn	p i h ɛ ŋ ɡ i n ɯ n
+995	샀다	sɑtt*ɑ	s ɑ t t* ɑ
+996	부대찌개를	pudɛtɕ*iɡɛlɯl	p u d ɛ tɕ* i ɡ ɛ l ɯ l
+997	크로아티아	kʰɯloɑtʰiɑ	kʰ ɯ l o ɑ tʰ i ɑ
+998	뻘건	p*ʌlɡʌn	p* ʌ l ɡ ʌ n
+999	할아버지	hɑlɑbʌdʑi	h ɑ l ɑ b ʌ dʑ i
+1000	발강이	pɑlɡɑŋi	p ɑ l ɡ ɑ ŋ i
+1001	매	mɛ	m ɛ
+1002	아이비리그는	ɑibiliɡɯnɯn	ɑ i b i l i ɡ ɯ n ɯ n
+1003	오이로	oilo	o i l o
+1004	테니스로	tʰɛnisɯlo	tʰ ɛ n i s ɯ l o
+1005	놓다	notʰɑ	n o tʰ ɑ
+1006	팔레스타인	pʰɑllɛsɯtʰɑin	pʰ ɑ l l ɛ s ɯ tʰ ɑ i n
+1007	랜드마크를	lɛndɯmɑkʰɯlɯl	l ɛ n d ɯ m ɑ kʰ ɯ l ɯ l
+1008	뉴타운으로	njutʰɑunɯlo	n ju tʰ ɑ u n ɯ l o
+1009	데카르트	tɛkʰɑlɯtʰɯ	t ɛ kʰ ɑ l ɯ tʰ ɯ
+1010	나물	nɑmul	n ɑ m u l
+1011	이불	ibul	i b u l
+1012	도구가	toɡuɡɑ	t o ɡ u ɡ ɑ
+1013	바흐	pɑhɯ	p ɑ h ɯ
+1014	사랑하는	sɑlɑŋhɑnɯn	s ɑ l ɑ ŋ h ɑ n ɯ n
+1015	깎았다	k*ɑk*ɑtt*ɑ	k* ɑ k* ɑ t t* ɑ
+1016	예루살렘으로	jɛlusɑllɛmɯlo	jɛ l u s ɑ l l ɛ m ɯ l o
+1017	인정하고	indʑʌŋhɑɡo	i n dʑ ʌ ŋ h ɑ ɡ o
+1018	배트맨으로	pɛtʰɯmɛnɯlo	p ɛ tʰ ɯ m ɛ n ɯ l o
+1019	미얀아	mijanɑ	m i ja n ɑ
+1020	아기	ɑɡi	ɑ ɡ i
+1021	쿠웨이트	kʰuwɛitʰɯ	kʰ u wɛ i tʰ ɯ
+1022	가오리	kɑoli	k ɑ o l i
+1023	비둘기	pidulɡi	p i d u l ɡ i
+1024	디스크는	tisɯkʰɯnɯn	t i s ɯ kʰ ɯ n ɯ n
+1025	헤겔	hɛɡɛl	h ɛ ɡ ɛ l
+1026	에디슨	ɛdisɯn	ɛ d i s ɯ n
+1027	라켓	lɑkʰɛt	l ɑ kʰ ɛ t
+1028	랜드마크로	lɛndɯmɑkʰɯlo	l ɛ n d ɯ m ɑ kʰ ɯ l o
+1029	우산이	usɑni	u s ɑ n i
+1030	마키아밸리	mɑkʰiɑbɛlli	m ɑ kʰ i ɑ b ɛ l l i
+1031	그녀	kɯnjʌ	k ɯ n jʌ
+1032	대기업을	tɛɡiʌbɯl	t ɛ ɡ i ʌ b ɯ l
+1033	진	tɕin	tɕ i n
+1034	놓는	nonnɯn	n o n n ɯ n
+1035	자동차와	tɕɑdoŋtɕʰɑwa	tɕ ɑ d o ŋ tɕʰ ɑ wa
+1036	의사를	ɰisɑlɯl	ɰi s ɑ l ɯ l
+1037	혈액형과	hjʌlɛkʰjʌŋɡwa	h jʌ l ɛ kʰ jʌ ŋ ɡ wa
+1038	국악과를	kuɡɑkk*walɯl	k u ɡ ɑ k k* wa l ɯ l
+1039	부대찌개와	pudɛtɕ*iɡɛwa	p u d ɛ tɕ* i ɡ ɛ wa
+1040	북극곰	pukk*ɯkk*om	p u k k* ɯ k k* o m
+1041	핀란드	pʰillɑndɯ	pʰ i l l ɑ n d ɯ
+1042	엄마가	ʌmmɑɡɑ	ʌ m m ɑ ɡ ɑ
+1043	우주를	udʑulɯl	u dʑ u l ɯ l
+1044	시조가	sidʑoɡɑ	s i dʑ o ɡ ɑ
+1045	수록곡은	sulokk*oɡɯn	s u l o k k* o ɡ ɯ n
+1046	밀가루	milɡɑlu	m i l ɡ ɑ l u
+1047	다마스쿠스	tɑmɑsɯkʰusɯ	t ɑ m ɑ s ɯ kʰ u s ɯ
+1048	교수가	kjosuɡɑ	k jo s u ɡ ɑ
+1049	서울대로	sʌuldɛlo	s ʌ u l d ɛ l o
+1050	북극	pukk*ɯk	p u k k* ɯ k
+1051	난방으로	nɑnbɑŋɯlo	n ɑ n b ɑ ŋ ɯ l o
+1052	명성황후로	mjʌŋsʌŋhwaŋhulo	m jʌ ŋ s ʌ ŋ h wa ŋ h u l o
+1053	영화관이	jʌŋhwaɡwani	jʌ ŋ h wa ɡ wa n i
+1054	빵을	p*ɑŋɯl	p* ɑ ŋ ɯ l
+1055	담았다	tɑmɑtt*ɑ	t ɑ m ɑ t t* ɑ
+1056	폐암과	pʰjɛɑmɡwa	pʰ jɛ ɑ m ɡ wa
+1057	렌트카와	lɛntʰɯkʰɑwa	l ɛ n tʰ ɯ kʰ ɑ wa
+1058	텔레비전은	tʰɛllɛbidʑʌnɯn	tʰ ɛ l l ɛ b i dʑ ʌ n ɯ n
+1059	남아	nɑmɑ	n ɑ m ɑ
+1060	가발과	kɑbɑlɡwa	k ɑ b ɑ l ɡ wa
+1061	극장판으로	kɯktɕ*ɑŋpʰɑnɯlo	k ɯ k tɕ* ɑ ŋ pʰ ɑ n ɯ l o
+1062	수리비는	sulibinɯn	s u l i b i n ɯ n
+1063	시행을	sihɛŋɯl	s i h ɛ ŋ ɯ l
+1064	팬클럽을	pʰɛnkʰɯllʌbɯl	pʰ ɛ n kʰ ɯ l l ʌ b ɯ l
+1065	불가리아	pulɡɑliɑ	p u l ɡ ɑ l i ɑ
+1066	마이클잭슨과	mɑikʰɯldʑɛks*ɯnɡwa	m ɑ i kʰ ɯ l dʑ ɛ k s* ɯ n ɡ wa
+1067	플라톤	pʰɯllɑtʰon	pʰ ɯ l l ɑ tʰ o n
+1068	화학은	hwahɑɡɯn	h wa h ɑ ɡ ɯ n
+1069	먹지만	mʌktɕ*imɑn	m ʌ k tɕ* i m ɑ n
+1070	법이	pʌbi	p ʌ b i
+1071	상도	sɑŋdo	s ɑ ŋ d o
+1072	이자로	idʑɑlo	i dʑ ɑ l o
+1073	들어가다	tɯlʌɡɑdɑ	t ɯ l ʌ ɡ ɑ d ɑ
+1074	시행과	sihɛŋɡwa	s i h ɛ ŋ ɡ wa
+1075	감자를	kɑmdʑɑlɯl	k ɑ m dʑ ɑ l ɯ l
+1076	증조모	tɕɯŋdʑomo	tɕ ɯ ŋ dʑ o m o
+1077	여왕은	jʌwaŋɯn	jʌ wa ŋ ɯ n
+1078	도착했어요	totɕʰɑkʰɛs*ʌjo	t o tɕʰ ɑ kʰ ɛ s* ʌ jo
+1079	과일은	kwailɯn	k wa i l ɯ n
+1080	한국말	hɑnɡuŋmɑl	h ɑ n ɡ u ŋ m ɑ l
+1081	마술사가	mɑsulsɑɡɑ	m ɑ s u l s ɑ ɡ ɑ
+1082	약과	jakk*wa	ja k k* wa
+1083	주식은	tɕusiɡɯn	tɕ u s i ɡ ɯ n
+1084	방글라데시	pɑŋɡɯllɑdɛsi	p ɑ ŋ ɡ ɯ l l ɑ d ɛ s i
+1085	말하고	mɑlhɑɡo	m ɑ l h ɑ ɡ o
+1086	딸	t*ɑl	t* ɑ l
+1087	영수증이	jʌŋsudʑɯŋi	jʌ ŋ s u dʑ ɯ ŋ i
+1088	난방이	nɑnbɑŋi	n ɑ n b ɑ ŋ i
+1089	마르크스	mɑlɯkʰɯsɯ	m ɑ l ɯ kʰ ɯ s ɯ
+1090	수탉	sutʰɑk	s u tʰ ɑ k
+1091	팬클럽	pʰɛnkʰɯllʌp	pʰ ɛ n kʰ ɯ l l ʌ p
+1092	강변과	kɑŋbjʌnɡwa	k ɑ ŋ b jʌ n ɡ wa
+1093	가축은	kɑtɕʰuɡɯn	k ɑ tɕʰ u ɡ ɯ n
+1094	영화관	jʌŋhwaɡwan	jʌ ŋ h wa ɡ wa n
+1095	나가셨다	nɑɡɑsjʌtt*ɑ	n ɑ ɡ ɑ s jʌ t t* ɑ
+1096	묻혔다	mutʰjʌtt*ɑ	m u tʰ jʌ t t* ɑ
+1097	비버	pibʌ	p i b ʌ
+1098	가지만	kɑdʑimɑn	k ɑ dʑ i m ɑ n
+1099	호치민	hotɕʰimin	h o tɕʰ i m i n
+1100	함	hɑm	h ɑ m
+1101	팝콘으로	pʰɑpkʰonɯlo	pʰ ɑ p kʰ o n ɯ l o
+1102	잔디	tɕɑndi	tɕ ɑ n d i
+1103	암만	ɑmmɑn	ɑ m m ɑ n
+1104	테니스를	tʰɛnisɯlɯl	tʰ ɛ n i s ɯ l ɯ l
+1105	하는	hɑnɯn	h ɑ n ɯ n
+1106	제수	tɕɛsu	tɕ ɛ s u
+1107	군인이	kunini	k u n i n i
+1108	태국	tʰɛɡuk	tʰ ɛ ɡ u k
+1109	소년과	sonjʌnɡwa	s o n jʌ n ɡ wa
+1110	싸다	s*ɑdɑ	s* ɑ d ɑ
+1111	세네갈	sɛnɛɡɑl	s ɛ n ɛ ɡ ɑ l
+1112	재규어를	tɕɛɡjuʌlɯl	tɕ ɛ ɡ ju ʌ l ɯ l
+1113	만들었다	mɑndɯlʌtt*ɑ	m ɑ n d ɯ l ʌ t t* ɑ
+1114	바그너	pɑɡɯnʌ	p ɑ ɡ ɯ n ʌ
+1115	적성과	tɕʌks*ʌŋɡwa	tɕ ʌ k s* ʌ ŋ ɡ wa
+1116	혈액형으로	hjʌlɛkʰjʌŋɯlo	h jʌ l ɛ kʰ jʌ ŋ ɯ l o
+1117	팝송이	pʰɑps*oŋi	pʰ ɑ p s* o ŋ i
+1118	라켓을	lɑkʰɛsɯl	l ɑ kʰ ɛ s ɯ l
+1119	사랑을	sɑlɑŋɯl	s ɑ l ɑ ŋ ɯ l
+1120	충주	tɕʰuŋdʑu	tɕʰ u ŋ dʑ u
+1121	유니코드는	junikʰodɯnɯn	ju n i kʰ o d ɯ n ɯ n
+1122	먹다	mʌkt*ɑ	m ʌ k t* ɑ
+1123	평화로	pʰjʌŋhwalo	pʰ jʌ ŋ h wa l o
+1124	비평가를	pipʰjʌŋɡɑlɯl	p i pʰ jʌ ŋ ɡ ɑ l ɯ l
+1125	아기가	ɑɡiɡɑ	ɑ ɡ i ɡ ɑ
+1126	티머니는	tʰimʌninɯn	tʰ i m ʌ n i n ɯ n
+1127	음료로	ɯmnjolo	ɯ m n jo l o
+1128	팔았다	pʰɑlɑtt*ɑ	pʰ ɑ l ɑ t t* ɑ
+1129	빵은	p*ɑŋɯn	p* ɑ ŋ ɯ n
+1130	주다	tɕudɑ	tɕ u d ɑ
+1131	신경과로	sinɡjʌŋɡwalo	s i n ɡ jʌ ŋ ɡ wa l o
+1132	퍼런	pʰʌlʌn	pʰ ʌ l ʌ n
+1133	펭귄	pʰɛŋɡwin	pʰ ɛ ŋ ɡ wi n
+1134	의정부와	ɰidʑʌŋbuwa	ɰi dʑ ʌ ŋ b u wa
+1135	잡으면서	tɕɑbɯmjʌnsʌ	tɕ ɑ b ɯ m jʌ n s ʌ
+1136	관광지	kwanɡwaŋdʑi	k wa n ɡ wa ŋ dʑ i
+1137	단축키를	tɑntɕʰukkʰilɯl	t ɑ n tɕʰ u k kʰ i l ɯ l
+1138	비행기와	pihɛŋɡiwa	p i h ɛ ŋ ɡ i wa
+1139	종이를	tɕoŋilɯl	tɕ o ŋ i l ɯ l
+1140	돼지	twɛdʑi	t wɛ dʑ i
+1141	고양이는	kojaŋinɯn	k o ja ŋ i n ɯ n
+1142	코페르니쿠스	kʰopʰɛlɯnikʰusɯ	kʰ o pʰ ɛ l ɯ n i kʰ u s ɯ
+1143	양상추가	jaŋsɑŋtɕʰuɡɑ	ja ŋ s ɑ ŋ tɕʰ u ɡ ɑ
+1144	키보드로	kʰibodɯlo	kʰ i b o d ɯ l o
+1145	삶과	sɑmɡwa	s ɑ m ɡ wa
+1146	무기가	muɡiɡɑ	m u ɡ i ɡ ɑ
+1147	마드리드	mɑdɯlidɯ	m ɑ d ɯ l i d ɯ
+1148	도착해요	totɕʰɑkʰɛjo	t o tɕʰ ɑ kʰ ɛ jo
+1149	양상추로	jaŋsɑŋtɕʰulo	ja ŋ s ɑ ŋ tɕʰ u l o
+1150	마술사로	mɑsulsɑlo	m ɑ s u l s ɑ l o
+1151	아르헨티나	ɑlɯhɛntʰinɑ	ɑ l ɯ h ɛ n tʰ i n ɑ
+1152	뇌경색을	nwɛɡjʌŋsɛɡɯl	n wɛ ɡ jʌ ŋ s ɛ ɡ ɯ l
+1153	영수증을	jʌŋsudʑɯŋɯl	jʌ ŋ s u dʑ ɯ ŋ ɯ l
+1154	관리법이	kwallibʌbi	k wa l l i b ʌ b i
+1155	가는	kɑnɯn	k ɑ n ɯ n
+1156	연속극과	jʌnsokk*ɯkk*wa	jʌ n s o k k* ɯ k k* wa
+1157	가위는	kɑwinɯn	k ɑ wi n ɯ n
+1158	상어	sɑŋʌ	s ɑ ŋ ʌ
+1159	했다	hɛtt*ɑ	h ɛ t t* ɑ
+1160	랜드마크와	lɛndɯmɑkʰɯwa	l ɛ n d ɯ m ɑ kʰ ɯ wa
+1161	도구는	toɡunɯn	t o ɡ u n ɯ n
+1162	박진영은	pɑktɕ*injʌŋɯn	p ɑ k tɕ* i n jʌ ŋ ɯ n
+1163	운동량과	undoŋnjaŋɡwa	u n d o ŋ n ja ŋ ɡ wa
+1164	인문학으로	inmunhɑɡɯlo	i n m u n h ɑ ɡ ɯ l o
+1165	남용을	nɑmjoŋɯl	n ɑ m jo ŋ ɯ l
+1166	커피로	kʰʌpʰilo	kʰ ʌ pʰ i l o
+1167	전야제로	tɕʌnjadʑɛlo	tɕ ʌ n ja dʑ ɛ l o
+1168	우유를	ujulɯl	u ju l ɯ l
+1169	은행이	ɯnhɛŋi	ɯ n h ɛ ŋ i
+1170	소통이	sotʰoŋi	s o tʰ o ŋ i
+1171	옴	om	o m
+1172	도구를	toɡulɯl	t o ɡ u l ɯ l
+1173	여행을	jʌhɛŋɯl	jʌ h ɛ ŋ ɯ l
+1174	그림	kɯlim	k ɯ l i m
+1175	죽었다	tɕuɡʌtt*ɑ	tɕ u ɡ ʌ t t* ɑ
+1176	시허연	sihʌjʌn	s i h ʌ jʌ n
+1177	보셨죠	posjʌttɕ*jo	p o s jʌ t tɕ* jo
+1178	자동차가	tɕɑdoŋtɕʰɑɡɑ	tɕ ɑ d o ŋ tɕʰ ɑ ɡ ɑ
+1179	올림픽으로	ollimpʰiɡɯlo	o l l i m pʰ i ɡ ɯ l o
+1180	장미가	tɕɑŋmiɡɑ	tɕ ɑ ŋ m i ɡ ɑ
+1181	달걀으로	tɑlɡjalɯlo	t ɑ l ɡ ja l ɯ l o
+1182	책이	tɕʰɛɡi	tɕʰ ɛ ɡ i
+1183	영수증과	jʌŋsudʑɯŋɡwa	jʌ ŋ s u dʑ ɯ ŋ ɡ wa
+1184	무기를	muɡilɯl	m u ɡ i l ɯ l
+1185	아기와	ɑɡiwa	ɑ ɡ i wa
+1186	행정고시	hɛŋdʑʌŋɡosi	h ɛ ŋ dʑ ʌ ŋ ɡ o s i
+1187	수용소로	sujoŋsolo	s u jo ŋ s o l o
+1188	보드카는	podɯkʰɑnɯn	p o d ɯ kʰ ɑ n ɯ n
+1189	장인	tɕɑŋin	tɕ ɑ ŋ i n
+1190	제주도	tɕɛdʑudo	tɕ ɛ dʑ u d o
+1191	담고	tɑmɡo	t ɑ m ɡ o
+1192	강조하셨다	kɑŋdʑohɑsjʌtt*ɑ	k ɑ ŋ dʑ o h ɑ s jʌ t t* ɑ
+1193	거래를	kʌlɛlɯl	k ʌ l ɛ l ɯ l
+1194	정오가	tɕʌŋoɡɑ	tɕ ʌ ŋ o ɡ ɑ
+1195	조명과	tɕomjʌŋɡwa	tɕ o m jʌ ŋ ɡ wa
+1196	평가됐다	pʰjʌŋɡɑdwɛtt*ɑ	pʰ jʌ ŋ ɡ ɑ d wɛ t t* ɑ
+1197	양상추	jaŋsɑŋtɕʰu	ja ŋ s ɑ ŋ tɕʰ u
+1198	축구는	tɕʰukk*unɯn	tɕʰ u k k* u n ɯ n
+1199	의사	ɰisɑ	ɰi s ɑ
+1200	결승점을	kjʌlsɯŋdʑʌmɯl	k jʌ l s ɯ ŋ dʑ ʌ m ɯ l
+1201	렌트카	lɛntʰɯkʰɑ	l ɛ n tʰ ɯ kʰ ɑ
+1202	시인	siin	s i i n
+1203	폐암을	pʰjɛɑmɯl	pʰ jɛ ɑ m ɯ l
+1204	말레이시아	mɑllɛisiɑ	m ɑ l l ɛ i s i ɑ
+1205	음식이	ɯmsiɡi	ɯ m s i ɡ i
+1206	책	tɕʰɛk	tɕʰ ɛ k
+1207	겨울철이	kjʌultɕʰʌli	k jʌ u l tɕʰ ʌ l i
+1208	벽시계로	pjʌks*iɡjɛlo	p jʌ k s* i ɡ jɛ l o
+1209	제트스키를	tɕɛtʰɯsɯkʰilɯl	tɕ ɛ tʰ ɯ s ɯ kʰ i l ɯ l
+1210	스타	sɯtʰɑ	s ɯ tʰ ɑ
+1211	마이클잭슨으로	mɑikʰɯldʑɛks*ɯnɯlo	m ɑ i kʰ ɯ l dʑ ɛ k s* ɯ n ɯ l o
+1212	강아지	kɑŋɑdʑi	k ɑ ŋ ɑ dʑ i
+1213	오이	oi	o i
+1214	진이	tɕini	tɕ i n i
+1215	벨리즈	pɛllidʑɯ	p ɛ l l i dʑ ɯ
+1216	인정받았다	indʑʌŋbɑdɑtt*ɑ	i n dʑ ʌ ŋ b ɑ d ɑ t t* ɑ
+1217	줬어요	tɕwʌs*ʌjo	tɕ wʌ s* ʌ jo
+1218	서울대를	sʌuldɛlɯl	s ʌ u l d ɛ l ɯ l
+1219	홈런포와	homnʌnpʰowa	h o m n ʌ n pʰ o wa
+1220	몽골어	moŋɡolʌ	m o ŋ ɡ o l ʌ
+1221	오리	oli	o l i
+1222	여권	jʌɡwʌn	jʌ ɡ wʌ n
+1223	유니코드를	junikʰodɯlɯl	ju n i kʰ o d ɯ l ɯ l
+1224	빵과	p*ɑŋɡwa	p* ɑ ŋ ɡ wa
+1225	하드웨어로	hɑdɯwɛʌlo	h ɑ d ɯ wɛ ʌ l o
+1226	표시됐다	pʰjosidwɛtt*ɑ	pʰ jo s i d wɛ t t* ɑ
+1227	실행됐다	silhɛŋdwɛtt*ɑ	s i l h ɛ ŋ d wɛ t t* ɑ
+1228	하드웨어	hɑdɯwɛʌ	h ɑ d ɯ wɛ ʌ
+1229	농구로	noŋɡulo	n o ŋ ɡ u l o
+1230	스톡홀름	sɯtʰokʰollɯm	s ɯ tʰ o kʰ o l l ɯ m
+1231	깎였다	k*ɑk*jʌtt*ɑ	k* ɑ k* jʌ t t* ɑ
+1232	국민대가	kuŋmindɛɡɑ	k u ŋ m i n d ɛ ɡ ɑ
+1233	카페인과	kʰɑpʰɛinɡwa	kʰ ɑ pʰ ɛ i n ɡ wa
+1234	아기는	ɑɡinɯn	ɑ ɡ i n ɯ n
+1235	삶이	sɑlmi	s ɑ l m i
+1236	킬로미터와	kʰillomitʰʌwa	kʰ i l l o m i tʰ ʌ wa
+1237	하면서	hɑmjʌnsʌ	h ɑ m jʌ n s ʌ
+1238	모잠비크	modʑɑmbikʰɯ	m o dʑ ɑ m b i kʰ ɯ
+1239	책은	tɕʰɛɡɯn	tɕʰ ɛ ɡ ɯ n
+1240	쌍용차가	s*ɑŋjoŋtɕʰɑɡɑ	s* ɑ ŋ jo ŋ tɕʰ ɑ ɡ ɑ
+1241	표시했다	pʰjosihɛtt*ɑ	pʰ jo s i h ɛ t t* ɑ
+1242	꽥꽥	k*wɛkk*wɛk	k* wɛ k k* wɛ k
+1243	극장판은	kɯktɕ*ɑŋpʰɑnɯn	k ɯ k tɕ* ɑ ŋ pʰ ɑ n ɯ n
+1244	우크라이나	ukʰɯlɑinɑ	u kʰ ɯ l ɑ i n ɑ
+1245	까마귀를	k*ɑmɑɡwilɯl	k* ɑ m ɑ ɡ wi l ɯ l
+1246	자다	tɕɑdɑ	tɕ ɑ d ɑ
+1247	수도승과	sudosɯŋɡwa	s u d o s ɯ ŋ ɡ wa
+1248	카페인을	kʰɑpʰɛinɯl	kʰ ɑ pʰ ɛ i n ɯ l
+1249	버렸어요	pʌljʌs*ʌjo	p ʌ l jʌ s* ʌ jo
+1250	형제로	hjʌŋdʑɛlo	h jʌ ŋ dʑ ɛ l o
+1251	에메랄드	ɛmɛlɑldɯ	ɛ m ɛ l ɑ l d ɯ
+1252	여왕	jʌwaŋ	jʌ wa ŋ
+1253	가발	kɑbɑl	k ɑ b ɑ l
+1254	어린이는	ʌlininɯn	ʌ l i n i n ɯ n
+1255	담지만	tɑmdʑimɑn	t ɑ m dʑ i m ɑ n
+1256	타이페이	tʰɑipʰɛi	tʰ ɑ i pʰ ɛ i
+1257	비행기를	pihɛŋɡilɯl	p i h ɛ ŋ ɡ i l ɯ l
+1258	마이클잭슨	mɑikʰɯldʑɛks*ɯn	m ɑ i kʰ ɯ l dʑ ɛ k s* ɯ n
+1259	나물은	nɑmulɯn	n ɑ m u l ɯ n
+1260	하지만	hɑdʑimɑn	h ɑ dʑ i m ɑ n
+1261	뜯었다	t*ɯdʌtt*ɑ	t* ɯ d ʌ t t* ɑ
+1262	킬로미터로	kʰillomitʰʌlo	kʰ i l l o m i tʰ ʌ l o
+1263	사막	sɑmɑk	s ɑ m ɑ k
+1264	담음	tɑmɯm	t ɑ m ɯ m
+1265	꺼무스름한	k*ʌmusɯlɯmhɑn	k* ʌ m u s ɯ l ɯ m h ɑ n
+1266	자동차를	tɕɑdoŋtɕʰɑlɯl	tɕ ɑ d o ŋ tɕʰ ɑ l ɯ l
+1267	뜯는	t*ɯnnɯn	t* ɯ n n ɯ n
+1268	아이비리그로	ɑibiliɡɯlo	ɑ i b i l i ɡ ɯ l o
+1269	포함됐다	pʰohɑmdwɛtt*ɑ	pʰ o h ɑ m d wɛ t t* ɑ
+1270	미국산을	miɡuks*ɑnɯl	m i ɡ u k s* ɑ n ɯ l
+1271	주식회사는	tɕusikʰwɛsɑnɯn	tɕ u s i kʰ wɛ s ɑ n ɯ n
+1272	배트맨을	pɛtʰɯmɛnɯl	p ɛ tʰ ɯ m ɛ n ɯ l
+1273	중국어	tɕuŋɡuɡʌ	tɕ u ŋ ɡ u ɡ ʌ
+1274	뉴발란스로	njubɑllɑnsɯlo	n ju b ɑ l l ɑ n s ɯ l o
+1275	혈액형은	hjʌlɛkʰjʌŋɯn	h jʌ l ɛ kʰ jʌ ŋ ɯ n
+1276	한국어	hɑnɡuɡʌ	h ɑ n ɡ u ɡ ʌ
+1277	약으로	jaɡɯlo	ja ɡ ɯ l o
+1278	탁자	tʰɑktɕ*ɑ	tʰ ɑ k tɕ* ɑ
+1279	테니스	tʰɛnisɯ	tʰ ɛ n i s ɯ
+1280	신탁과	sintʰɑkk*wa	s i n tʰ ɑ k k* wa
+1281	게	kɛ	k ɛ
+1282	커피가	kʰʌpʰiɡɑ	kʰ ʌ pʰ i ɡ ɑ
+1283	움직이다	umdʑiɡidɑ	u m dʑ i ɡ i d ɑ
+1284	양성자	jaŋsʌŋdʑɑ	ja ŋ s ʌ ŋ dʑ ɑ
+1285	이자를	idʑɑlɯl	i dʑ ɑ l ɯ l
+1286	티머니를	tʰimʌnilɯl	tʰ i m ʌ n i l ɯ l
+1287	국무총리가	kuŋmutɕʰoŋniɡɑ	k u ŋ m u tɕʰ o ŋ n i ɡ ɑ
+1288	스웨덴	sɯwɛdɛn	s ɯ wɛ d ɛ n
+1289	우주는	udʑunɯn	u dʑ u n ɯ n
+1290	바꿨다	pɑk*wʌtt*ɑ	p ɑ k* wʌ t t* ɑ
+1291	공주	koŋdʑu	k o ŋ dʑ u
+1292	예루살렘을	jɛlusɑllɛmɯl	jɛ l u s ɑ l l ɛ m ɯ l
+1293	싸우다	s*ɑudɑ	s* ɑ u d ɑ
+1294	부산	pusɑn	p u s ɑ n
+1295	그림과	kɯlimɡwa	k ɯ l i m ɡ wa
+1296	극장판	kɯktɕ*ɑŋpʰɑn	k ɯ k tɕ* ɑ ŋ pʰ ɑ n
+1297	돌아왔다	tolɑwatt*ɑ	t o l ɑ wa t t* ɑ
+1298	디스크와	tisɯkʰɯwa	t i s ɯ kʰ ɯ wa
+1299	연제구	jʌndʑɛɡu	jʌ n dʑ ɛ ɡ u
+1300	전화	tɕʌnhwa	tɕ ʌ n h wa
+1301	모이다	moidɑ	m o i d ɑ
+1302	존재로	tɕondʑɛlo	tɕ o n dʑ ɛ l o
+1303	어린이와	ʌliniwa	ʌ l i n i wa
+1304	여정은	jʌdʑʌŋɯn	jʌ dʑ ʌ ŋ ɯ n
+1305	친일파를	tɕʰinilpʰɑlɯl	tɕʰ i n i l pʰ ɑ l ɯ l
+1306	멍멍	mʌŋmʌŋ	m ʌ ŋ m ʌ ŋ
+1307	화학	hwahɑk	h wa h ɑ k
+1308	평가했다	pʰjʌŋɡɑhɛtt*ɑ	pʰ jʌ ŋ ɡ ɑ h ɛ t t* ɑ
+1309	강변이	kɑŋbjʌni	k ɑ ŋ b jʌ n i
+1310	샛노란	sɛnnolɑn	s ɛ n n o l ɑ n
+1311	지도는	tɕidonɯn	tɕ i d o n ɯ n
+1312	호킹	hokʰiŋ	h o kʰ i ŋ
+1313	검은	kʌmɯn	k ʌ m ɯ n
+1314	가셨다	kɑsjʌtt*ɑ	k ɑ s jʌ t t* ɑ
+1315	진을	tɕinɯl	tɕ i n ɯ l
+1316	놓였다	nohjʌtt*ɑ	n o h jʌ t t* ɑ
+1317	수도승은	sudosɯŋɯn	s u d o s ɯ ŋ ɯ n
+1318	세르비아	sɛlɯbiɑ	s ɛ l ɯ b i ɑ
+1319	누런	nulʌn	n u l ʌ n
+1320	여정으로	jʌdʑʌŋɯlo	jʌ dʑ ʌ ŋ ɯ l o
+1321	수용소	sujoŋso	s u jo ŋ s o
+1322	쓰다	s*ɯdɑ	s* ɯ d ɑ
+1323	주식으로	tɕusiɡɯlo	tɕ u s i ɡ ɯ l o
+1324	여권은	jʌɡwʌnɯn	jʌ ɡ wʌ n ɯ n
+1325	의붓아들	ɰibusɑdɯl	ɰi b u s ɑ d ɯ l
+1326	라켓은	lɑkʰɛsɯn	l ɑ kʰ ɛ s ɯ n
+1327	컴퓨터로	kʰʌmpʰjutʰʌlo	kʰ ʌ m pʰ ju tʰ ʌ l o
+1328	가이아나	kɑiɑnɑ	k ɑ i ɑ n ɑ
+1329	이모	imo	i m o
+1330	리마	limɑ	l i m ɑ
+1331	나물과	nɑmulɡwa	n ɑ m u l ɡ wa
+1332	사랑으로	sɑlɑŋɯlo	s ɑ l ɑ ŋ ɯ l o
+1333	연꽃이	jʌnk*otɕʰi	jʌ n k* o tɕʰ i
+1334	장미를	tɕɑŋmilɯl	tɕ ɑ ŋ m i l ɯ l
+1335	대구	tɛɡu	t ɛ ɡ u
+1336	그린벨트와	kɯlinbɛltʰɯwa	k ɯ l i n b ɛ l tʰ ɯ wa
+1337	갈릴레이	kɑllillɛi	k ɑ l l i l l ɛ i
+1338	여권을	jʌɡwʌnɯl	jʌ ɡ wʌ n ɯ l
+1339	탁자는	tʰɑktɕ*ɑnɯn	tʰ ɑ k tɕ* ɑ n ɯ n
+1340	인터넷과	intʰʌnɛtk*wa	i n tʰ ʌ n ɛ t k* wa
+1341	허연	hʌjʌn	h ʌ jʌ n
+1342	노가리	noɡɑli	n o ɡ ɑ l i
+1343	제트스키가	tɕɛtʰɯsɯkʰiɡɑ	tɕ ɛ tʰ ɯ s ɯ kʰ i ɡ ɑ
+1344	부상	pusɑŋ	p u s ɑ ŋ
+1345	전화를	tɕʌnhwalɯl	tɕ ʌ n h wa l ɯ l
+1346	올림픽은	ollimpʰiɡɯn	o l l i m pʰ i ɡ ɯ n
+1347	양성자와	jaŋsʌŋdʑɑwa	ja ŋ s ʌ ŋ dʑ ɑ wa
+1348	서울	sʌul	s ʌ u l
+1349	포르투갈	pʰolɯtʰuɡɑl	pʰ o l ɯ tʰ u ɡ ɑ l
+1350	감자	kɑmdʑɑ	k ɑ m dʑ ɑ
+1351	예루살렘	jɛlusɑllɛm	jɛ l u s ɑ l l ɛ m
+1352	돈과	tonɡwa	t o n ɡ wa
+1353	노벨상이	nobɛlsɑŋi	n o b ɛ l s ɑ ŋ i
+1354	도스토예프스키	tosɯtʰojɛpʰɯsɯkʰi	t o s ɯ tʰ o jɛ pʰ ɯ s ɯ kʰ i
+1355	기차	kitɕʰɑ	k i tɕʰ ɑ
+1356	법	pʌp	p ʌ p
+1357	먹고	mʌkk*o	m ʌ k k* o
+1358	아테네	ɑtʰɛnɛ	ɑ tʰ ɛ n ɛ
+1359	극장판을	kɯktɕ*ɑŋpʰɑnɯl	k ɯ k tɕ* ɑ ŋ pʰ ɑ n ɯ l
+1360	선생은	sʌnsɛŋɯn	s ʌ n s ɛ ŋ ɯ n
+1361	새까만	sɛk*ɑmɑn	s ɛ k* ɑ m ɑ n
+1362	음메	ɯmmɛ	ɯ m m ɛ
+1363	무기와	muɡiwa	m u ɡ i wa
+1364	입이	ibi	i b i
+1365	달걀과	tɑlɡjalɡwa	t ɑ l ɡ ja l ɡ wa
+1366	타지만	tʰɑdʑimɑn	tʰ ɑ dʑ i m ɑ n
+1367	부상이	pusɑŋi	p u s ɑ ŋ i
+1368	모의고사가	moɰiɡosɑɡɑ	m o ɰi ɡ o s ɑ ɡ ɑ
+1369	평가와	pʰjʌŋɡɑwa	pʰ jʌ ŋ ɡ ɑ wa
+1370	우산으로	usɑnɯlo	u s ɑ n ɯ l o
+1371	하드웨어는	hɑdɯwɛʌnɯn	h ɑ d ɯ wɛ ʌ n ɯ n
+1372	스크린샷으로	sɯkʰɯlinsjasɯlo	s ɯ kʰ ɯ l i n s ja s ɯ l o
+1373	국민대를	kuŋmindɛlɯl	k u ŋ m i n d ɛ l ɯ l
+1374	이름이	ilɯmi	i l ɯ m i
+1375	상도가	sɑŋdoɡɑ	s ɑ ŋ d o ɡ ɑ
+1376	출시했다	tɕʰulsihɛtt*ɑ	tɕʰ u l s i h ɛ t t* ɑ
+1377	운동량을	undoŋnjaŋɯl	u n d o ŋ n ja ŋ ɯ l
+1378	제트스키는	tɕɛtʰɯsɯkʰinɯn	tɕ ɛ tʰ ɯ s ɯ kʰ i n ɯ n
+1379	라디오와	lɑdiowa	l ɑ d i o wa
+1380	언니	ʌnni	ʌ n n i
+1381	종이와	tɕoŋiwa	tɕ o ŋ i wa
+1382	구름	kulɯm	k u l ɯ m
+1383	춘천	tɕʰuntɕʰʌn	tɕʰ u n tɕʰ ʌ n
+1384	원석과	wʌnsʌkk*wa	wʌ n s ʌ k k* wa
+1385	남동구	nɑmdoŋɡu	n ɑ m d o ŋ ɡ u
+1386	화학을	hwahɑɡɯl	h wa h ɑ ɡ ɯ l
+1387	소환됩니다	sohwandwɛmnidɑ	s o h wa n d wɛ m n i d ɑ
+1388	재규어는	tɕɛɡjuʌnɯn	tɕ ɛ ɡ ju ʌ n ɯ n
+1389	영국령은	jʌŋɡuŋnjʌŋɯn	jʌ ŋ ɡ u ŋ n jʌ ŋ ɯ n
+1390	여권이	jʌɡwʌni	jʌ ɡ wʌ n i
+1391	마술사를	mɑsulsɑlɯl	m ɑ s u l s ɑ l ɯ l
+1392	먹었다	mʌɡʌtt*ɑ	m ʌ ɡ ʌ t t* ɑ
+1393	부상은	pusɑŋɯn	p u s ɑ ŋ ɯ n
+1394	존재는	tɕondʑɛnɯn	tɕ o n dʑ ɛ n ɯ n
+1395	흰	hɰin	h ɰi n
+1396	죽었어요	tɕuɡʌs*ʌjo	tɕ u ɡ ʌ s* ʌ jo
+1397	안도라	ɑndolɑ	ɑ n d o l ɑ
+1398	올림픽을	ollimpʰiɡɯl	o l l i m pʰ i ɡ ɯ l
+1399	시리아	siliɑ	s i l i ɑ
+1400	미디어와	midiʌwa	m i d i ʌ wa
+1401	정신병원을	tɕʌŋsinbjʌŋwʌnɯl	tɕ ʌ ŋ s i n b jʌ ŋ wʌ n ɯ l
+1402	오소리를	osolilɯl	o s o l i l ɯ l
+1403	캔버라	kʰɛnbʌlɑ	kʰ ɛ n b ʌ l ɑ
+1404	테이블은	tʰɛibɯlɯn	tʰ ɛ i b ɯ l ɯ n
+1405	연속극	jʌnsokk*ɯk	jʌ n s o k k* ɯ k
+1406	도서관은	tosʌɡwanɯn	t o s ʌ ɡ wa n ɯ n
+1407	전원은	tɕʌnwʌnɯn	tɕ ʌ n wʌ n ɯ n
+1408	현금을	hjʌnɡɯmɯl	h jʌ n ɡ ɯ m ɯ l
+1409	간호사를	kɑnhosɑlɯl	k ɑ n h o s ɑ l ɯ l
+1410	박진영과	pɑktɕ*injʌŋɡwa	p ɑ k tɕ* i n jʌ ŋ ɡ wa
+1411	해안을	hɛɑnɯl	h ɛ ɑ n ɯ l
+1412	동서양을	toŋsʌjaŋɯl	t o ŋ s ʌ ja ŋ ɯ l
+1413	고조부	kodʑobu	k o dʑ o b u
+1414	전라남도	tɕʌllɑnɑmdo	tɕ ʌ l l ɑ n ɑ m d o
+1415	농구	noŋɡu	n o ŋ ɡ u
+1416	사용하다	sɑjoŋhɑdɑ	s ɑ jo ŋ h ɑ d ɑ
+1417	배우다	pɛudɑ	p ɛ u d ɑ
+1418	뛰었다	t*wiʌtt*ɑ	t* wi ʌ t t* ɑ
+1419	구했습니다	kuhɛts*ɯmnidɑ	k u h ɛ t s* ɯ m n i d ɑ
+1420	오고	oɡo	o ɡ o
+1421	타는	tʰɑnɯn	tʰ ɑ n ɯ n
+1422	테러	tʰɛlʌ	tʰ ɛ l ʌ
+1423	선생과	sʌnsɛŋɡwa	s ʌ n s ɛ ŋ ɡ wa
+1424	마술사와	mɑsulsɑwa	m ɑ s u l s ɑ wa
+1425	소형차가	sohjʌŋtɕʰɑɡɑ	s o h jʌ ŋ tɕʰ ɑ ɡ ɑ
+1426	먹혔다	mʌkʰjʌtt*ɑ	m ʌ kʰ jʌ t t* ɑ
+1427	벽시계를	pjʌks*iɡjɛlɯl	p jʌ k s* i ɡ jɛ l ɯ l
+1428	축구를	tɕʰukk*ulɯl	tɕʰ u k k* u l ɯ l
+1429	시장을	sidʑɑŋɯl	s i dʑ ɑ ŋ ɯ l
+1430	양상추를	jaŋsɑŋtɕʰulɯl	ja ŋ s ɑ ŋ tɕʰ u l ɯ l
+1431	대추나무를	tɛtɕʰunɑmulɯl	t ɛ tɕʰ u n ɑ m u l ɯ l
+1432	운동량은	undoŋnjaŋɯn	u n d o ŋ n ja ŋ ɯ n
+1433	가격과	kɑɡjʌkk*wa	k ɑ ɡ jʌ k k* wa
+1434	정신병원이	tɕʌŋsinbjʌŋwʌni	tɕ ʌ ŋ s i n b jʌ ŋ wʌ n i
+1435	키보드	kʰibodɯ	kʰ i b o d ɯ
+1436	가발이	kɑbɑli	k ɑ b ɑ l i
+1437	스타로	sɯtʰɑlo	s ɯ tʰ ɑ l o
+1438	불렀다	pullʌtt*ɑ	p u l l ʌ t t* ɑ
+1439	의정부	ɰidʑʌŋbu	ɰi dʑ ʌ ŋ b u
+1440	비행기	pihɛŋɡi	p i h ɛ ŋ ɡ i
+1441	구세주는	kusɛdʑunɯn	k u s ɛ dʑ u n ɯ n
+1442	은행은	ɯnhɛŋɯn	ɯ n h ɛ ŋ ɯ n
+1443	인정했다	indʑʌŋhɛtt*ɑ	i n dʑ ʌ ŋ h ɛ t t* ɑ
+1444	야옹	jaoŋ	ja o ŋ
+1445	테헤란	tʰɛhɛlɑn	tʰ ɛ h ɛ l ɑ n
+1446	창원	tɕʰɑŋwʌn	tɕʰ ɑ ŋ wʌ n
+1447	호랑이가	holɑŋiɡɑ	h o l ɑ ŋ i ɡ ɑ
+1448	간호사는	kɑnhosɑnɯn	k ɑ n h o s ɑ n ɯ n
+1449	음식과	ɯmsikk*wa	ɯ m s i k k* wa
+1450	기차는	kitɕʰɑnɯn	k i tɕʰ ɑ n ɯ n
+1451	밀가루로	milɡɑlulo	m i l ɡ ɑ l u l o
+1452	사랑하면서	sɑlɑŋhɑmjʌnsʌ	s ɑ l ɑ ŋ h ɑ m jʌ n s ʌ
+1453	까마귀	k*ɑmɑɡwi	k* ɑ m ɑ ɡ wi
+1454	나오다	nɑodɑ	n ɑ o d ɑ
+1455	가발을	kɑbɑlɯl	k ɑ b ɑ l ɯ l
+1456	장미는	tɕɑŋminɯn	tɕ ɑ ŋ m i n ɯ n
+1457	올레길	ollɛɡil	o l l ɛ ɡ i l
+1458	축구가	tɕʰukk*uɡɑ	tɕʰ u k k* u ɡ ɑ
+1459	니카라과	nikʰɑlɑɡwa	n i kʰ ɑ l ɑ ɡ wa
+1460	켜다	kʰjʌdɑ	kʰ jʌ d ɑ
+1461	청주	tɕʰʌŋdʑu	tɕʰ ʌ ŋ dʑ u
+1462	나물이	nɑmuli	n ɑ m u l i
+1463	영국령을	jʌŋɡuŋnjʌŋɯl	jʌ ŋ ɡ u ŋ n jʌ ŋ ɯ l
+1464	통신망과	tʰoŋsinmɑŋɡwa	tʰ o ŋ s i n m ɑ ŋ ɡ wa
+1465	결승점	kjʌlsɯŋdʑʌm	k jʌ l s ɯ ŋ dʑ ʌ m
+1466	약	jak	ja k
+1467	컴퓨터가	kʰʌmpʰjutʰʌɡɑ	kʰ ʌ m pʰ ju tʰ ʌ ɡ ɑ
+1468	플레이오프를	pʰɯllɛiopʰɯlɯl	pʰ ɯ l l ɛ i o pʰ ɯ l ɯ l
+1469	여자	jʌdʑɑ	jʌ dʑ ɑ
+1470	구세주가	kusɛdʑuɡɑ	k u s ɛ dʑ u ɡ ɑ
+1471	하다	hɑdɑ	h ɑ d ɑ
+1472	뉴타운을	njutʰɑunɯl	n ju tʰ ɑ u n ɯ l
+1473	중환자실을	tɕuŋhwandʑɑsilɯl	tɕ u ŋ h wa n dʑ ɑ s i l ɯ l
+1474	학생과	hɑks*ɛŋɡwa	h ɑ k s* ɛ ŋ ɡ wa
+1475	뜯으면서	t*ɯdɯmjʌnsʌ	t* ɯ d ɯ m jʌ n s ʌ
+1476	신경과를	sinɡjʌŋɡwalɯl	s i n ɡ jʌ ŋ ɡ wa l ɯ l
+1477	여왕이	jʌwaŋi	jʌ wa ŋ i
+1478	먹으면서	mʌɡɯmjʌnsʌ	m ʌ ɡ ɯ m jʌ n s ʌ
+1479	초록	tɕʰolok	tɕʰ o l o k
+1480	비평가가	pipʰjʌŋɡɑɡɑ	p i pʰ jʌ ŋ ɡ ɑ ɡ ɑ
+1481	까악	k*ɑɑk	k* ɑ ɑ k
+1482	강변을	kɑŋbjʌnɯl	k ɑ ŋ b jʌ n ɯ l
+1483	밝혔다	pɑlkʰjʌtt*ɑ	p ɑ l kʰ jʌ t t* ɑ
+1484	킬로미터는	kʰillomitʰʌnɯn	kʰ i l l o m i tʰ ʌ n ɯ n
+1485	오븐은	obɯnɯn	o b ɯ n ɯ n
+1486	농구를	noŋɡulɯl	n o ŋ ɡ u l ɯ l
+1487	항산화제를	hɑŋsɑnhwadʑɛlɯl	h ɑ ŋ s ɑ n h wa dʑ ɛ l ɯ l
+1488	가격은	kɑɡjʌɡɯn	k ɑ ɡ jʌ ɡ ɯ n
+1489	중앙선으로	tɕuŋɑŋsʌnɯlo	tɕ u ŋ ɑ ŋ s ʌ n ɯ l o
+1490	관광지와	kwanɡwaŋdʑiwa	k wa n ɡ wa ŋ dʑ i wa
+1491	설계도를	sʌlɡjɛdolɯl	s ʌ l ɡ jɛ d o l ɯ l
+1492	항산화제와	hɑŋsɑnhwadʑɛwa	h ɑ ŋ s ɑ n h wa dʑ ɛ wa
+1493	체포했다	tɕʰɛpʰohɛtt*ɑ	tɕʰ ɛ pʰ o h ɛ t t* ɑ
+1494	쌍용차를	s*ɑŋjoŋtɕʰɑlɯl	s* ɑ ŋ jo ŋ tɕʰ ɑ l ɯ l
+1495	꼬끼오	k*ok*io	k* o k* i o
+1496	담다	tɑmdɑ	t ɑ m d ɑ
+1497	아랍어	ɑlɑbʌ	ɑ l ɑ b ʌ
+1498	카이사르	kʰɑisɑlɯ	kʰ ɑ i s ɑ l ɯ
+1499	연꽃으로	jʌnk*otɕʰɯlo	jʌ n k* o tɕʰ ɯ l o
+1500	시작했다	sidʑɑkʰɛtt*ɑ	s i dʑ ɑ kʰ ɛ t t* ɑ
+1501	붉은	pulɡɯn	p u l ɡ ɯ n
+1502	울었다	ulʌtt*ɑ	u l ʌ t t* ɑ
+1503	비트겐슈타인	pitʰɯɡɛnsjutʰɑin	p i tʰ ɯ ɡ ɛ n s ju tʰ ɑ i n
+1504	이라크	ilɑkʰɯ	i l ɑ kʰ ɯ
+1505	선생	sʌnsɛŋ	s ʌ n s ɛ ŋ
+1506	숲을	supʰɯl	s u pʰ ɯ l
+1507	모차르트	motɕʰɑlɯtʰɯ	m o tɕʰ ɑ l ɯ tʰ ɯ
+1508	진으로	tɕinɯlo	tɕ i n ɯ l o
+1509	전원과	tɕʌnwʌnɡwa	tɕ ʌ n wʌ n ɡ wa
+1510	사랑하다	sɑlɑŋhɑdɑ	s ɑ l ɑ ŋ h ɑ d ɑ
+1511	일본	ilbon	i l b o n
+1512	미국산으로	miɡuks*ɑnɯlo	m i ɡ u k s* ɑ n ɯ l o
+1513	디킨스	tikʰinsɯ	t i kʰ i n s ɯ
+1514	움직이지만	umdʑiɡidʑimɑn	u m dʑ i ɡ i dʑ i m ɑ n
+1515	움직임	umdʑiɡim	u m dʑ i ɡ i m
+1516	대상이	tɛsɑŋi	t ɛ s ɑ ŋ i
+1517	과일을	kwailɯl	k wa i l ɯ l
+1518	모의고사는	moɰiɡosɑnɯn	m o ɰi ɡ o s ɑ n ɯ n
+1519	지렛대는	tɕilɛtt*ɛnɯn	tɕ i l ɛ t t* ɛ n ɯ n
+1520	장미	tɕɑŋmi	tɕ ɑ ŋ m i
+1521	에콰도르	ɛkʰwadolɯ	ɛ kʰ wa d o l ɯ
+1522	이름과	ilɯmɡwa	i l ɯ m ɡ wa
+1523	처녀	tɕʰʌnjʌ	tɕʰ ʌ n jʌ
+1524	찍찍	tɕ*iktɕ*ik	tɕ* i k tɕ* i k
+1525	거래가	kʌlɛɡɑ	k ʌ l ɛ ɡ ɑ
+1526	왔다	watt*ɑ	wa t t* ɑ
+1527	장구벌레	tɕɑŋɡubʌllɛ	tɕ ɑ ŋ ɡ u b ʌ l l ɛ
+1528	마시다	mɑsidɑ	m ɑ s i d ɑ
+1529	소통으로	sotʰoŋɯlo	s o tʰ o ŋ ɯ l o
+1530	쇼팽	sjopʰɛŋ	s jo pʰ ɛ ŋ
+1531	개호주	kɛhodʑu	k ɛ h o dʑ u
+1532	달걀	tɑlɡjal	t ɑ l ɡ ja l
+1533	텔레비전을	tʰɛllɛbidʑʌnɯl	tʰ ɛ l l ɛ b i dʑ ʌ n ɯ l
+1534	보석은	posʌɡɯn	p o s ʌ ɡ ɯ n
+1535	호수	hosu	h o s u
+1536	기차가	kitɕʰɑɡɑ	k i tɕʰ ɑ ɡ ɑ
+1537	예루살렘이	jɛlusɑllɛmi	jɛ l u s ɑ l l ɛ m i
+1538	잡는	tɕɑmnɯn	tɕ ɑ m n ɯ n
+1539	학배기	hɑkp*ɛɡi	h ɑ k p* ɛ ɡ i
+1540	그린벨트는	kɯlinbɛltʰɯnɯn	k ɯ l i n b ɛ l tʰ ɯ n ɯ n
+1541	돌고래	tolɡolɛ	t o l ɡ o l ɛ
+1542	도서관을	tosʌɡwanɯl	t o s ʌ ɡ wa n ɯ l
+1543	영화관은	jʌŋhwaɡwanɯn	jʌ ŋ h wa ɡ wa n ɯ n
+1544	소통	sotʰoŋ	s o tʰ o ŋ
+1545	유통망을	jutʰoŋmɑŋɯl	ju tʰ o ŋ m ɑ ŋ ɯ l
+1546	여정	jʌdʑʌŋ	jʌ dʑ ʌ ŋ
+1547	소형차로	sohjʌŋtɕʰɑlo	s o h jʌ ŋ tɕʰ ɑ l o
+1548	이복누이	iboŋnui	i b o ŋ n u i
+1549	테러가	tʰɛlʌɡɑ	tʰ ɛ l ʌ ɡ ɑ
+1550	거래로	kʌlɛlo	k ʌ l ɛ l o
+1551	꺼병이	k*ʌbjʌŋi	k* ʌ b jʌ ŋ i
+1552	스크린샷은	sɯkʰɯlinsjasɯn	s ɯ kʰ ɯ l i n s ja s ɯ n
+1553	테이블으로	tʰɛibɯlɯlo	tʰ ɛ i b ɯ l ɯ l o
+1554	수록곡	sulokk*ok	s u l o k k* o k
+1555	포함했다	pʰohɑmhɛtt*ɑ	pʰ o h ɑ m h ɛ t t* ɑ
+1556	도구로	toɡulo	t o ɡ u l o
+1557	덴마크	tɛnmɑkʰɯ	t ɛ n m ɑ kʰ ɯ
+1558	진과	tɕinɡwa	tɕ i n ɡ wa
+1559	적성으로	tɕʌks*ʌŋɯlo	tɕ ʌ k s* ʌ ŋ ɯ l o
+1560	결승점과	kjʌlsɯŋdʑʌmɡwa	k jʌ l s ɯ ŋ dʑ ʌ m ɡ wa
+1561	포항	pʰohɑŋ	pʰ o h ɑ ŋ
+1562	켰다	kʰjʌtt*ɑ	kʰ jʌ t t* ɑ
+1563	아이비리그	ɑibiliɡɯ	ɑ i b i l i ɡ ɯ
+1564	잡았다	tɕɑbɑtt*ɑ	tɕ ɑ b ɑ t t* ɑ
+1565	엄마와	ʌmmɑwa	ʌ m m ɑ wa
+1566	빈	pin	p i n
+1567	그린벨트가	kɯlinbɛltʰɯɡɑ	k ɯ l i n b ɛ l tʰ ɯ ɡ ɑ
+1568	알코올과	ɑlkʰoolɡwa	ɑ l kʰ o o l ɡ wa
+1569	수도승으로	sudosɯŋɯlo	s u d o s ɯ ŋ ɯ l o
+1570	오소리로	osolilo	o s o l i l o
+1571	세종대왕	sɛdʑoŋdɛwaŋ	s ɛ dʑ o ŋ d ɛ wa ŋ
+1572	알코올	ɑlkʰool	ɑ l kʰ o o l
+1573	과테말라	kwatʰɛmɑllɑ	k wa tʰ ɛ m ɑ l l ɑ
+1574	강의가	kɑŋɰiɡɑ	k ɑ ŋ ɰi ɡ ɑ
+1575	도입이	toibi	t o i b i
+1576	뉴발란스와	njubɑllɑnsɯwa	n ju b ɑ l l ɑ n s ɯ wa
+1577	트루먼	tʰɯlumʌn	tʰ ɯ l u m ʌ n
+1578	부인	puin	p u i n
+1579	가축이	kɑtɕʰuɡi	k ɑ tɕʰ u ɡ i
+1580	부상과	pusɑŋɡwa	p u s ɑ ŋ ɡ wa
+1581	암하라어	ɑmhɑlɑʌ	ɑ m h ɑ l ɑ ʌ
+1582	헬싱키	hɛlsiŋkʰi	h ɛ l s i ŋ kʰ i
+1583	물었습니다	mulʌts*ɯmnidɑ	m u l ʌ t s* ɯ m n i d ɑ
+1584	핍니다	pʰimnidɑ	pʰ i m n i d ɑ
+1585	감자가	kɑmdʑɑɡɑ	k ɑ m dʑ ɑ ɡ ɑ
+1586	루마니아	lumɑniɑ	l u m ɑ n i ɑ
+1587	우주와	udʑuwa	u dʑ u wa
+1588	팬클럽이	pʰɛnkʰɯllʌbi	pʰ ɛ n kʰ ɯ l l ʌ b i
+1589	뛰다	t*widɑ	t* wi d ɑ
+1590	스크린샷	sɯkʰɯlinsjat	s ɯ kʰ ɯ l i n s ja t
+1591	오다	odɑ	o d ɑ
+1592	들었다	tɯlʌtt*ɑ	t ɯ l ʌ t t* ɑ
+1593	과일과	kwailɡwa	k wa i l ɡ wa
+1594	울산	ulsɑn	u l s ɑ n
+1595	영화로	jʌŋhwalo	jʌ ŋ h wa l o
+1596	앙카라	ɑŋkʰɑlɑ	ɑ ŋ kʰ ɑ l ɑ
+1597	의정부는	ɰidʑʌŋbunɯn	ɰi dʑ ʌ ŋ b u n ɯ n
+1598	잡혔다	tɕɑpʰjʌtt*ɑ	tɕ ɑ pʰ jʌ t t* ɑ
+1599	거래와	kʌlɛwa	k ʌ l ɛ wa
+1600	이스라엘을	isɯlɑɛlɯl	i s ɯ l ɑ ɛ l ɯ l
+1601	개구리	kɛɡuli	k ɛ ɡ u l i
+1602	나뭇잎	nɑmusip	n ɑ m u s i p
+1603	고조모	kodʑomo	k o dʑ o m o
+1604	노벨상	nobɛlsɑŋ	n o b ɛ l s ɑ ŋ
+1605	그었다	kɯʌtt*ɑ	k ɯ ʌ t t* ɑ
+1606	학이	hɑɡi	h ɑ ɡ i
+1607	영국령이	jʌŋɡuŋnjʌŋi	jʌ ŋ ɡ u ŋ n jʌ ŋ i
+1608	버터가	pʌtʰʌɡɑ	p ʌ tʰ ʌ ɡ ɑ
+1609	라디오는	lɑdionɯn	l ɑ d i o n ɯ n
+1610	쓰지만	s*ɯdʑimɑn	s* ɯ dʑ i m ɑ n
+1611	간호사와	kɑnhosɑwa	k ɑ n h o s ɑ wa
+1612	티머니	tʰimʌni	tʰ i m ʌ n i
+1613	소형차를	sohjʌŋtɕʰɑlɯl	s o h jʌ ŋ tɕʰ ɑ l ɯ l
+1614	홈런포는	homnʌnpʰonɯn	h o m n ʌ n pʰ o n ɯ n
+1615	극장판이	kɯktɕ*ɑŋpʰɑni	k ɯ k tɕ* ɑ ŋ pʰ ɑ n i
+1616	도구와	toɡuwa	t o ɡ u wa
+1617	해안이	hɛɑni	h ɛ ɑ n i
+1618	음식으로	ɯmsiɡɯlo	ɯ m s i ɡ ɯ l o
+1619	잔다르크	tɕɑndɑlɯkʰɯ	tɕ ɑ n d ɑ l ɯ kʰ ɯ
+1620	일본어	ilbonʌ	i l b o n ʌ
+1621	계셨다	kjɛsjʌtt*ɑ	k jɛ s jʌ t t* ɑ
+1622	의정부를	ɰidʑʌŋbulɯl	ɰi dʑ ʌ ŋ b u l ɯ l
+1623	아기로	ɑɡilo	ɑ ɡ i l o
+1624	마닐라	mɑnillɑ	m ɑ n i l l ɑ
+1625	적성을	tɕʌks*ʌŋɯl	tɕ ʌ k s* ʌ ŋ ɯ l
+1626	은행	ɯnhɛŋ	ɯ n h ɛ ŋ
+1627	수리비가	sulibiɡɑ	s u l i b i ɡ ɑ
+1628	신탁이	sintʰɑɡi	s i n tʰ ɑ ɡ i
+1629	호랑이와	holɑŋiwa	h o l ɑ ŋ i wa
+1630	부르셨다	pulɯsjʌtt*ɑ	p u l ɯ s jʌ t t* ɑ
+1631	오이를	oilɯl	o i l ɯ l
+1632	가격이	kɑɡjʌɡi	k ɑ ɡ jʌ ɡ i
+1633	조명은	tɕomjʌŋɯn	tɕ o m jʌ ŋ ɯ n
+1634	돈이	toni	t o n i
+1635	놓았다	nohɑtt*ɑ	n o h ɑ t t* ɑ
+1636	거래했다	kʌlɛhɛtt*ɑ	k ʌ l ɛ h ɛ t t* ɑ
+1637	호랑이	holɑŋi	h o l ɑ ŋ i
+1638	충청북도	tɕʰuŋtɕʰʌŋbukt*o	tɕʰ u ŋ tɕʰ ʌ ŋ b u k t* o
+1639	단테	tɑntʰɛ	t ɑ n tʰ ɛ
+1640	노벨상으로	nobɛlsɑŋɯlo	n o b ɛ l s ɑ ŋ ɯ l o
+1641	빨간	p*ɑlɡɑn	p* ɑ l ɡ ɑ n
+1642	바그다드	pɑɡɯdɑdɯ	p ɑ ɡ ɯ d ɑ d ɯ
+1643	캄보디아	kʰɑmbodiɑ	kʰ ɑ m b o d i ɑ
+1644	소	so	s o
+1645	미국산이	miɡuks*ɑni	m i ɡ u k s* ɑ n i
+1646	산티아고	sɑntʰiɑɡo	s ɑ n tʰ i ɑ ɡ o
+1647	할매	hɑlmɛ	h ɑ l m ɛ
+1648	폐암	pʰjɛɑm	pʰ jɛ ɑ m
+1649	뜯겼다	t*ɯtk*jʌtt*ɑ	t* ɯ t k* jʌ t t* ɑ
+1650	마라도나	mɑlɑdonɑ	m ɑ l ɑ d o n ɑ
+1651	항산화제는	hɑŋsɑnhwadʑɛnɯn	h ɑ ŋ s ɑ n h wa dʑ ɛ n ɯ n
+1652	오빠	op*ɑ	o p* ɑ
+1653	영국	jʌŋɡuk	jʌ ŋ ɡ u k
+1654	밀가루는	milɡɑlunɯn	m i l ɡ ɑ l u n ɯ n
+1655	양성자는	jaŋsʌŋdʑɑnɯn	ja ŋ s ʌ ŋ dʑ ɑ n ɯ n
+1656	전야제	tɕʌnjadʑɛ	tɕ ʌ n ja dʑ ɛ
+1657	무기는	muɡinɯn	m u ɡ i n ɯ n
+1658	해안	hɛɑn	h ɛ ɑ n
+1659	부상을	pusɑŋɯl	p u s ɑ ŋ ɯ l
+1660	미디어로	midiʌlo	m i d i ʌ l o
+1661	오셨다	osjʌtt*ɑ	o s jʌ t t* ɑ
+1662	시장으로	sidʑɑŋɯlo	s i dʑ ɑ ŋ ɯ l o
+1663	사랑과	sɑlɑŋɡwa	s ɑ l ɑ ŋ ɡ wa
+1664	새파란	sɛpʰɑlɑn	s ɛ pʰ ɑ l ɑ n
+1665	그림을	kɯlimɯl	k ɯ l i m ɯ l
+1666	말하면서	mɑlhɑmjʌnsʌ	m ɑ l h ɑ m jʌ n s ʌ
+1667	관광지가	kwanɡwaŋdʑiɡɑ	k wa n ɡ wa ŋ dʑ i ɡ ɑ
+1668	파슬리	pʰɑsɯlli	pʰ ɑ s ɯ l l i
+1669	대상을	tɛsɑŋɯl	t ɛ s ɑ ŋ ɯ l
+1670	뉴타운	njutʰɑun	n ju tʰ ɑ u n
+1671	이사회	isɑhwɛ	i s ɑ h wɛ
+1672	변호사	pjʌnhosɑ	p jʌ n h o s ɑ
+1673	봤다	pwatt*ɑ	p wa t t* ɑ
+1674	오븐으로	obɯnɯlo	o b ɯ n ɯ l o
+1675	움직이고	umdʑiɡiɡo	u m dʑ i ɡ i ɡ o
+1676	적성은	tɕʌks*ʌŋɯn	tɕ ʌ k s* ʌ ŋ ɯ n
+1677	비행기가	pihɛŋɡiɡɑ	p i h ɛ ŋ ɡ i ɡ ɑ
+1678	도입	toip	t o i p
+1679	정오를	tɕʌŋolɯl	tɕ ʌ ŋ o l ɯ l
+1680	마라도나는	mɑlɑdonɑnɯn	m ɑ l ɑ d o n ɑ n ɯ n
+1681	스타와	sɯtʰɑwa	s ɯ tʰ ɑ wa
+1682	유통망	jutʰoŋmɑŋ	ju tʰ o ŋ m ɑ ŋ
+1683	보석으로	posʌɡɯlo	p o s ʌ ɡ ɯ l o
+1684	잡음	tɕɑbɯm	tɕ ɑ b ɯ m
+1685	부상으로	pusɑŋɯlo	p u s ɑ ŋ ɯ l o
+1686	어린이가	ʌliniɡɑ	ʌ l i n i ɡ ɑ
+1687	비평가로	pipʰjʌŋɡɑlo	p i pʰ jʌ ŋ ɡ ɑ l o
+1688	흡수했다	hɯps*uhɛtt*ɑ	h ɯ p s* u h ɛ t t* ɑ
+1689	농구와	noŋɡuwa	n o ŋ ɡ u wa
+1690	유니코드와	junikʰodɯwa	ju n i kʰ o d ɯ wa
+1691	입다	ipt*ɑ	i p t* ɑ
+1692	원석이	wʌnsʌɡi	wʌ n s ʌ ɡ i
+1693	자갈치와	tɕɑɡɑltɕʰiwa	tɕ ɑ ɡ ɑ l tɕʰ i wa
+1694	시장이	sidʑɑŋi	s i dʑ ɑ ŋ i
+1695	강변으로	kɑŋbjʌnɯlo	k ɑ ŋ b jʌ n ɯ l o
+1696	하드웨어가	hɑdɯwɛʌɡɑ	h ɑ d ɯ wɛ ʌ ɡ ɑ
+1697	매미	mɛmi	m ɛ m i
+1698	뽑습니다	p*ops*ɯmnidɑ	p* o p s* ɯ m n i d ɑ
+1699	잡고	tɕɑpk*o	tɕ ɑ p k* o
+1700	꿀꿀	k*ulk*ul	k* u l k* u l
+1701	키보드가	kʰibodɯɡɑ	kʰ i b o d ɯ ɡ ɑ
+1702	음료가	ɯmnjoɡɑ	ɯ m n jo ɡ ɑ
+1703	미국산과	miɡuks*ɑnɡwa	m i ɡ u k s* ɑ n ɡ wa
+1704	노벨상은	nobɛlsɑŋɯn	n o b ɛ l s ɑ ŋ ɯ n
+1705	시장	sidʑɑŋ	s i dʑ ɑ ŋ
+1706	친일파	tɕʰinilpʰɑ	tɕʰ i n i l pʰ ɑ
+1707	보드카가	podɯkʰɑɡɑ	p o d ɯ kʰ ɑ ɡ ɑ
+1708	달걀은	tɑlɡjalɯn	t ɑ l ɡ ja l ɯ n
+1709	소환됐습니다	sohwandwɛts*ɯmnidɑ	s o h wa n d wɛ t s* ɯ m n i d ɑ
+1710	연못	jʌnmot	jʌ n m o t
+1711	고등어	kodɯŋʌ	k o d ɯ ŋ ʌ
+1712	이자와	idʑɑwa	i dʑ ɑ wa
+1713	사용했다	sɑjoŋhɛtt*ɑ	s ɑ jo ŋ h ɛ t t* ɑ
+1714	중앙선과	tɕuŋɑŋsʌnɡwa	tɕ u ŋ ɑ ŋ s ʌ n ɡ wa
+1715	나오셨다	nɑosjʌtt*ɑ	n ɑ o s jʌ t t* ɑ
+1716	가위로	kɑwilo	k ɑ wi l o
+1717	형제를	hjʌŋdʑɛlɯl	h jʌ ŋ dʑ ɛ l ɯ l
+1718	오슬로	osɯllo	o s ɯ l l o
+1719	렌트카로	lɛntʰɯkʰɑlo	l ɛ n tʰ ɯ kʰ ɑ l o
+1720	코펜하겐	kʰopʰɛnhɑɡɛn	kʰ o pʰ ɛ n h ɑ ɡ ɛ n
+1721	거래는	kʌlɛnɯn	k ʌ l ɛ n ɯ n
+1722	학생	hɑks*ɛŋ	h ɑ k s* ɛ ŋ
+1723	시작됐다	sidʑɑkt*wɛtt*ɑ	s i dʑ ɑ k t* wɛ t t* ɑ
+1724	꺼먼	k*ʌmʌn	k* ʌ m ʌ n
+1725	국민대와	kuŋmindɛwa	k u ŋ m i n d ɛ wa
+1726	상도와	sɑŋdowa	s ɑ ŋ d o wa
+1727	네덜란드	nɛdʌllɑndɯ	n ɛ d ʌ l l ɑ n d ɯ
+1728	마법사와	mɑbʌps*ɑwa	m ɑ b ʌ p s* ɑ wa
+1729	현금	hjʌnɡɯm	h jʌ n ɡ ɯ m
+1730	탁자가	tʰɑktɕ*ɑɡɑ	tʰ ɑ k tɕ* ɑ ɡ ɑ
+1731	버터를	pʌtʰʌlɯl	p ʌ tʰ ʌ l ɯ l
+1732	제갈량	tɕɛɡɑlljaŋ	tɕ ɛ ɡ ɑ l l ja ŋ
+1733	자동차	tɕɑdoŋtɕʰɑ	tɕ ɑ d o ŋ tɕʰ ɑ
+1734	체코	tɕʰɛkʰo	tɕʰ ɛ kʰ o
+1735	손녀	sonnjʌ	s o n n jʌ
+1736	고모부	komobu	k o m o b u
+1737	콜롬비아	kʰollombiɑ	kʰ o l l o m b i ɑ
+1738	스피노자	sɯpʰinodʑɑ	s ɯ pʰ i n o dʑ ɑ
+1739	이자는	idʑɑnɯn	i dʑ ɑ n ɯ n
+1740	단축키가	tɑntɕʰukkʰiɡɑ	t ɑ n tɕʰ u k kʰ i ɡ ɑ
+1741	레바논	lɛbɑnon	l ɛ b ɑ n o n
+1742	주식	tɕusik	tɕ u s i k
+1743	포르투갈어	pʰolɯtʰuɡɑlʌ	pʰ o l ɯ tʰ u ɡ ɑ l ʌ
+1744	버터는	pʌtʰʌnɯn	p ʌ tʰ ʌ n ɯ n
+1745	평화	pʰjʌŋhwa	pʰ jʌ ŋ h wa
+1746	현금은	hjʌnɡɯmɯn	h jʌ n ɡ ɯ m ɯ n
+1747	정신병원	tɕʌŋsinbjʌŋwʌn	tɕ ʌ ŋ s i n b jʌ ŋ wʌ n
+1748	오븐과	obɯnɡwa	o b ɯ n ɡ wa
+1749	상도는	sɑŋdonɯn	s ɑ ŋ d o n ɯ n
+1750	우산	usɑn	u s ɑ n
+1751	카탈루냐어	kʰɑtʰɑllunjaʌ	kʰ ɑ tʰ ɑ l l u n ja ʌ
+1752	텔레비전으로	tʰɛllɛbidʑʌnɯlo	tʰ ɛ l l ɛ b i dʑ ʌ n ɯ l o
+1753	정오와	tɕʌŋowa	tɕ ʌ ŋ o wa
+1754	뉴타운이	njutʰɑuni	n ju tʰ ɑ u n i
+1755	여학생	jʌhɑks*ɛŋ	jʌ h ɑ k s* ɛ ŋ
+1756	우주	udʑu	u dʑ u
+1757	이불은	ibulɯn	i b u l ɯ n
+1758	감자와	kɑmdʑɑwa	k ɑ m dʑ ɑ wa
+1759	자카르타	tɕɑkʰɑlɯtʰɑ	tɕ ɑ kʰ ɑ l ɯ tʰ ɑ
+1760	인터넷	intʰʌnɛt	i n tʰ ʌ n ɛ t
+1761	베네수엘라	pɛnɛsuɛllɑ	p ɛ n ɛ s u ɛ l l ɑ
+1762	설계도는	sʌlɡjɛdonɯn	s ʌ l ɡ jɛ d o n ɯ n
+1763	키예프	kʰijɛpʰɯ	kʰ i jɛ pʰ ɯ
+1764	플레이오프로	pʰɯllɛiopʰɯlo	pʰ ɯ l l ɛ i o pʰ ɯ l o
+1765	올레길이	ollɛɡili	o l l ɛ ɡ i l i
+1766	교수는	kjosunɯn	k jo s u n ɯ n
+1767	갔다	kɑtt*ɑ	k ɑ t t* ɑ
+1768	도구	toɡu	t o ɡ u
+1769	법으로	pʌbɯlo	p ʌ b ɯ l o
+1770	인터넷은	intʰʌnɛsɯn	i n tʰ ʌ n ɛ s ɯ n
+1771	테이블을	tʰɛibɯlɯl	tʰ ɛ i b ɯ l ɯ l
+1772	음료는	ɯmnjonɯn	ɯ m n jo n ɯ n
+1773	바뀌었다	pɑk*wiʌtt*ɑ	p ɑ k* wi ʌ t t* ɑ
+1774	학은	hɑɡɯn	h ɑ ɡ ɯ n
+1775	노란	nolɑn	n o l ɑ n
+1776	축사	tɕʰuks*ɑ	tɕʰ u k s* ɑ
+1777	탁자로	tʰɑktɕ*ɑlo	tʰ ɑ k tɕ* ɑ l o
+1778	벽시계는	pjʌks*iɡjɛnɯn	p jʌ k s* i ɡ jɛ n ɯ n
+1779	연꽃을	jʌnk*otɕʰɯl	jʌ n k* o tɕʰ ɯ l
+1780	군인으로	kuninɯlo	k u n i n ɯ l o
+1781	한국말을	hɑnɡuŋmɑlɯl	h ɑ n ɡ u ŋ m ɑ l ɯ l
+1782	그린벨트를	kɯlinbɛltʰɯlɯl	k ɯ l i n b ɛ l tʰ ɯ l ɯ l
+1783	경주	kjʌŋdʑu	k jʌ ŋ dʑ u
+1784	통신망은	tʰoŋsinmɑŋɯn	tʰ o ŋ s i n m ɑ ŋ ɯ n
+1785	가르쳤다	kɑlɯtɕʰjʌtt*ɑ	k ɑ l ɯ tɕʰ jʌ t t* ɑ
+1786	기차를	kitɕʰɑlɯl	k i tɕʰ ɑ l ɯ l
+1787	빵으로	p*ɑŋɯlo	p* ɑ ŋ ɯ l o
+1788	실행했다	silhɛŋhɛtt*ɑ	s i l h ɛ ŋ h ɛ t t* ɑ
+1789	페루	pʰɛlu	pʰ ɛ l u
+1790	의붓딸	ɰibutt*ɑl	ɰi b u t t* ɑ l
+1791	줘요	tɕwʌjo	tɕ wʌ jo
+1792	오소리가	osoliɡɑ	o s o l i ɡ ɑ
+1793	돕다	topt*ɑ	t o p t* ɑ
+1794	소년	sonjʌn	s o n jʌ n
+1795	신탁으로	sintʰɑɡɯlo	s i n tʰ ɑ ɡ ɯ l o
+1796	영국령	jʌŋɡuŋnjʌŋ	jʌ ŋ ɡ u ŋ n jʌ ŋ
+1797	우유와	ujuwa	u ju wa
+1798	조명으로	tɕomjʌŋɯlo	tɕ o m jʌ ŋ ɯ l o
+1799	벌집	pʌldʑip	p ʌ l dʑ i p
+1800	대추나무가	tɛtɕʰunɑmuɡɑ	t ɛ tɕʰ u n ɑ m u ɡ ɑ
+1801	우산은	usɑnɯn	u s ɑ n ɯ n
+1802	움직이면서	umdʑiɡimjʌnsʌ	u m dʑ i ɡ i m jʌ n s ʌ
+1803	노벨상을	nobɛlsɑŋɯl	n o b ɛ l s ɑ ŋ ɯ l
+1804	개미굴	kɛmiɡul	k ɛ m i ɡ u l
+1805	중환자실으로	tɕuŋhwandʑɑsilɯlo	tɕ u ŋ h wa n dʑ ɑ s i l ɯ l o
+1806	박진영으로	pɑktɕ*injʌŋɯlo	p ɑ k tɕ* i n jʌ ŋ ɯ l o
+1807	변호사가	pjʌnhosɑɡɑ	p jʌ n h o s ɑ ɡ ɑ
+1808	원석을	wʌnsʌɡɯl	wʌ n s ʌ ɡ ɯ l
+1809	다윈	tɑwin	t ɑ wi n
+1810	초원	tɕʰowʌn	tɕʰ o wʌ n
+1811	새을	sɛɯl	s ɛ ɯ l
+1812	아내	ɑnɛ	ɑ n ɛ
+1813	톨스토이	tʰolsɯtʰoi	tʰ o l s ɯ tʰ o i
+1814	지렛대를	tɕilɛtt*ɛlɯl	tɕ i l ɛ t t* ɛ l ɯ l
+1815	하얀	hɑjan	h ɑ ja n
+1816	남용과	nɑmjoŋɡwa	n ɑ m jo ŋ ɡ wa
+1817	항산화제가	hɑŋsɑnhwadʑɛɡɑ	h ɑ ŋ s ɑ n h wa dʑ ɛ ɡ ɑ
+1818	정신병원은	tɕʌŋsinbjʌŋwʌnɯn	tɕ ʌ ŋ s i n b jʌ ŋ wʌ n ɯ n
+1819	누나	nunɑ	n u n ɑ
+1820	이끄시고	ik*ɯsiɡo	i k* ɯ s i ɡ o
+1821	중앙선을	tɕuŋɑŋsʌnɯl	tɕ u ŋ ɑ ŋ s ʌ n ɯ l
+1822	그리스	kɯlisɯ	k ɯ l i s ɯ
+1823	페르시아어	pʰɛlɯsiɑʌ	pʰ ɛ l ɯ s i ɑ ʌ
+1824	시조는	sidʑonɯn	s i dʑ o n ɯ n
+1825	경상북도	kjʌŋsɑŋbukt*o	k jʌ ŋ s ɑ ŋ b u k t* o
+1826	우유는	ujunɯn	u ju n ɯ n
+1827	화학이	hwahɑɡi	h wa h ɑ ɡ i
+1828	보석을	posʌɡɯl	p o s ʌ ɡ ɯ l
+1829	가위와	kɑwiwa	k ɑ wi wa
+1830	대추나무는	tɛtɕʰunɑmunɯn	t ɛ tɕʰ u n ɑ m u n ɯ n
+1831	강조했다	kɑŋdʑohɛtt*ɑ	k ɑ ŋ dʑ o h ɛ t t* ɑ
+1832	제트스키	tɕɛtʰɯsɯkʰi	tɕ ɛ tʰ ɯ s ɯ kʰ i
+1833	선생이	sʌnsɛŋi	s ʌ n s ɛ ŋ i
+1834	입었다	ibʌtt*ɑ	i b ʌ t t* ɑ
+1835	마라도나와	mɑlɑdonɑwa	m ɑ l ɑ d o n ɑ wa
+1836	인정함	indʑʌŋhɑm	i n dʑ ʌ ŋ h ɑ m
+1837	영어	jʌŋʌ	jʌ ŋ ʌ
+1838	주식과	tɕusikk*wa	tɕ u s i k k* wa
+1839	남성	nɑmsʌŋ	n ɑ m s ʌ ŋ
+1840	단축키로	tɑntɕʰukkʰilo	t ɑ n tɕʰ u k kʰ i l o
+1841	우산을	usɑnɯl	u s ɑ n ɯ l
+1842	밀가루를	milɡɑlulɯl	m i l ɡ ɑ l u l ɯ l
+1843	강의와	kɑŋɰiwa	k ɑ ŋ ɰi wa
+1844	컴퓨터	kʰʌmpʰjutʰʌ	kʰ ʌ m pʰ ju tʰ ʌ
+1845	사자	sɑdʑɑ	s ɑ dʑ ɑ
+1846	중앙선이	tɕuŋɑŋsʌni	tɕ u ŋ ɑ ŋ s ʌ n i
+1847	존재	tɕondʑɛ	tɕ o n dʑ ɛ
+1848	둥지	tuŋdʑi	t u ŋ dʑ i
+1849	인터넷을	intʰʌnɛsɯl	i n tʰ ʌ n ɛ s ɯ l
+1850	푸른	pʰulɯn	pʰ u l ɯ n
+1851	사고	sɑɡo	s ɑ ɡ o
+1852	한국말과	hɑnɡuŋmɑlɡwa	h ɑ n ɡ u ŋ m ɑ l ɡ wa
+1853	종이로	tɕoŋilo	tɕ o ŋ i l o
+1854	보내셨습니다	ponɛsjʌts*ɯmnidɑ	p o n ɛ s jʌ t s* ɯ m n i d ɑ
+1855	병아리	pjʌŋɑli	p jʌ ŋ ɑ l i
+1856	이사회를	isɑhwɛlɯl	i s ɑ h wɛ l ɯ l
+1857	한국말으로	hɑnɡuŋmɑlɯlo	h ɑ n ɡ u ŋ m ɑ l ɯ l o
+1858	피지	pʰidʑi	pʰ i dʑ i
+1859	학생이	hɑks*ɛŋi	h ɑ k s* ɛ ŋ i
+1860	베른	pɛlɯn	p ɛ l ɯ n
+1861	카페인	kʰɑpʰɛin	kʰ ɑ pʰ ɛ i n
+1862	형제가	hjʌŋdʑɛɡɑ	h jʌ ŋ dʑ ɛ ɡ ɑ
+1863	왕은	waŋɯn	wa ŋ ɯ n
+1864	모의고사로	moɰiɡosɑlo	m o ɰi ɡ o s ɑ l o
+1865	단축키는	tɑntɕʰukkʰinɯn	t ɑ n tɕʰ u k kʰ i n ɯ n
+1866	키즈까페는	kʰidʑɯk*ɑpʰɛnɯn	kʰ i dʑ ɯ k* ɑ pʰ ɛ n ɯ n
+1867	보드카로	podɯkʰɑlo	p o d ɯ kʰ ɑ l o
+1868	여권과	jʌɡwʌnɡwa	jʌ ɡ wʌ n ɡ wa
+1869	정오	tɕʌŋo	tɕ ʌ ŋ o
+1870	증조할머니	tɕɯŋdʑohɑlmʌni	tɕ ɯ ŋ dʑ o h ɑ l m ʌ n i
+1871	고래	kolɛ	k o l ɛ
+1872	법과	pʌpk*wa	p ʌ p k* wa
+1873	구세주	kusɛdʑu	k u s ɛ dʑ u
+1874	주식을	tɕusiɡɯl	tɕ u s i ɡ ɯ l
+1875	영수증	jʌŋsudʑɯŋ	jʌ ŋ s u dʑ ɯ ŋ
+1876	앉았어	ɑndʑɑs*ʌ	ɑ n dʑ ɑ s* ʌ
+1877	사셨다	sɑsjʌtt*ɑ	s ɑ s jʌ t t* ɑ
+1878	수록곡과	sulokk*okk*wa	s u l o k k* o k k* wa
+1879	명성황후가	mjʌŋsʌŋhwaŋhuɡɑ	m jʌ ŋ s ʌ ŋ h wa ŋ h u ɡ ɑ
+1880	뻐꾹	p*ʌk*uk	p* ʌ k* u k
+1881	싯누런	sinnulʌn	s i n n u l ʌ n
+1882	모스크바	mosɯkʰɯbɑ	m o s ɯ kʰ ɯ b ɑ
+1883	형제는	hjʌŋdʑɛnɯn	h jʌ ŋ dʑ ɛ n ɯ n
+1884	함박눈	hɑmbɑŋnun	h ɑ m b ɑ ŋ n u n
+1885	학생으로	hɑks*ɛŋɯlo	h ɑ k s* ɛ ŋ ɯ l o
+1886	흘리셨다	hɯllisjʌtt*ɑ	h ɯ l l i s jʌ t t* ɑ
+1887	아바나	ɑbɑnɑ	ɑ b ɑ n ɑ
+1888	지도가	tɕidoɡɑ	tɕ i d o ɡ ɑ
+1889	친일파는	tɕʰinilpʰɑnɯn	tɕʰ i n i l pʰ ɑ n ɯ n
+1890	놓으셨다	nohɯsjʌtt*ɑ	n o h ɯ s jʌ t t* ɑ
+1891	남직원	nɑmdʑiɡwʌn	n ɑ m dʑ i ɡ wʌ n
+1892	과일	kwail	k wa i l
+1893	통신망	tʰoŋsinmɑŋ	tʰ o ŋ s i n m ɑ ŋ
+1894	기차로	kitɕʰɑlo	k i tɕʰ ɑ l o
+1895	나왔다	nɑwatt*ɑ	n ɑ wa t t* ɑ
+1896	시행은	sihɛŋɯn	s i h ɛ ŋ ɯ n
+1897	키즈까페가	kʰidʑɯk*ɑpʰɛɡɑ	kʰ i dʑ ɯ k* ɑ pʰ ɛ ɡ ɑ
+1898	동서양과	toŋsʌjaŋɡwa	t o ŋ s ʌ ja ŋ ɡ wa
+1899	이란	ilɑn	i l ɑ n
+1900	러시아	lʌsiɑ	l ʌ s i ɑ
+1901	축구로	tɕʰukk*ulo	tɕʰ u k k* u l o
+1902	시행	sihɛŋ	s i h ɛ ŋ
+1903	연꽃	jʌnk*ot	jʌ n k* o t
+1904	난방	nɑnbɑŋ	n ɑ n b ɑ ŋ
+1905	이사회로	isɑhwɛlo	i s ɑ h wɛ l o
+1906	전원	tɕʌnwʌn	tɕ ʌ n wʌ n
+1907	악어	ɑɡʌ	ɑ ɡ ʌ
+1908	현금과	hjʌnɡɯmɡwa	h jʌ n ɡ ɯ m ɡ wa
+1909	주식회사로	tɕusikʰwɛsɑlo	tɕ u s i kʰ wɛ s ɑ l o
+1910	총각	tɕʰoŋɡɑk	tɕʰ o ŋ ɡ ɑ k
+1911	대추나무	tɛtɕʰunɑmu	t ɛ tɕʰ u n ɑ m u
+1912	삶	sɑm	s ɑ m
+1913	소형차	sohjʌŋtɕʰɑ	s o h jʌ ŋ tɕʰ ɑ
+1914	독일	toɡil	t o ɡ i l
+1915	이불을	ibulɯl	i b u l ɯ l
+1916	만들어졌다	mɑndɯlʌdʑjʌtt*ɑ	m ɑ n d ɯ l ʌ dʑ jʌ t t* ɑ
+1917	손자	sondʑɑ	s o n dʑ ɑ
+1918	유통망이	jutʰoŋmɑŋi	ju tʰ o ŋ m ɑ ŋ i
+1919	까마귀와	k*ɑmɑɡwiwa	k* ɑ m ɑ ɡ wi wa
+1920	책으로	tɕʰɛɡɯlo	tɕʰ ɛ ɡ ɯ l o
+1921	간호사	kɑnhosɑ	k ɑ n h o s ɑ
+1922	토마토	tʰomɑtʰo	tʰ o m ɑ tʰ o
+1923	삶을	sɑlmɯl	s ɑ l m ɯ l
+1924	루비	lubi	l u b i
+1925	도덕	todʌk	t o d ʌ k
+1926	소프트웨어	sopʰɯtʰɯwɛʌ	s o pʰ ɯ tʰ ɯ wɛ ʌ
+1927	날씨	nɑls*i	n ɑ l s* i
+1928	선	sʌn	s ʌ n
+1929	세탁	sɛtʰɑk	s ɛ tʰ ɑ k
+1930	수집품	sudʑippʰum	s u dʑ i p pʰ u m
+1931	재난	tɕɛnɑn	tɕ ɛ n ɑ n
+1932	여왕	jʌwaŋ	jʌ wa ŋ
+1933	토너먼트	tʰonʌmʌntʰɯ	tʰ o n ʌ m ʌ n tʰ ɯ
+1934	달걀	tɑlɡjal	t ɑ l ɡ ja l
+1935	건강	kʌnɡɑŋ	k ʌ n ɡ ɑ ŋ
+1936	홍수	hoŋsu	h o ŋ s u
+1937	도구	toɡu	t o ɡ u
+1938	물	mul	m u l
+1939	킬로미터	kʰillomitʰʌ	kʰ i l l o m i tʰ ʌ
+1940	외교관	wɛɡjoɡwan	wɛ ɡ jo ɡ wa n
+1941	팔레스타인	pʰɑllɛsɯtʰɑin	pʰ ɑ l l ɛ s ɯ tʰ ɑ i n
+1942	낮	nɑt	n ɑ t
+1943	마일	mɑil	m ɑ i l
+1944	계산	kjɛsɑn	k jɛ s ɑ n
+1945	주식	tɕusik	tɕ u s i k
+1946	패배	pʰɛbɛ	pʰ ɛ b ɛ
+1947	평화	pʰjʌŋhwa	pʰ jʌ ŋ h wa
+1948	입장	iptɕ*ɑŋ	i p tɕ* ɑ ŋ
+1949	우주	udʑu	u dʑ u
+1950	클리닉	kʰɯllinik	kʰ ɯ l l i n i k
+1951	추천	tɕʰutɕʰʌn	tɕʰ u tɕʰ ʌ n
+1952	도지사	todʑisɑ	t o dʑ i s ɑ
+1953	끈	k*ɯn	k* ɯ n
+1954	소비자	sobidʑɑ	s o b i dʑ ɑ
+1955	여행	jʌhɛŋ	jʌ h ɛ ŋ
+1956	인터넷	intʰʌnɛt	i n tʰ ʌ n ɛ t
+1957	바닷가재	pɑdɑtk*ɑdʑɛ	p ɑ d ɑ t k* ɑ dʑ ɛ
+1958	알루미늄	ɑlluminjum	ɑ l l u m i n ju m
+1959	엄마	ʌmmɑ	ʌ m m ɑ
+1960	라운드	lɑundɯ	l ɑ u n d ɯ
+1961	두루미	tulumi	t u l u m i
+1962	피해자	pʰihɛdʑɑ	pʰ i h ɛ dʑ ɑ
+1963	준비	tɕunbi	tɕ u n b i
+1964	부	pu	p u
+1965	과학자	kwahɑktɕ*ɑ	k wa h ɑ k tɕ* ɑ
+1966	팀	tʰim	tʰ i m
+1967	테러	tʰɛlʌ	tʰ ɛ l ʌ
+1968	표면	pʰjomjʌn	pʰ jo m jʌ n
+1969	경기	kjʌŋɡi	k jʌ ŋ ɡ i
+1970	우주인	udʑuin	u dʑ u i n
+1971	초점	tɕʰodʑʌm	tɕʰ o dʑ ʌ m
+1972	형제	hjʌŋdʑɛ	h jʌ ŋ dʑ ɛ
+1973	소나기	sonɑɡi	s o n ɑ ɡ i
+1974	가족	kɑdʑok	k ɑ dʑ o k
+1975	보드카	podɯkʰɑ	p o d ɯ kʰ ɑ
+1976	감자	kɑmdʑɑ	k ɑ m dʑ ɑ
+1977	건축	kʌntɕʰuk	k ʌ n tɕʰ u k
+1978	변화	pjʌnhwa	p jʌ n h wa
+1979	연도	jʌndo	jʌ n d o
+1980	지연되다	tɕijʌndwɛdɑ	tɕ i jʌ n d wɛ d ɑ
+1981	묘지	mjodʑi	m jo dʑ i
+1982	눈	nun	n u n
+1983	예약	jɛjak	jɛ ja k
+1984	선행사건	sʌnhɛŋsɑɡʌn	s ʌ n h ɛ ŋ s ɑ ɡ ʌ n
+1985	라디오	lɑdio	l ɑ d i o
+1986	우울	uul	u u l
+1987	증거	tɕɯŋɡʌ	tɕ ɯ ŋ ɡ ʌ
+1988	사내	sɑnɛ	s ɑ n ɛ
+1989	전쟁	tɕʌndʑɛŋ	tɕ ʌ n dʑ ɛ ŋ
+1990	회사	hwɛsɑ	h wɛ s ɑ
+1991	육식동물	juks*ikt*oŋmul	ju k s* i k t* o ŋ m u l
+1992	별	pjʌl	p jʌ l
+1993	싸이	s*ɑi	s* ɑ i
+1994	협곡	hjʌpk*ok	h jʌ p k* o k
+1995	예금	jɛɡɯm	jɛ ɡ ɯ m
+1996	기사	kisɑ	k i s ɑ
+1997	사치품	sɑtɕʰipʰum	s ɑ tɕʰ i pʰ u m
+1998	생명	sɛŋmjʌŋ	s ɛ ŋ m jʌ ŋ
+1999	도착	totɕʰɑk	t o tɕʰ ɑ k
+2000	챔피언십	tɕʰɛmpʰiʌnsip	tɕʰ ɛ m pʰ i ʌ n s i p
+2001	여자	jʌdʑɑ	jʌ dʑ ɑ
+2002	역사	jʌks*ɑ	jʌ k s* ɑ
+2003	교훈	kjohun	k jo h u n
+2004	목사	moks*ɑ	m o k s* ɑ
+2005	예시	jɛsi	jɛ s i
+2006	축구	tɕʰukk*u	tɕʰ u k k* u
+2007	불	pul	p u l
+2008	경험	kjʌŋhʌm	k jʌ ŋ h ʌ m
+2009	새벽	sɛbjʌk	s ɛ b jʌ k
+2010	지문	tɕimun	tɕ i m u n
+2011	크기	kʰɯɡi	kʰ ɯ ɡ i
+2012	마라도나	mɑlɑdonɑ	m ɑ l ɑ d o n ɑ
+2013	포유류	pʰojulju	pʰ o ju l ju
+2014	석유	sʌɡju	s ʌ ɡ ju
+2015	인식	insik	i n s i k
+2016	숫자	suttɕ*ɑ	s u t tɕ* ɑ
+2017	양성자	jaŋsʌŋdʑɑ	ja ŋ s ʌ ŋ dʑ ɑ
+2018	승리	sɯŋni	s ɯ ŋ n i
+2019	출금	tɕʰulɡɯm	tɕʰ u l ɡ ɯ m
+2020	세기	sɛɡi	s ɛ ɡ i
+2021	인접성	indʑʌps*ʌŋ	i n dʑ ʌ p s* ʌ ŋ
+2022	재규어	tɕɛɡjuʌ	tɕ ɛ ɡ ju ʌ
+2023	의사소통	ɰisɑsotʰoŋ	ɰi s ɑ s o tʰ o ŋ
+2024	확신	hwaks*in	h wa k s* i n
+2025	생식력	sɛŋsiŋnjʌk	s ɛ ŋ s i ŋ n jʌ k
+2026	비행기	pihɛŋɡi	p i h ɛ ŋ ɡ i
+2027	자원봉사자	tɕɑwʌnboŋsɑdʑɑ	tɕ ɑ wʌ n b o ŋ s ɑ dʑ ɑ
+2028	연구실	jʌnɡusil	jʌ n ɡ u s i l
+2029	지형	tɕihjʌŋ	tɕ i h jʌ ŋ
+2030	시민	simin	s i m i n
+2031	고양이과	kojaŋiɡwa	k o ja ŋ i ɡ wa
+2032	하드웨어	hɑdɯwɛʌ	h ɑ d ɯ wɛ ʌ
+2033	금속	kɯmsok	k ɯ m s o k
+2034	노력	noljʌk	n o l jʌ k
+2035	제작자	tɕɛdʑɑktɕ*ɑ	tɕ ɛ dʑ ɑ k tɕ* ɑ
+2036	돈	ton	t o n
+2037	경쟁	kjʌŋdʑɛŋ	k jʌ ŋ dʑ ɛ ŋ
+2038	영어	jʌŋʌ	jʌ ŋ ʌ
+2039	장애	tɕɑŋɛ	tɕ ɑ ŋ ɛ
+2040	위기	wiɡi	wi ɡ i
+2041	기록	kilok	k i l o k
+2042	브라질	pɯlɑdʑil	p ɯ l ɑ dʑ i l
+2043	성관계	sʌŋɡwanɡjɛ	s ʌ ŋ ɡ wa n ɡ jɛ
+2044	비상사태	pisɑŋsɑtʰɛ	p i s ɑ ŋ s ɑ tʰ ɛ
+2045	선례	sʌlljɛ	s ʌ l l jɛ
+2046	과일	kwail	k wa i l
+2047	일본어	ilbonʌ	i l b o n ʌ
+2048	공포	koŋpʰo	k o ŋ pʰ o
+2049	호랑이	holɑŋi	h o l ɑ ŋ i
+2050	편견	pʰjʌnɡjʌn	pʰ jʌ n ɡ jʌ n
+2051	접근	tɕʌpk*ɯn	tɕ ʌ p k* ɯ n
+2052	사무실	sɑmusil	s ɑ m u s i l
+2053	개체	kɛtɕʰɛ	k ɛ tɕʰ ɛ
+2054	길거리	kilɡʌli	k i l ɡ ʌ l i
+2055	해안	hɛɑn	h ɛ ɑ n
+2056	은하계	ɯnhɑɡjɛ	ɯ n h ɑ ɡ jɛ
+2057	설탕	sʌltʰɑŋ	s ʌ l tʰ ɑ ŋ
+2058	나무	nɑmu	n ɑ m u
+2059	결론	kjʌllon	k jʌ l l o n
+2060	수용소	sujoŋso	s u jo ŋ s o
+2061	소녀	sonjʌ	s o n jʌ
+2062	화성	hwasʌŋ	h wa s ʌ ŋ
+2063	옷장	ottɕ*ɑŋ	o t tɕ* ɑ ŋ
+2064	시청자	sitɕʰʌŋdʑɑ	s i tɕʰ ʌ ŋ dʑ ɑ
+2065	사랑	sɑlɑŋ	s ɑ l ɑ ŋ
+2066	도서관	tosʌɡwan	t o s ʌ ɡ wa n
+2067	아기	ɑɡi	ɑ ɡ i
+2068	키보드	kʰibodɯ	kʰ i b o d ɯ
+2069	입	ip	i p
+2070	상황	sɑŋhwaŋ	s ɑ ŋ h wa ŋ
+2071	손실	sonsil	s o n s i l
+2072	민족	mindʑok	m i n dʑ o k
+2073	하이킹	hɑikʰiŋ	h ɑ i kʰ i ŋ
+2074	이미지	imidʑi	i m i dʑ i
+2075	장식	tɕɑŋsik	tɕ ɑ ŋ s i k
+2076	산출	sɑntɕʰul	s ɑ n tɕʰ u l
+2077	가능성	kɑnɯŋsʌŋ	k ɑ n ɯ ŋ s ʌ ŋ
+2078	공항	koŋhɑŋ	k o ŋ h ɑ ŋ
+2079	보도	podo	p o d o
+2080	화음	hwaɯm	h wa ɯ m
+2081	멍청한	mʌŋtɕʰʌŋhɑn	m ʌ ŋ tɕʰ ʌ ŋ h ɑ n
+2082	대통령	tɛtʰoŋnjʌŋ	t ɛ tʰ o ŋ n jʌ ŋ
+2083	네트워크	nɛtʰɯwʌkʰɯ	n ɛ tʰ ɯ wʌ kʰ ɯ
+2084	컵	kʰʌp	kʰ ʌ p
+2085	법	pʌp	p ʌ p
+2086	연세대	jʌnsɛdɛ	jʌ n s ɛ d ɛ
+2087	이유	iju	i ju
+2088	고립	kolip	k o l i p
+2089	영토	jʌŋtʰo	jʌ ŋ tʰ o
+2090	별자리	pjʌldʑɑli	p jʌ l dʑ ɑ l i
+2091	후퇴	hutʰwɛ	h u tʰ wɛ
+2092	배치	pɛtɕʰi	p ɛ tɕʰ i
+2093	피부	pʰibu	pʰ i b u
+2094	교수	kjosu	k jo s u
+2095	영리한	jʌŋnihɑn	jʌ ŋ n i h ɑ n
+2096	수요일	sujoil	s u jo i l
+2097	가격	kɑɡjʌk	k ɑ ɡ jʌ k
+2098	협회	hjʌpʰwɛ	h jʌ pʰ wɛ
+2099	락	lɑk	l ɑ k
+2100	시도	sido	s i d o
+2101	짐승	tɕimsɯŋ	tɕ i m s ɯ ŋ
+2102	커피	kʰʌpʰi	kʰ ʌ pʰ i
+2103	용어	joŋʌ	jo ŋ ʌ
+2104	박물관	pɑŋmulɡwan	p ɑ ŋ m u l ɡ wa n
+2105	구현하다	kuhjʌnhɑdɑ	k u h jʌ n h ɑ d ɑ
+2106	센터	sɛntʰʌ	s ɛ n tʰ ʌ
+2107	엔	ɛn	ɛ n
+2108	팝콘	pʰɑpkʰon	pʰ ɑ p kʰ o n
+2109	문화	munhwa	m u n h wa
+2110	골목	kolmok	k o l m o k
+2111	범주	pʌmdʑu	p ʌ m dʑ u
+2112	기차	kitɕʰɑ	k i tɕʰ ɑ
+2113	대기권	tɛɡiɡwʌn	t ɛ ɡ i ɡ wʌ n
+2114	항공	hɑŋɡoŋ	h ɑ ŋ ɡ o ŋ
+2115	뉴스	njusɯ	n ju s ɯ
+2116	저널	tɕʌnʌl	tɕ ʌ n ʌ l
+2117	스타	sɯtʰɑ	s ɯ tʰ ɑ
+2118	신용	sinjoŋ	s i n jo ŋ
+2119	달리기	tɑlliɡi	t ɑ l l i ɡ i
+2120	용기	joŋɡi	jo ŋ ɡ i
+2121	남용	nɑmjoŋ	n ɑ m jo ŋ
+2122	유사도	jusɑdo	ju s ɑ d o
+2123	물질	muldʑil	m u l dʑ i l
+2124	투자자	tʰudʑɑdʑɑ	tʰ u dʑ ɑ dʑ ɑ
+2125	고혈압	kohjʌlɑp	k o h jʌ l ɑ p
+2126	성스러운	sʌŋsɯlʌun	s ʌ ŋ s ɯ l ʌ u n
+2127	막장	mɑktɕ*ɑŋ	m ɑ k tɕ* ɑ ŋ
+2128	버터	pʌtʰʌ	p ʌ tʰ ʌ
+2129	종류	tɕoŋnju	tɕ o ŋ n ju
+2130	직원	tɕiɡwʌn	tɕ i ɡ wʌ n
+2131	성별	sʌŋbjʌl	s ʌ ŋ b jʌ l
+2132	발견	pɑlɡjʌn	p ɑ l ɡ jʌ n
+2133	목록	moŋnok	m o ŋ n o k
+2134	행성	hɛŋsʌŋ	h ɛ ŋ s ʌ ŋ
+2135	학생	hɑks*ɛŋ	h ɑ k s* ɛ ŋ
+2136	식료품	siŋnjopʰum	s i ŋ n jo pʰ u m
+2137	기념품	kinjʌmpʰum	k i n jʌ m pʰ u m
+2138	콘서트	kʰonsʌtʰɯ	kʰ o n s ʌ tʰ ɯ
+2139	에너지	ɛnʌdʑi	ɛ n ʌ dʑ i
+2140	비디오	pidio	p i d i o
+2141	섹스	sɛks*ɯ	s ɛ k s* ɯ
+2142	미식축구	misiktɕʰukk*u	m i s i k tɕʰ u k k* u
+2143	비평	pipʰjʌŋ	p i pʰ jʌ ŋ
+2144	좌우명	tɕwaumjʌŋ	tɕ wa u m jʌ ŋ
+2145	게임	kɛim	k ɛ i m
+2146	인터뷰	intʰʌbju	i n tʰ ʌ b ju
+2147	거장	kʌdʑɑŋ	k ʌ dʑ ɑ ŋ
+2148	정신과	tɕʌŋsinɡwa	tɕ ʌ ŋ s i n ɡ wa
+2149	프로이드	pʰɯloidɯ	pʰ ɯ l o i d ɯ
+2150	유리	juli	ju l i
+2151	전례	tɕʌlljɛ	tɕ ʌ l l jɛ
+2152	시장	sidʑɑŋ	s i dʑ ɑ ŋ
+2153	흥미	hɯŋmi	h ɯ ŋ m i
+2154	미디어	midiʌ	m i d i ʌ
+2155	살인	sɑlin	s ɑ l i n
+2156	프로젝트	pʰɯlodʑɛktʰɯ	pʰ ɯ l o dʑ ɛ k tʰ ɯ
+2157	마법사	mɑbʌps*ɑ	m ɑ b ʌ p s* ɑ
+2158	책	tɕʰɛk	tɕʰ ɛ k
+2159	소년	sonjʌn	s o n jʌ n
+2160	컴퓨터	kʰʌmpʰjutʰʌ	kʰ ʌ m pʰ ju tʰ ʌ
+2161	공예품	koŋjɛpʰum	k o ŋ jɛ pʰ u m
+2162	노예	nojɛ	n o jɛ
+2163	물리학	mullihɑk	m u l l i h ɑ k
+2164	귀	kwi	k wi
+2165	카드	kʰɑdɯ	kʰ ɑ d ɯ
+2166	시리즈	silidʑɯ	s i l i dʑ ɯ
+2167	태양	tʰɛjaŋ	tʰ ɛ ja ŋ
+2168	언덕	ʌndʌk	ʌ n d ʌ k
+2169	세계	sɛɡjɛ	s ɛ ɡ jɛ
+2170	계획	kjɛhwɛk	k jɛ h wɛ k
+2171	인지	indʑi	i n dʑ i
+2172	메달	mɛdɑl	m ɛ d ɑ l
+2173	기관	kiɡwan	k i ɡ wa n
+2174	휴정	hjudʑʌŋ	h ju dʑ ʌ ŋ
+2175	오페라	opʰɛlɑ	o pʰ ɛ l ɑ
+2176	자연	tɕɑjʌn	tɕ ɑ jʌ n
+2177	수탉	sutʰɑk	s u tʰ ɑ k
+2178	산업	sɑnʌp	s ɑ n ʌ p
+2179	브랜디	pɯlɛndi	p ɯ l ɛ n d i
+2180	보일러	poillʌ	p o i l l ʌ
+2181	단어	tɑnʌ	t ɑ n ʌ
+2182	기회	kihwɛ	k i h wɛ
+2183	배당금	pɛdɑŋɡɯm	p ɛ d ɑ ŋ ɡ ɯ m
+2184	거래	kʌlɛ	k ʌ l ɛ
+2185	은행	ɯnhɛŋ	ɯ n h ɛ ŋ
+2186	국회위원	kukʰwɛwiwʌn	k u kʰ wɛ wi wʌ n
+2187	월	wʌl	wʌ l
+2188	바다	pɑdɑ	p ɑ d ɑ
+2189	도전	todʑʌn	t o dʑ ʌ n
+2190	다섯	tɑsʌt	t ɑ s ʌ t
+2191	문제	mundʑɛ	m u n dʑ ɛ
+2192	구조	kudʑo	k u dʑ o
+2193	여정	jʌdʑʌŋ	jʌ dʑ ʌ ŋ
+2194	고양이	kojaŋi	k o ja ŋ i
+2195	공연	koŋjʌn	k o ŋ jʌ n
+2196	아이들	ɑidɯl	ɑ i d ɯ l
+2197	음료	ɯmnjo	ɯ m n jo
+2198	이사회	isɑhwɛ	i s ɑ h wɛ
+2199	변호사	pjʌnhosɑ	p jʌ n h o s ɑ
+2200	신탁	sintʰɑk	s i n tʰ ɑ k
+2201	죽음	tɕuɡɯm	tɕ u ɡ ɯ m
+2202	소수자	sosudʑɑ	s o s u dʑ ɑ
+2203	출발	tɕʰulbɑl	tɕʰ u l b ɑ l
+2204	차량	tɕʰɑljaŋ	tɕʰ ɑ l ja ŋ
+2205	회복	hwɛbok	h wɛ b o k
+2206	호텔	hotʰɛl	h o tʰ ɛ l
+2207	수도승	sudosɯŋ	s u d o s ɯ ŋ
+2208	지불	tɕibul	tɕ i b u l
+2209	한낮	hɑnnɑt	h ɑ n n ɑ t
+2210	화폐	hwapʰjɛ	h wa pʰ jɛ
+2211	화학	hwahɑk	h wa h ɑ k
+2212	수사	susɑ	s u s ɑ
+2213	국가	kukk*ɑ	k u k k* ɑ
+2214	보험	pohʌm	p o h ʌ m
+2215	마술사	mɑsulsɑ	m ɑ s u l s ɑ
+2216	개발	kɛbɑl	k ɛ b ɑ l
+2217	마시다	mɑsidɑ	m ɑ s i d ɑ
+2218	유리잔	julidʑɑn	ju l i dʑ ɑ n
+2219	활동	hwaldoŋ	h wa l d o ŋ
+2220	오이	oi	o i
+2221	등록	tɯŋnok	t ɯ ŋ n o k
+2222	학문	hɑŋmun	h ɑ ŋ m u n
+2223	간호사	kɑnhosɑ	k ɑ n h o s ɑ
+2224	무기	muɡi	m u ɡ i
+2225	수감자	suɡɑmdʑɑ	s u ɡ ɑ m dʑ ɑ
+2226	자동차	tɕɑdoŋtɕʰɑ	tɕ ɑ d o ŋ tɕʰ ɑ
+2227	가뭄	kɑmum	k ɑ m u m
+2228	난로	nɑllo	n ɑ l l o
+2229	병원	pjʌŋwʌn	p jʌ ŋ wʌ n
+2230	집단	tɕipt*ɑn	tɕ i p t* ɑ n
+2231	심리학	simnihɑk	s i m n i h ɑ k
+2232	라켓	lɑkʰɛt	l ɑ kʰ ɛ t
+2233	알콜	ɑlkʰol	ɑ l kʰ o l
+2234	무덤	mudʌm	m u d ʌ m
+2235	비서	pisʌ	p i s ʌ
+2236	퍼센트	pʰʌsɛntʰɯ	pʰ ʌ s ɛ n tʰ ɯ
+2237	권투	kwʌntʰu	k wʌ n tʰ u
+2238	먹다	mʌkt*ɑ	m ʌ k t* ɑ
+2239	보석	posʌk	p o s ʌ k
+2240	조합	tɕohɑp	tɕ o h ɑ p
+2241	현금	hjʌnɡɯm	h jʌ n ɡ ɯ m
+2242	서명	sʌmjʌŋ	s ʌ m jʌ ŋ
+2243	군대	kundɛ	k u n d ɛ
+2244	재즈	tɕɛdʑɯ	tɕ ɛ dʑ ɯ
+2245	계절	kjɛdʑʌl	k jɛ dʑ ʌ l
+2246	재고품	tɕɛɡopʰum	tɕ ɛ ɡ o pʰ u m
+2247	뇌졸중	nwɛdʑoldʑuŋ	n wɛ dʑ o l dʑ u ŋ
+2248	마라톤	mɑlɑtʰon	m ɑ l ɑ tʰ o n
+2249	중도	tɕuŋdo	tɕ u ŋ d o
+2250	음악	ɯmɑk	ɯ m ɑ k
+2251	석유수출기구	sʌɡjusutɕʰulɡiɡu	s ʌ ɡ ju s u tɕʰ u l ɡ i ɡ u
+2252	야구	jaɡu	ja ɡ u
+2253	진	tɕin	tɕ i n
+2254	침대	tɕʰimdɛ	tɕʰ i m d ɛ
+2255	관찰	kwantɕʰɑl	k wa n tɕʰ ɑ l
+2256	국정원	kuktɕ*ʌŋwʌn	k u k tɕ* ʌ ŋ wʌ n
+2257	왕	waŋ	wa ŋ
+2258	전시회	tɕʌnsihwɛ	tɕ ʌ n s i h wɛ
+2259	와인	wain	wa i n
+2260	남자	nɑmdʑɑ	n ɑ m dʑ ɑ
+2261	장소	tɕɑŋso	tɕ ɑ ŋ s o
+2262	숙박	sukp*ɑk	s u k p* ɑ k
+2263	생산	sɛŋsɑn	s ɛ ŋ s ɑ n
+2264	시작하다	sidʑɑkʰɑdɑ	s i dʑ ɑ kʰ ɑ d ɑ
+2265	인구	inɡu	i n ɡ u
+2266	비밀	pimil	p i m i l
+2267	동물원	toŋmulwʌn	t o ŋ m u l wʌ n
+2268	연속극	jʌnsokk*ɯk	jʌ n s o k k* ɯ k
+2269	보름달	polɯmdɑl	p o l ɯ m d ɑ l
+2270	평등	pʰjʌŋdɯŋ	pʰ jʌ ŋ d ɯ ŋ
+2271	숲	sup	s u p
+2272	옷	ot	o t
+2273	백	pɛk	p ɛ k
+2274	식기	sikk*i	s i k k* i
+2275	농구	noŋɡu	n o ŋ ɡ u
+2276	과학	kwahɑk	k wa h ɑ k
+2277	동물	toŋmul	t o ŋ m u l
+2278	정오	tɕʌŋo	tɕ ʌ ŋ o
+2279	달러	tɑllʌ	t ɑ l l ʌ
+2280	승무원	sɯŋmuwʌn	s ɯ ŋ m u wʌ n
+2281	티켓	tʰikʰɛt	tʰ i kʰ ɛ t
+2282	해산물	hɛsɑnmul	h ɛ s ɑ n m u l
+2283	여름	jʌlɯm	jʌ l ɯ m
+2284	예루살렘	jɛlusɑllɛm	jɛ l u s ɑ l l ɛ m
+2285	장군	tɕɑŋɡun	tɕ ɑ ŋ ɡ u n
+2286	태풍	tʰɛpʰuŋ	tʰ ɛ pʰ u ŋ
+2287	이익	iik	i i k
+2288	영화	jʌŋhwa	jʌ ŋ h wa
+2289	마음	mɑɯm	m ɑ ɯ m
+2290	휴대	hjudɛ	h ju d ɛ
+2291	장비	tɕɑŋbi	tɕ ɑ ŋ b i
+2292	태도	tʰɛdo	tʰ ɛ d o
+2293	유형	juhjʌŋ	ju h jʌ ŋ
+2294	산림	sɑllim	s ɑ l l i m
+2295	지역	tɕijʌk	tɕ i jʌ k
+2296	정부	tɕʌŋbu	tɕ ʌ ŋ b u
+2297	환경	hwanɡjʌŋ	h wa n ɡ jʌ ŋ
+2298	안중근	ɑndʑuŋɡɯn	ɑ n dʑ u ŋ ɡ ɯ n
+2299	전화	tɕʌnhwa	tɕ ʌ n h wa
+2300	의사	ɰisɑ	ɰi s ɑ
+2301	삶	sɑm	s ɑ m
+2302	인프라	inpʰɯlɑ	i n pʰ ɯ l ɑ
+2303	음식	ɯmsik	ɯ m s i k
+2304	소득	sodɯk	s o d ɯ k
+2305	멕시코	mɛks*ikʰo	m ɛ k s* i kʰ o
+2306	대로	tɛlo	t ɛ l o
+2307	언쟁	ʌndʑɛŋ	ʌ n dʑ ɛ ŋ
+2308	저장장치	tɕʌdʑɑŋdʑɑŋtɕʰi	tɕ ʌ dʑ ɑ ŋ dʑ ɑ ŋ tɕʰ i
+2309	드라마	tɯlɑmɑ	t ɯ l ɑ m ɑ
+2310	연습	jʌnsɯp	jʌ n s ɯ p
+2311	생태학	sɛŋtʰɛhɑk	s ɛ ŋ tʰ ɛ h ɑ k
+2312	치료	tɕʰiljo	tɕʰ i l jo
+2313	유기체	juɡitɕʰɛ	ju ɡ i tɕʰ ɛ
+2314	액체	ɛktɕʰɛ	ɛ k tɕʰ ɛ
+2315	종이	tɕoŋi	tɕ o ŋ i
+2316	이득	idɯk	i d ɯ k
+2317	두각	tuɡɑk	t u ɡ ɑ k
+2318	정신병원	tɕʌŋsinbjʌŋwʌn	tɕ ʌ ŋ s i n b jʌ ŋ wʌ n
+2319	방향	pɑŋhjaŋ	p ɑ ŋ h ja ŋ
+2320	새	sɛ	s ɛ
+2321	재산	tɕɛsɑn	tɕ ɛ s ɑ n
+2322	책임	tɕʰɛɡim	tɕʰ ɛ ɡ i m
+2323	불안	pulɑn	p u l ɑ n
+2324	일곱	ilɡop	i l ɡ o p
+2325	조작	tɕodʑɑk	tɕ o dʑ ɑ k
+2326	정보	tɕʌŋbo	tɕ ʌ ŋ b o
+2327	가축	kɑtɕʰuk	k ɑ tɕʰ u k
+2328	기준	kidʑun	k i dʑ u n
+2329	학교	hɑkk*jo	h ɑ k k* jo
+2330	주교	tɕuɡjo	tɕ u ɡ jo
+2331	사람들	sɑlɑmdɯl	s ɑ l ɑ m d ɯ l
+2332	이슈	isju	i s ju
+2333	누수	nusu	n u s u
+2334	발표	pɑlpʰjo	p ɑ l pʰ jo
+2335	과실치사	kwasiltɕʰisɑ	k wa s i l tɕʰ i s ɑ
+2336	물체	multɕʰɛ	m u l tɕʰ ɛ
+2337	보존	podʑon	p o dʑ o n
+2338	경고	kjʌŋɡo	k jʌ ŋ ɡ o
+2339	결혼	kjʌlhon	k jʌ l h o n
+2340	텔레비전	tʰɛllɛbidʑʌn	tʰ ɛ l l ɛ b i dʑ ʌ n
+2341	원석	wʌnsʌk	wʌ n s ʌ k
+2342	소유물	sojumul	s o ju m u l
+2343	해변	hɛbjʌn	h ɛ b jʌ n
+2344	애인	ɛin	ɛ i n
+2345	중요성	tɕuŋjosʌŋ	tɕ u ŋ jo s ʌ ŋ
+2346	고려대	koljʌdɛ	k o l jʌ d ɛ
+2347	보관소	poɡwanso	p o ɡ wa n s o
+2348	배추	pɛtɕʰu	p ɛ tɕʰ u
+2349	전화기	tɕʌnhwaɡi	tɕ ʌ n h wa ɡ i
+2350	지표	tɕipʰjo	tɕ i pʰ jo
+2351	미소	miso	m i s o
+2352	싸움	s*ɑum	s* ɑ u m
+2353	약물	jaŋmul	ja ŋ m u l
+2354	영화관	jʌŋhwaɡwan	jʌ ŋ h wa ɡ wa n
+2355	정당	tɕʌŋdɑŋ	tɕ ʌ ŋ d ɑ ŋ
+2356	이스라엘	isɯlɑɛl	i s ɯ l ɑ ɛ l
+2357	빵	p*ɑŋ	p* ɑ ŋ
+2358	인종주의	indʑoŋdʑuɰi	i n dʑ o ŋ dʑ u ɰi
+2359	예보	jɛbo	jɛ b o
+2360	줄	tɕul	tɕ u l
+2361	테니스	tʰɛnisɯ	tʰ ɛ n i s ɯ
