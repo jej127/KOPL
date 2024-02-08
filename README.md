@@ -14,9 +14,9 @@ python extract_vocab.py
 python ./ipa_convert/create_ipa.py
 ```
 ## Pre-train Phoneme (and Word) Representations with KOPS
-Run the following code to train LOVE + KOPS.
-If you want to train Korean version of LOVE instead, run the code after omitting '-use_ipa'.
+Run the following code to train LOVE+KOPS.
+If you want to train the Korean version of LOVE instead, run the code after omitting '-use_ipa'.
 ```
-# Train LOVE + KOPS
+# Train LOVE+KOPS
 bash run_kops.sh
 ```
