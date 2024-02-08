@@ -7,6 +7,18 @@ from torch.utils.data import DataLoader
 from utils import load_predict_dataset, TextData, collate_fn_predict_, add_tokens, load_ipa
 from transformers import AutoTokenizer
 
+rare_words = ['이복누이', '마키아밸리', '미얀아', '간자미', '풀치', '능소니', '꺼병이', '장사니', '학배기', '초고리', '발강이', '꽝다리', '개호주', '시허연', 
+              '허여스름한', '꺼무스름한', '개굴', '개미굴', '영국령과', '미국산은', '항산화제와', '부대찌개로', '신경과를', '마이클잭슨이', '신경과가', '행정고시와', 
+              '오소리가', '국악과는', '자갈치로', '마이클잭슨을', '동서양은', '이스라엘으로', '새으로', '신경과와', '양상추가', '자갈치를', '제트스키는', 
+              '대추나무와', '중환자실으로', '티머니로', '자갈치와', '신경과로', '영국령을', '카페인으로', '알코올으로', '스크린샷으로', '과일으로', '가발으로', 
+              '국민대와', '원석과', '스크린샷과', '팝콘으로', '연속극과', '마이클잭슨은', '영국령은', '까마귀로', '이불으로', '수도승으로', '아이비리그는', 
+              '정오는', '국민대를', '마라도나로', '키즈까페', '키즈까페를', '동서양과', '행정고시가', '새이', '국악과로', '홈런포와', '뉴발란스를', '부대찌개가', 
+              '달걀으로', '새과', '렌트카와', '마이클잭슨으로', '자갈치가', '아이비리그가', '아이비리그를', '동서양으로', '제트스키가', '렌트카가', '국민대로', 
+              '쌍용차로', '상도가', '새은', '재규어로', '국악과가', '아이비리그와', '아이비리그로', '수도승은', '뉴발란스로', '오소리로', '키즈까페로', '박진영으로', 
+              '한국말으로', '단축키와', '올레길으로', '홈런포는', '마이클잭슨과', '수도승을', '항산화제는', '자갈치는', '제트스키로', '상도는', '혈액형으로', 
+              '단축키가', '물리로', '양상추로', '나물으로', '결승점과', '제트스키와', '벽시계와', '키즈까페와', '수도승과', '테이블으로', '렌트카는', '스크린샷은', 
+              '국악과와', '겨울철으로', '국민대가', '새을', '렌트카로', '키즈까페가', '대추나무로', '벽시계로', '행정고시는', '키즈까페는', '도착해요', '소환됩니다', 
+              '소환됐습니다', '향합니다', '뜯지만', '놓음', '뜯음', '인정함', '배우셨다', '이끄시고', '주무셨다']
 
 def produce(args, model_path, tokenizer, batch_size=32, vocab_path='data/word_sim/evaluate_words.txt', ipa_path="data/word_sim_kor/evaluate_ipas.txt"):
     dataset = load_predict_dataset(path=vocab_path)
@@ -50,6 +62,8 @@ def analogy(embeddings):
     distance = 0
     category = "sem1_capital-conturies"
     score_list = []
+    distance_oov = 0
+    len_oov = 0
     with open("data/word_sim_kor/word_analogy_korean.txt", "r") as g:
         for line in g.readlines():
             try:
@@ -62,6 +76,9 @@ def analogy(embeddings):
                 score = 1 - similarity(-a_vec + b_vec + c_vec, d_vec)
 
                 distance += score
+                if sum([int(w in rare_words) for w in [a,b,c,d]]) > 1:
+                    distance_oov += score
+                    len_oov += 1
             except:
                 if distance > 0:
                     print(f"{category} -> {distance / 1000}")
@@ -71,8 +88,9 @@ def analogy(embeddings):
                     category = line.split()[1]
 
     print(f"{category} -> {distance / 1000}")
-    #score_list.append(f"{category} -> {distance / 1000}")
+    print(f"OOV -> {distance_oov / len_oov}")
     score_list.append("{:.4f}".format(distance / 1000))
+    score_list.append("{:.4f}".format(distance_oov / len_oov))
     return score_list
 
 
@@ -115,11 +133,5 @@ if __name__ == '__main__':
     args.vocab_size = vocab_size
     args.ipa_vocab_size = len(ipa_set) + 4
     print(args)
-    #results = overall(args, model_path='./output/k_love3/model_7_111.pt', tokenizer=TOKENIZER)
-    #results = overall(args, model_path='./output/k_love4/model_3_222_0.2.pt', tokenizer=TOKENIZER)
-    #results = overall(args, model_path='./output/k_love4/model_9_102_0.1.pt', tokenizer=TOKENIZER)
-    results = overall(args, model_path='./output/k_love2/model_7_122.pt', tokenizer=TOKENIZER)
-    #results = overall(args, model_path='./output/k_love/model_7_222.pt', tokenizer=TOKENIZER)
-    #results = overall(args, model_path='./output/k_love/model_7_444.pt', tokenizer=TOKENIZER)
-    #results = overall(args, model_path='./output/k_love2_bts/model_8_122_0.098839020547.pt', tokenizer=TOKENIZER)
+    results = overall(args, model_path='./output/kops/model_7_122.pt', tokenizer=TOKENIZER)
     for s in results: print(s)
