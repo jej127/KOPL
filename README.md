@@ -46,8 +46,21 @@ OOV -> 0.4136377977312001
 ## Evaluate our model on Extrinsic Tasks
 We evaluate our model on the KLUE-TC dataset which you can download here.   
 Place all the files in the directory KOPS/extrinsic/klue-tc/data/.   
-Then, run the following code to generate necessary word embeddings, train the model, and evaluate it.
+Then, run the following code to create IPA sequences, generate word embeddings, train the model, and evaluate it.
 ```
+# Create IPA sequences
+python ./ipa_convert/create_ipa_ex.py
+
 # Evaluate on intrinsic tasks
 bash run_klue_tc_ours.sh
+```
+The expected result would be
+```
+(Metric: Macro F1)
+Test( 0%): 77.9
+Test(10%): 75.9
+Test(30%): 72.5
+Test(50%): 67.9
+Test(70%): 61.9
+Test(90%): 54.3
 ```
