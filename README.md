@@ -42,3 +42,12 @@ syn4_form -> 0.23059532799605992
 syn5_honorific -> 0.28659905272277925
 OOV -> 0.4136377977312001
 ```
+
+## Evaluate our model on Extrinsic Tasks
+We evaluate our model on the KLUE-TC dataset which you can download here.
+Place all the files in the directory KOPS/extrinsic/klue-tc/data/.
+Then, run the following code to generate necessary word embeddings, train the model, and evaluate it.
+```
+# Evaluate on intrinsic tasks
+bash run_klue_tc_ours.sh
+```
