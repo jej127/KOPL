@@ -57,10 +57,5 @@ bash run_klue_tc_ours.sh
 The expected result would be
 ```
 (Metric: Macro F1)
-Test( 0%): 77.9
-Test(10%): 75.9
-Test(30%): 72.5
-Test(50%): 67.9
-Test(70%): 61.9
-Test(90%): 54.3
+Test(OOV ratio 0/10/30/50/70/90%): 77.9/75.9/72.5/67.9/61.9/54.3
 ```
