@@ -3,8 +3,8 @@ n=1
 ex_ipa_path=words/ipas_klue_tc.txt
 ex_emb_path=/mnt/oov/klue_tc/love_kor_jm.emb
 ex_emb_path_ipa=/mnt/oov/klue_tc/love_kor_ipa.emb
-output_path=extrinsic/klue-tc/output/f1
-task=klue-tc
+output_path=extrinsic/klue_tc/output/f1
+task=klue_tc
 att_head_num=2
 encoder_layer=2
 

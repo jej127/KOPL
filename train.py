@@ -49,7 +49,7 @@ parser.add_argument("-lamda", help="Used in interpolation", type=float, default=
 parser.add_argument("-random_search", help="Whether to run random hyperparameter searching", action='store_true')
 parser.add_argument("-ex_model_path", help="the path to save models", type=str, default=None)
 parser.add_argument("-ex_ipa_path", help="the path to save ipas", type=str, default=None)
-parser.add_argument("-ex_task", help="extrinsic task", type=str, default='nsmc', choices=['nsmc','klue-tc','klue-re','klue-dp','klue-ner','naver_ner'])
+parser.add_argument("-ex_task", help="extrinsic task", type=str, default='nsmc', choices=['nsmc','klue_tc','klue_re','klue_dp','klue_ner','naver_ner'])
 parser.add_argument("-ex_emb_path", help="the path to save embeddings", type=str, default=None)
                         
 
