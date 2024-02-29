@@ -9,7 +9,7 @@ att_head_num=2
 encoder_layer=2
 
 input_type=mixed
-ex_model_path=output/k_love2/model_7_122.pt
+ex_model_path=output/kops/model_7_122.pt
 
 #lamda=0.098839020547
 lamda=0.10
