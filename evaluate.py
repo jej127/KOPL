@@ -134,4 +134,5 @@ if __name__ == '__main__':
     args.ipa_vocab_size = len(ipa_set) + 4
     print(args)
     results = overall(args, model_path='./output/kops/model_7_122.pt', tokenizer=TOKENIZER)
+    #results = overall(args, model_path='./output/love/model_7_444.pt', tokenizer=TOKENIZER)
     for s in results: print(s)
