@@ -57,7 +57,7 @@ Then, run the following code to create IPA sequences, generate word embeddings, 
 # Create IPA sequences
 python ./ipa_convert/create_ipa_ex.py
 
-# Evaluate on intrinsic tasks
+# Evaluate on extrinsic tasks
 bash run_klue_tc_ours.sh
 ```
 The expected result would be
@@ -67,6 +67,6 @@ Test(OOV ratio 0/10/30/50/70/90%): 77.9/75.9/72.5/67.9/61.9/54.3
 ```
 If you want to reproduce the results of the baseline, download the checkpoint above and run the following code.
 ```
-# Evaluate on intrinsic tasks
+# Evaluate on extrinsic tasks (baseline)
 bash run_klue_tc_base.sh
 ```
