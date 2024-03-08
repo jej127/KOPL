@@ -42,6 +42,12 @@ syn4_form -> 0.23059532799605992
 syn5_honorific -> 0.28659905272277925
 OOV -> 0.4136377977312001
 ```
+If you want to reproduce the results of the baseline (i.e., Korean version of LOVE), download the checkpoint [here](https://drive.google.com/file/d/1NxOciUmF8o4XI5mbpwG63LW9oISinPhf/view?usp=drive_link) and run the following code.
+You would need to change the 'model_path' argument of the function 'overall' included in the python code evaluate.py.
+```
+# Evaluate on intrinsic tasks (baseline)
+python evaluate.py -model_type self_attention_2 -input_type mixed
+```
 
 ## Evaluate our model on Extrinsic Tasks
 We evaluate our model on the KLUE-TC dataset which you can download [here](https://drive.google.com/file/d/1ByKuIzErDG4jPhfOucWUqBLSSuQxk2Zd/view?usp=sharing).   
@@ -58,4 +64,9 @@ The expected result would be
 ```
 (Metric: Macro F1)
 Test(OOV ratio 0/10/30/50/70/90%): 77.9/75.9/72.5/67.9/61.9/54.3
+```
+If you want to reproduce the results of the baseline, download the checkpoint above and run the following code.
+```
+# Evaluate on intrinsic tasks
+bash run_klue_tc_base.sh
 ```
