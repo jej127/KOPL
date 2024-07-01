@@ -63,7 +63,7 @@ bash run_klue_tc_ours.sh
 ```
 The expected result would be
 ```
-(Metric: Macro F1)
+(Metric: F1/F1/Acc./LAS/F1)
 Test(OOV/ALL)
 KOLD:     76.5/77.0
 YNAT:     76.1/77.9
