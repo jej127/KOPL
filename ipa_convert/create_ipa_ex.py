@@ -12,7 +12,7 @@ ipa_list = ['tɕ', 'u','ju', 'o', 'ɛ', 'ɑ','jo','p*', 'h', 'l', 'ɯ', 'kʰ','i
 
 if __name__ == '__main__':
     # Create IPAs for fine-tuning downstream models
-    task = 'klue_tc'
+    task = 'klue_tc' # Choose one of 'kold','klue_tc','nsmc','klue_dp','klue_ner'
     vocab_path = f'./extrinsic/{task}/data/words.txt'
 
     words = []
