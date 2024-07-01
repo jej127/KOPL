@@ -19,16 +19,17 @@ parser.add_argument('--cnn_kernel_size', type=list, default=[3,4,5])
 parser.add_argument('--dropout', type=float, default=0.5)
 parser.add_argument('--pretrain_embed_path', default='/mnt/oov/klue_tc/love_kor_jm.emb')
 parser.add_argument('--pretrain_embed_path_ipa', default='/mnt/oov/klue_tc/love_kor_ipa.emb')
-parser.add_argument('--output_path', default='extrinsic/klue_tc/output')
+parser.add_argument('--output_path', default='extrinsic/klue-tc/output')
 parser.add_argument('--batch_size', type=int, default=50)
 parser.add_argument('--epochs', type=int, default=10)
 parser.add_argument('--lr', type=float, default=1e-3)
 parser.add_argument('--lamda', type=float, default=0.098839020547)
 parser.add_argument('--c', type=float, default=[1/3,1/3,1/3], nargs=3)
-parser.add_argument('--vocab_path', default='extrinsic/klue_tc/data/words.txt')
-parser.add_argument('--train_path', default='extrinsic/klue_tc/data/ynat-v1.1_split_train.json')
-parser.add_argument('--dev_path', default='extrinsic/klue_tc/data/ynat-v1.1_split_val.json')
-parser.add_argument('--test_path', default='extrinsic/klue_tc/data/ynat-v1.1_dev.json')
+parser.add_argument('--c_t', type=float, default=[1.0,1.0,1.0], nargs=3)
+parser.add_argument('--vocab_path', default='extrinsic/klue-tc/data/words.txt')
+parser.add_argument('--train_path', default='extrinsic/klue-tc/data/ynat-v1.1_split_train.json')
+parser.add_argument('--dev_path', default='extrinsic/klue-tc/data/ynat-v1.1_split_val.json')
+parser.add_argument('--test_path', default='extrinsic/klue-tc/data/ynat-v1.1_dev.json')
 parser.add_argument('--seed', type=int, default=42)
 parser.add_argument('--num_class', type=int, default=7)
 parser.add_argument('--postfix', type=str, default='')
@@ -111,12 +112,13 @@ def train(model, iterator, optimizer, criterion, device, c):
 
         predictions, predictions_ipa, predictions_mixup = model(words)
 
-        #loss = criterion(predictions_mixup, labels)
+        #loss = criterion(predictions_ipa, labels)
         #loss = criterion(predictions_ipa, labels) + criterion(predictions, labels)
         #loss = criterion(predictions_ipa, labels) + criterion(predictions_mixup, labels)
         #loss = criterion(predictions_mixup, labels) + criterion(predictions, labels)
-        loss = criterion(predictions_mixup, labels) + criterion(predictions_ipa, labels) + criterion(predictions, labels)
+        loss = c[0]*criterion(predictions_mixup, labels) + c[1]*criterion(predictions_ipa, labels) + c[2]*criterion(predictions, labels)
 
+        #predictions_all = predictions_ipa
         predictions_all = c[0]*predictions_mixup + c[1]*predictions_ipa + c[2]*predictions
         all_preds.append(torch.max(predictions_all, dim=-1).indices.detach().cpu().numpy())
         all_labels.append(labels.detach().cpu().numpy())
@@ -145,12 +147,13 @@ def evaluate(model, iterator, criterion, device, c):
 
             predictions, predictions_ipa, predictions_mixup = model(words)
 
-            #loss = criterion(predictions_mixup, labels)
+            #loss = criterion(predictions_ipa, labels)
             #loss = criterion(predictions_ipa, labels) + criterion(predictions, labels)
             #loss = criterion(predictions_ipa, labels) + criterion(predictions_mixup, labels)
             #loss = criterion(predictions_mixup, labels) + criterion(predictions, labels)
             loss = criterion(predictions_mixup, labels) + criterion(predictions_ipa, labels) + criterion(predictions, labels)
 
+            #predictions_all = predictions_ipa
             predictions_all = c[0]*predictions_mixup + c[1]*predictions_ipa + c[2]*predictions
             all_preds.append(torch.max(predictions_all, dim=-1).indices.detach().cpu().numpy())
             all_labels.append(labels.detach().cpu().numpy())
@@ -362,12 +365,8 @@ def run_klue_tc(args):
     dev_data = load_sent_by_id(args.dev_path, word_dict)
     test_data = load_sent_by_id(args.test_path, word_dict)
 
-    test_data_10 = load_sent_by_id('./extrinsic/klue_tc/data/ynat-v1.1_dev_10.json', word_dict)
-    test_data_30 = load_sent_by_id('./extrinsic/klue_tc/data/ynat-v1.1_dev_30.json', word_dict)
-    test_data_50 = load_sent_by_id('./extrinsic/klue_tc/data/ynat-v1.1_dev_50.json', word_dict)
-    test_data_70 = load_sent_by_id('./extrinsic/klue_tc/data/ynat-v1.1_dev_70.json', word_dict)
-    test_data_90 = load_sent_by_id('./extrinsic/klue_tc/data/ynat-v1.1_dev_90.json', word_dict)
-    test_data_pool = [test_data_10, test_data_30, test_data_50, test_data_70, test_data_90]
+    test_data_30_nat = load_sent_by_id('./extrinsic/klue-tc/data/ynat-v1.1_dev_natural_30.json', word_dict)
+    test_data_pool = [test_data_30_nat]
 
     train_data = TextData(train_data)
     dev_data = TextData(dev_data)
@@ -389,7 +388,7 @@ def run_klue_tc(args):
     print('epoch = {a}'.format(a=args.epochs))
     for e in range(args.epochs):
         start_time = time.time()
-        train_loss, train_f1 = train(model, train_iterator, optimizer, criterion, device, args.c)
+        train_loss, train_f1 = train(model, train_iterator, optimizer, criterion, device, args.c_t)
         valid_loss, valid_f1 = evaluate(model, dev_iterator, criterion, device, args.c)
 
         end_time = time.time()
@@ -416,7 +415,7 @@ def predict(args, model, test_iterator, test_iterator_oov, criterion, device, mo
     print(f'\tTest Loss: {test_loss:.3f} | Test F1: {test_f1 * 100:.2f}%')
     print('\t-------------------------------------------------------------')
 
-    ratios = ['10%','30%','50%','70%','90%']
+    ratios = ['30%_']
     f1_list = [test_f1]
     print('\t------------------------------------------------------------------------')
     for ratio, iterator in zip(ratios, test_iterator_oov):
