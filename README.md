@@ -59,7 +59,7 @@ Then, run the following code to create IPA sequences, generate word embeddings, 
 python ./ipa_convert/create_ipa_ex.py
 
 # Evaluate on extrinsic tasks
-bash run_klue_tc_ours.sh
+bash run_ours.sh
 ```
 The expected result would be
 ```
