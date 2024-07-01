@@ -74,5 +74,5 @@ KLUE-NER: 83.8/84.4
 If you want to reproduce the results of the baseline, download the checkpoint above and run the following code.
 ```
 # Evaluate on extrinsic tasks (baseline)
-bash run_klue_tc_base.sh
+bash run_base.sh
 ```
