@@ -64,7 +64,12 @@ bash run_klue_tc_ours.sh
 The expected result would be
 ```
 (Metric: Macro F1)
-Test(OOV ratio 0/10/30/50/70/90%): 77.9/75.9/72.5/67.9/61.9/54.3
+Test(OOV/ALL)
+KOLD:     76.5/77.0
+YNAT:     76.1/77.9
+NSMC:     79.8/83.7
+KLUE-DP:  82.9/84.2
+KLUE-NER: 83.8/84.4
 ```
 If you want to reproduce the results of the baseline, download the checkpoint above and run the following code.
 ```
