@@ -50,9 +50,9 @@ python evaluate.py -model_type self_attention_2 -input_type mixed
 ```
 
 ## Evaluate our model on Extrinsic Tasks
-We evaluate our model on the [KOLD](https://drive.google.com/file/d/19E4P9lowDxtMSuZfVyBJt57EGpMNo0jC/view?usp=drive_link)/[YNAT](https://drive.google.com/file/d/1TWNHq0m8N1lT2FAKxiZfnmiWZO8TJ5He/view?usp=drive_link)/[NSMC](https://drive.google.com/file/d/1ZISBwfa5d3KyuCaetFyFqhAEusTO-jGB/view?usp=sharing) datasets.
+We evaluate our model on the [KOLD](https://drive.google.com/file/d/19E4P9lowDxtMSuZfVyBJt57EGpMNo0jC/view?usp=drive_link)/[YNAT](https://drive.google.com/file/d/1TWNHq0m8N1lT2FAKxiZfnmiWZO8TJ5He/view?usp=drive_link)/[NSMC](https://drive.google.com/file/d/1ZISBwfa5d3KyuCaetFyFqhAEusTO-jGB/view?usp=sharing)/[KLUE-DP](https://drive.google.com/file/d/1QBmlKQms0J5fldbd_HB8HQvUy9muvBqp/view?usp=sharing)/[KLUE-NER](https://drive.google.com/file/d/1Apfcqy-wTMEwOKsA0IL1c3KfObz6cF9J/view?usp=sharing) datasets.
 
-Place all the files in the directory KOPS/extrinsic/{kold,klue_tc}/data/.   
+Place all the files in the directory KOPS/extrinsic/{kold,klue_tc,nsmc,klue_dp,klue_ner}/data/.   
 Then, run the following code to create IPA sequences, generate word embeddings, train the model, and evaluate it.
 ```
 # Create IPA sequences
