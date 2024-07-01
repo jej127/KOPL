@@ -50,9 +50,7 @@ python evaluate.py -model_type self_attention_2 -input_type mixed
 ```
 
 ## Evaluate our model on Extrinsic Tasks
-We evaluate our model on the KLUE-TC dataset which you can download [here](https://drive.google.com/file/d/1ByKuIzErDG4jPhfOucWUqBLSSuQxk2Zd/view?usp=sharing).
-
-We evaluate our model on the [KOLD](https://drive.google.com/file/d/19E4P9lowDxtMSuZfVyBJt57EGpMNo0jC/view?usp=drive_link) datasets.
+We evaluate our model on the [KOLD](https://drive.google.com/file/d/19E4P9lowDxtMSuZfVyBJt57EGpMNo0jC/view?usp=drive_link)/[YNAT](https://drive.google.com/file/d/1nk0Bg9Q4w6JW2rbxr1TDuanBlyKkprDy/view?usp=drive_link) datasets.
 
 Place all the files in the directory KOPS/extrinsic/{kold,klue_tc}/data/.   
 Then, run the following code to create IPA sequences, generate word embeddings, train the model, and evaluate it.
