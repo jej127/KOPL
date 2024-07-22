@@ -64,7 +64,7 @@ CUDA_VISIBLE_DEVICES=$n python extrinsic/nsmc/main_ours.py --seed 66 --output_pa
 ex_ipa_path=words/ipas_klue_dp.txt
 ex_emb_path=./embeddings/klue_dp/love_kor.emb
 ex_emb_path_ipa=./embeddings/klue_dp/love_kor_ipa.emb
-output_path=extrinsic/klue-dp/output/f2
+output_path=extrinsic/klue_dp/output/f2
 task=klue_dp
 
 python generate_emb.py -input_type $input_type -lamda 1.0 -att_head_num $att_head_num -encoder_layer $encoder_layer -ex_model_path $ex_model_path -ex_ipa_path $ex_ipa_path -ex_emb_path $ex_emb_path_ipa -ex_task ${task} -use_ipa
