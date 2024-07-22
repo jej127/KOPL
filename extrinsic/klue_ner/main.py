@@ -24,16 +24,16 @@ parser.add_argument('--word_embed_dim', type=int, default=300)
 parser.add_argument('--word_hidden_dim', type=int, default=300)
 parser.add_argument('--num_layers', type=int, default=2)
 parser.add_argument('--dropout', type=float, default=0.33)
-parser.add_argument('--pretrain_embed_path', default='/mnt/oov/klue-ner/love_kor.emb')
-parser.add_argument('--output_path', default='./extrinsic/klue-ner/output/')
+parser.add_argument('--pretrain_embed_path', default='/mnt/oov/klue_ner/love_kor.emb')
+parser.add_argument('--output_path', default='./extrinsic/klue_ner/output/')
 parser.add_argument('--batch_size', type=int, default=256)
 parser.add_argument('--epochs', type=int, default=50)
 parser.add_argument('--optimizer', default='sgd')
 parser.add_argument('--lr', type=float, default=0.003)
 parser.add_argument('--feature_extractor', choices=['lstm', 'cnn', 'linear'], default='lstm')
-parser.add_argument('--train_path', default='./extrinsic/klue-ner/data/train_split.txt')
-parser.add_argument('--dev_path', default='./extrinsic/klue-ner/data/dev_split.txt')
-parser.add_argument('--test_path', default='./extrinsic/klue-ner/data/test_split.txt')
+parser.add_argument('--train_path', default='./extrinsic/klue_ner/data/train_split.txt')
+parser.add_argument('--dev_path', default='./extrinsic/klue_ner/data/dev_split.txt')
+parser.add_argument('--test_path', default='./extrinsic/klue_ner/data/test_split.txt')
 parser.add_argument('--patience', type=int, default=10)
 parser.add_argument('--number_normalized', type=bool, default=False)
 parser.add_argument('--use_crf', type=bool, default=True)
@@ -51,7 +51,7 @@ def single_run(args, word_vocab, pretrain_word_embedding):
     if not os.path.exists(args.output_path):
         os.makedirs(args.output_path)
 
-    eval_path = "./extrinsic/klue-ner/evaluation"
+    eval_path = "./extrinsic/klue_ner/evaluation"
     eval_temp = os.path.join(eval_path, "temp")
     eval_script = os.path.join(eval_path, "conlleval")
 
@@ -77,7 +77,7 @@ def single_run(args, word_vocab, pretrain_word_embedding):
     train_dataset = MyDataset_woChar(args.train_path, word_vocab, label_vocab, args.number_normalized)
     dev_dataset = MyDataset_woChar(args.dev_path, word_vocab, label_vocab, args.number_normalized)
     test_paths = [args.test_path]
-    test_paths += [f"./extrinsic/klue-ner/data/test_split_natural_{r}.txt" for r in [30]]
+    test_paths += [f"./extrinsic/klue_ner/data/test_split_natural_{r}.txt" for r in [30]]
     test_datasets = [MyDataset_woChar(test_path, word_vocab, label_vocab, args.number_normalized) for test_path in test_paths]
     #test_dataset = MyDataset_woChar(args.test_path, word_vocab, label_vocab, args.number_normalized)
 
