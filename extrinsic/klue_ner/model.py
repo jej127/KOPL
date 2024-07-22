@@ -349,7 +349,7 @@ class NamedEntityRecog_woChar_ours(nn.Module):
 
         if self.use_crf:
             # total_loss = self.crf.neg_log_likelihood_loss(feature_out, mask, batch_label)
-            total_loss = self.crf.neg_log_likelihood_loss(feature_out_ipa, mask, batch_label)
+            # total_loss = self.crf.neg_log_likelihood_loss(feature_out_ipa, mask, batch_label)
             #total_loss = self.crf.neg_log_likelihood_loss(feature_out_mixup, mask, batch_label)
             # total_loss = self.crf.neg_log_likelihood_loss(feature_out_ipa, mask, batch_label) +\
             #              self.crf.neg_log_likelihood_loss(feature_out, mask, batch_label)
@@ -360,9 +360,9 @@ class NamedEntityRecog_woChar_ours(nn.Module):
             # total_loss = self.crf.neg_log_likelihood_loss(feature_out_mixup, mask, batch_label) +\
             #              self.crf.neg_log_likelihood_loss(feature_out_ipa, mask, batch_label) +\
             #              self.crf.neg_log_likelihood_loss(feature_out, mask, batch_label)
-            # total_loss = self.c[0]*self.crf.neg_log_likelihood_loss(feature_out_mixup, mask, batch_label) +\
-            #              self.c[1]*self.crf.neg_log_likelihood_loss(feature_out_ipa, mask, batch_label) +\
-            #              self.c[2]*self.crf.neg_log_likelihood_loss(feature_out, mask, batch_label)
+            total_loss = self.c[0]*self.crf.neg_log_likelihood_loss(feature_out_mixup, mask, batch_label) +\
+                         self.c[1]*self.crf.neg_log_likelihood_loss(feature_out_ipa, mask, batch_label) +\
+                         self.c[2]*self.crf.neg_log_likelihood_loss(feature_out, mask, batch_label)
         else:
             loss_function = nn.CrossEntropyLoss(ignore_index=0, reduction='mean')
             feature_out = feature_out.contiguous().view(batch_size * seq_len, -1)
@@ -390,14 +390,10 @@ class NamedEntityRecog_woChar_ours(nn.Module):
         feature_out_mixup = self.compute_feature_out(mixup_embedding, word_inputs, word_seq_lengths)
 
         if self.use_crf:
-            #w = [0.0,0.4,0.6]
-            #scores, tag_seq = self.crf._viterbi_decode(self.c[0]*feature_out_mixup + self.c[1]*feature_out_ipa + self.c[2]*feature_out, mask)
-            #scores, tag_seq = self.crf._viterbi_decode(w[0]*feature_out_mixup + w[1]*feature_out_ipa + w[2]*feature_out, mask)
-            scores, tag_seq = self.crf._viterbi_decode(feature_out_ipa, mask)
-            #scores, tag_seq = self.crf._viterbi_decode(feature_out_mixup, mask)
+            scores, tag_seq = self.crf._viterbi_decode(self.c[0]*feature_out_mixup + self.c[1]*feature_out_ipa + self.c[2]*feature_out, mask)
         else:
-            #feature_out = (feature_out + feature_out_ipa + feature_out_mixup).contiguous().view(batch_size * seq_len, -1)
-            feature_out = feature_out_ipa.contiguous().view(batch_size * seq_len, -1)
+            feature_out = (feature_out + feature_out_ipa + feature_out_mixup).contiguous().view(batch_size * seq_len, -1)
+            #feature_out = feature_out_ipa.contiguous().view(batch_size * seq_len, -1)
             _, tag_seq = torch.max(feature_out, 1)
             tag_seq = tag_seq.view(batch_size, seq_len)
             tag_seq = mask.long() * tag_seq
