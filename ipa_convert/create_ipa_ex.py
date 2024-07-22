@@ -12,7 +12,7 @@ ipa_list = ['tɕ', 'u','ju', 'o', 'ɛ', 'ɑ','jo','p*', 'h', 'l', 'ɯ', 'kʰ','i
 
 if __name__ == '__main__':
     # Create IPAs for fine-tuning downstream models
-    task = 'klue_tc' # Choose one of 'kold','klue_tc','nsmc','klue_dp','klue_ner'
+    task = 'kold' # Choose one of 'kold','klue_tc','nsmc','klue_dp','klue_ner'
     vocab_path = f'./extrinsic/{task}/data/words.txt'
 
     words = []
@@ -22,7 +22,10 @@ if __name__ == '__main__':
 
     with open(f'./words/ipas_{task}.txt', 'w') as f:
         for i, w in enumerate(tqdm(words)):
-            output, output_sparse = applyRulesToHangul(w, rules="pastcnv")
+            try:
+                output, output_sparse = applyRulesToHangul(w, rules="pastcnv")
+            except ValueError:
+                output, output_sparse = '',[]
             try:
                 assert set(output_sparse).issubset(set(ipa_list))
             except:
