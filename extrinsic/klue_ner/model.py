@@ -357,12 +357,9 @@ class NamedEntityRecog_woChar_ours(nn.Module):
             #              self.crf.neg_log_likelihood_loss(feature_out_ipa, mask, batch_label)
             # total_loss = self.crf.neg_log_likelihood_loss(feature_out_mixup, mask, batch_label) +\
             #              self.crf.neg_log_likelihood_loss(feature_out, mask, batch_label)
-            # total_loss = self.crf.neg_log_likelihood_loss(feature_out_mixup, mask, batch_label) +\
-            #              self.crf.neg_log_likelihood_loss(feature_out_ipa, mask, batch_label) +\
-            #              self.crf.neg_log_likelihood_loss(feature_out, mask, batch_label)
-            total_loss = self.c[0]*self.crf.neg_log_likelihood_loss(feature_out_mixup, mask, batch_label) +\
-                         self.c[1]*self.crf.neg_log_likelihood_loss(feature_out_ipa, mask, batch_label) +\
-                         self.c[2]*self.crf.neg_log_likelihood_loss(feature_out, mask, batch_label)
+            total_loss = self.crf.neg_log_likelihood_loss(feature_out_mixup, mask, batch_label) +\
+                         self.crf.neg_log_likelihood_loss(feature_out_ipa, mask, batch_label) +\
+                         self.crf.neg_log_likelihood_loss(feature_out, mask, batch_label)
         else:
             loss_function = nn.CrossEntropyLoss(ignore_index=0, reduction='mean')
             feature_out = feature_out.contiguous().view(batch_size * seq_len, -1)
