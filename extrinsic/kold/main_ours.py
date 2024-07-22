@@ -111,15 +111,15 @@ def train(model, iterator, optimizer, criterion, device, c):
 
         predictions, predictions_ipa, predictions_mixup = model(words)
 
-        loss = criterion(predictions_ipa, labels)
+        #loss = criterion(predictions_ipa, labels)
         #loss = criterion(predictions_ipa, labels) + criterion(predictions, labels)
         #loss = criterion(predictions_ipa, labels) + criterion(predictions_mixup, labels)
         #loss = criterion(predictions_mixup, labels) + criterion(predictions, labels)
         #loss = c[0]*criterion(predictions_mixup, labels) + c[1]*criterion(predictions_ipa, labels) + c[2]*criterion(predictions, labels)
-        #loss = criterion(predictions_mixup, labels) + criterion(predictions_ipa, labels) + criterion(predictions, labels)
+        loss = criterion(predictions_mixup, labels) + criterion(predictions_ipa, labels) + criterion(predictions, labels)
 
-        predictions_all = predictions_ipa
-        #predictions_all = c[0]*predictions_mixup + c[1]*predictions_ipa + c[2]*predictions
+        #predictions_all = predictions_ipa
+        predictions_all = c[0]*predictions_mixup + c[1]*predictions_ipa + c[2]*predictions
         all_preds.append(torch.max(predictions_all, dim=-1).indices.detach().cpu().numpy())
         all_labels.append(labels.detach().cpu().numpy())
 
@@ -147,14 +147,14 @@ def evaluate(model, iterator, criterion, device, c):
 
             predictions, predictions_ipa, predictions_mixup = model(words)
 
-            loss = criterion(predictions_ipa, labels)
+            #loss = criterion(predictions_ipa, labels)
             #loss = criterion(predictions_ipa, labels) + criterion(predictions, labels)
             #loss = criterion(predictions_ipa, labels) + criterion(predictions_mixup, labels)
             #loss = criterion(predictions_mixup, labels) + criterion(predictions, labels)
-            #loss = criterion(predictions_mixup, labels) + criterion(predictions_ipa, labels) + criterion(predictions, labels)
+            loss = criterion(predictions_mixup, labels) + criterion(predictions_ipa, labels) + criterion(predictions, labels)
 
-            predictions_all = predictions_ipa
-            #predictions_all = c[0]*predictions_mixup + c[1]*predictions_ipa + c[2]*predictions
+            #predictions_all = predictions_ipa
+            predictions_all = c[0]*predictions_mixup + c[1]*predictions_ipa + c[2]*predictions
             all_preds.append(torch.max(predictions_all, dim=-1).indices.detach().cpu().numpy())
             all_labels.append(labels.detach().cpu().numpy())
 
