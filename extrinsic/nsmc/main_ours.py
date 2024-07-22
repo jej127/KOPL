@@ -124,8 +124,8 @@ def train(model, iterator, optimizer, criterion, device, c):
         #loss = criterion(predictions_ipa, labels) + criterion(predictions, labels)
         #loss = criterion(predictions_ipa, labels) + criterion(predictions_mixup, labels)
         #loss = criterion(predictions_mixup, labels) + criterion(predictions, labels)
-        loss = c[0]*criterion(predictions_mixup, labels) + c[1]*criterion(predictions_ipa, labels) + c[2]*criterion(predictions, labels)
-        #loss = criterion(predictions_mixup, labels) + criterion(predictions_ipa, labels) + criterion(predictions, labels)
+        #loss = c[0]*criterion(predictions_mixup, labels) + c[1]*criterion(predictions_ipa, labels) + c[2]*criterion(predictions, labels)
+        loss = criterion(predictions_mixup, labels) + criterion(predictions_ipa, labels) + criterion(predictions, labels)
 
 
         #acc = binary_accuracy(predictions_ipa, labels)
