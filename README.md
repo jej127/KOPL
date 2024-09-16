@@ -14,7 +14,7 @@ python extract_vocab.py
 python ./ipa_convert/create_ipa.py
 ```
 ## Pre-train Phoneme Representations with KOPS
-Run the following code to train LOVE+KOPS.
+Run the following code to train KOPS.
 Alternatively, you can download our checkpoint [here](https://drive.google.com/file/d/1Pyu2oN-Dzdu13K3hbFPhPVuv2CmR13-h/view?usp=sharing).
 ```
 # Train
